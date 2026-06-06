@@ -1,0 +1,426 @@
+form label,
+.form-group label{
+    color: #4d4d4d !important;
+    margin-bottom: 0 !important;
+    font-size: 12px !important;
+}
+
+.mvr{
+    width: 1px !important;
+    padding: 0 !important;
+    color: #939393;
+    height: 535px !important;
+    margin: 0 20px 0 20px;
+}
+
+.filepond--root {
+    width: 94% !important;
+    margin: auto !important;
+    padding: 0 !important;
+}
+
+.control-area{
+    width: 95%;
+    margin: 25px auto;
+    display: flex;
+    justify-content: space-between;
+}
+.control-area>div:first-child{
+    display: flex;
+    margin: auto 0;
+}
+.control-area>div:first-child>span{
+    display: flex;
+    margin: auto;
+}
+.control-area>div:first-child>span>*{
+    margin-right: 15px;
+    cursor: pointer;
+}
+.control-area>div:first-child>*{
+    margin-right: 15px;
+}
+.batch-menu{
+    font-size: 14px !important;
+    color: #333;
+}
+.batch-i1{
+    color: rgb(49, 104, 155) !important;
+}
+.batch-i2{
+    color: rgb(209, 72, 72) !important;
+}
+.batch-i3{
+    color: #c8912d  !important;
+}
+
+
+.products-view{
+    width: 95%;
+    margin: auto !important;
+}
+.product-item{
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 3px;
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.product-item div div:first-child{
+    font-weight: 800;
+}
+.product-item div div:last-child{
+    margin-left: 5px;
+    font-size: 12px;
+}
+.pdiscount{
+
+    font-weight: 500;
+    padding: 1px 7px;
+    background: #d34c4c;
+    color: #fff;
+    box-sizing: border-box;
+    border-radius: 20px;
+    font-size: 12px;
+}
+.product-creation-cover{
+    border-radius: 3px;
+    width: 94% !important;
+    box-shadow: 0px 0px 8px 0px #000;
+    display: flex;
+    padding: 0 !important;
+    overflow: hidden;
+    height: 200px;
+    margin: auto !important;
+}
+.product-creation-cover img{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+/*
+.custom-tab-layout{
+    width: 95%;
+    margin: 25px auto;
+}
+.custom-tab-style{
+    border-bottom: 1px solid #dee2e6 !important;
+}
+.custom-tab-style .nav-item .active{
+    color: #495057 !important;
+    background-color: #fff !important;
+    border-color: #dee2e6 #dee2e6 #fff !important;
+}
+.custom-tab-style .nav-item .nav-link:hover{
+    border-color: #e9ecef #e9ecef #dee2e6 !important;
+}
+*/
+
+
+.type-container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+.type-item{
+    border-radius: 3px;
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+.top-element{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5px;
+}
+.type-controls{
+    margin: auto 0;
+}
+.type-controls a{
+    margin-left: 15px;
+}
+.bottom-element{
+    font-size: 9px;
+}
+.bottom-element span{
+    padding: 3px 6px;
+    border-radius: 3px;
+    margin-right: 5px;
+}
+.type-name{
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+
+
+
+
+.product-type-cards{
+
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: left;
+}
+.type-control-selection{
+
+    width: 97%;
+    margin: auto;
+    display: flex;
+}
+.type-control-selection button{
+    margin-right: 15px;
+}
+.type-control-selection button svg{
+    width: 16px;
+    margin-right: 5px;
+}
+.product-type-card{
+
+    width: 340px;
+    /*! padding: 10px; */
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 0px 0px 2px 0px #c6c6c6;
+    background: #fff;
+    transition: 0.3s;
+    margin: 0px 25px 25px;
+    position: relative;
+}
+.tag-and-period{
+    position: absolute;
+    left: 0;
+    padding: 5px;
+    background: rgba(43, 43, 43, 0.68);
+    color: #fff;
+    border-radius: 3px;
+    top: 0;
+    font-size: 12px;
+    z-index: 98;
+    transition: 0.3s;
+}
+.product-cover{
+
+    height: 190px;
+    border-radius: 3px 3px 0px 0px;
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+.product-info{
+
+    display: flex;
+    flex-direction: column;
+    width: 85%;
+    margin: auto auto 20px auto;
+}
+.meta-info{
+
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5px;
+}
+.pinfo{
+
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 12px;
+    color: #606060;
+    cursor: default;
+}
+.product-cover img{
+
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: 0.3s;
+}
+.product-type-card:hover img{
+    transform: scale(1.10) rotate(3deg);
+}
+.product-type-card:hover .tag-and-period{
+    background: rgba(0, 0, 0, 0.93);
+}
+.product-controls{
+    display: flex;
+    justify-content: space-between;
+}
+.hiden-info{
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.93);
+    border-radius: 3px;
+    padding: 8px 15px;
+    box-sizing: border-box;
+    opacity: 0;
+    transition: 0.3s;
+    z-index: -1;
+}
+.hiden-info .pinfo{
+    color: #ddd;
+    font-size: 12px;
+    display: block;
+}
+.hiden-info .pinfo div:last-child{
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    box-sizing: border-box;
+}
+.hiden-info .pinfo div:last-child span{
+    display: list-item;
+}
+.hiden-info.show{
+    opacity: 1;
+    z-index: 99;
+}
+.plan-summary{
+    /*min-width: 435px;*/
+    margin: auto;
+}
+.plan-summary .pinfo{
+    padding-bottom: 7px;
+    border-bottom: 1px solid #d5d5d5;
+}
+.type-icon svg{
+    width: 16px !important;
+}
+
+
+
+/***************************************  Dragula.JS  *****************************************/
+.gu-mirror {
+    position: fixed !important;
+    margin: 0 !important;
+    z-index: 9999 !important;
+    opacity: 0.8;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+    filter: alpha(opacity=80);
+}
+
+.gu-hide {
+    display: none !important;
+}
+.gu-unselectable {
+    -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important;
+}
+.gu-transit {
+    opacity: 0.2;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
+    filter: alpha(opacity=20);
+}
+/**********************************************************************************************/
+
+.product-item-control{
+    display: flex;
+    margin: auto 0;
+}
+.product-item-control span{
+    margin-left: 30px;
+    cursor: pointer;
+}
+.product-item-control span img{
+    height: 20px;
+}
+.change-product-visibility.active{
+    color: rgb(77, 158, 77);
+}
+.change-product-visibility.inactive{
+    color: rgb(175, 61, 61);
+}
+
+
+
+/** Tabs of coupons **/
+.ctabs{
+
+    padding: 0 !important;
+    margin-left: 40px;
+}
+.ctabs.widget-content-area{
+
+    background: transparent;
+    border: 0;
+    padding-top: 0;
+    padding-left: 40px;
+    box-sizing: border-box;
+}
+.coupon-entry{
+    box-shadow: 0px 0px 4px -2px #000;
+    width: 332px;
+}
+.coupon-entry.no-visible{
+
+    border-bottom: 3px solid #df9191;
+}
+.coupon-entry.visible{
+    border-bottom: 3px solid #27ae2f;
+}
+.coupon-meta-info{
+    display: flex;
+}
+.coupon-loading{
+
+    background: radial-gradient(rgba(0, 0, 0, 0.85), rgb(0, 0, 0));
+    transition: 0.3s;
+}
+.coupon-loading img{
+    width: 50px;
+    height: 50px;
+    margin: auto;
+}
+.form-group label span{
+    background: #326dac;
+    border-radius: 15px;
+    padding: 3px 5px;
+    color: #ddd;
+    font-size: 11px;
+    cursor: pointer;
+}
+.product-selection{
+    padding: 2px 12px;
+    background: linear-gradient(#555, #333);
+    width: max-content;
+    border-radius: 15px;
+    color: #fff;
+    font-size: 12px;
+}
+
+
+/** My Challenges **/
+.challenge-entry{
+
+    width: 368px;
+    padding: 10px 20px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 6px -4px #000;
+}
+.challenge-entry p{
+    color: #fff;
+    font-size: 12px;
+}
+/* .dataTables_wrapper .dataTables_length select.form-control {
+    background: #fff url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' width='15' height='15' viewBox='0 0 24 24' fill='none' stroke='%23d3d3d3' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-chevron-down'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e") 90px 12px no-repeat !important;
+    padding: 7px 18px 7px 8px;
+} */
+input[type="file"] {
+    display: none;
+}
+.custom-file-upload {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+}
