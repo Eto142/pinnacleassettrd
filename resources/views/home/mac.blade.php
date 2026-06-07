@@ -6,7 +6,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">MetaTrader 4 & 5 for Mac</h2>
-                    <p class="lead-3">Take advantage of Pinnacle Assets Trade Raw Pricing connectivity on our&nbsp;<br>proprietary version of MetaTrader designed exclusively for Mac.</p>
+                    <p class="lead-3">Take advantage of Pinnacle Asset Trade Raw Pricing connectivity on our&nbsp;<br>proprietary version of MetaTrader designed exclusively for Mac.</p>
                     <a id="apple_mac_clientArea" class="btn btn-primary" href="https://secure.icmarkets.com/" target="_blank">Download Metatrader for Mac</a>
                 </div>
             </div>
@@ -72,7 +72,7 @@
                 </div>
                 <div class="col-md-6">
                     <h2>Trade Forex using MetaTrader directly on your Mac</h2>
-                    <p class="lead-3 mb-3">Pinnacle Assets Trade's custom built MetaTrader for Apple Mac application allows Mac users to take advantage of the many features Metatrader offers without having to install parallel operating systems. Our proprietary MetaTrader for Mac application offers the same functionally afforded to PC users. Now Mac users can install and run EAs and take advantage of many of the 3rd party applications available for this popular trading platform.</p>
+                    <p class="lead-3 mb-3">Pinnacle Asset Trade's custom built MetaTrader for Apple Mac application allows Mac users to take advantage of the many features Metatrader offers without having to install parallel operating systems. Our proprietary MetaTrader for Mac application offers the same functionally afforded to PC users. Now Mac users can install and run EAs and take advantage of many of the 3rd party applications available for this popular trading platform.</p>
                     <a id="apple_mac_2" class="btn btn-primary mb-3" href="../open-trading-account/live.html">Trade on Mac</a>
                     <p class="footnote"><b>System Requirements</b> Mac OS X 10.x and above</p>
                 </div>
@@ -112,7 +112,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="text-center">
-                        <h2 class="mb-5">Why trade on MetaTrader MAC with Pinnacle Assets Trade?</h2>
+                        <h2 class="mb-5">Why trade on MetaTrader MAC with Pinnacle Asset Trade?</h2>
                     </div>
                     <div class="row">
                         <div class="col-md-6">
@@ -159,8 +159,8 @@
                             <div id="collapse-01" class="accordion-collapse collapse" aria-labelledby="acc-01" data-bs-parent="#acc-01">
 								<div class="accordion-body">
                                     <p class="lead-3">1. Download the ".dmg" file and open it.</p>
-                                    <p class="lead-3">2. Once opened drag the Pinnacle Assets Trade MetaTrader for Apple Mac file into the applications folder.</p>
-                                    <p class="lead-3">3. Once dragged into the applications folder the installation should start automatically and install Pinnacle Assets Trade MetaTrader for Apple Mac on your computer.</p>
+                                    <p class="lead-3">2. Once opened drag the Pinnacle Asset Trade MetaTrader for Apple Mac file into the applications folder.</p>
+                                    <p class="lead-3">3. Once dragged into the applications folder the installation should start automatically and install Pinnacle Asset Trade MetaTrader for Apple Mac on your computer.</p>
                                     <p class="lead-3">4. Login using your live or demo account login details.</p>
 								</div>
 							</div>
@@ -177,9 +177,9 @@
                                     <p class="lead-3">2. Select "Finder" </p>
                                     <p class="lead-3">3. Select Applications</p>
                                     <p class="lead-3">4. Right click on "Show Package Contents"</p>
-                                    <p class="lead-3">5. Select "drive_c" then "Program Files" then "Pinnacle Assets Trade Trader" then select "experts"</p>
+                                    <p class="lead-3">5. Select "drive_c" then "Program Files" then "Pinnacle Asset Trade Trader" then select "experts"</p>
                                     <p class="lead-3">6. Copy your "ex4" and "mq4" files into the experts directory</p>
-                                    <p class="lead-3">7. Open your Pinnacle Assets Trade MetaTrader for Apple Mac Installation and you will be able to see your Expert Advisor in the Navigator menu.</p>
+                                    <p class="lead-3">7. Open your Pinnacle Asset Trade MetaTrader for Apple Mac Installation and you will be able to see your Expert Advisor in the Navigator menu.</p>
 								</div>
 							</div>
                         </div>
@@ -195,9 +195,9 @@
                                     <p class="lead-3">2. Select "Finder" </p>
                                     <p class="lead-3">3. Select Applications</p>
                                     <p class="lead-3">4. Right click on "Show Package Contents"</p>
-                                    <p class="lead-3">5. Select "drive_c" then "Program Files" then "Pinnacle Assets Trade Trader" then select "experts"</p>
+                                    <p class="lead-3">5. Select "drive_c" then "Program Files" then "Pinnacle Asset Trade Trader" then select "experts"</p>
                                     <p class="lead-3">6. Copy your "ex4" and "mq4" files into the experts directory</p>
-                                    <p class="lead-3">7. Open your Pinnacle Assets Trade MetaTrader for Apple Mac Installation and you will be able to see your Indicator in the Navigator menu.</p>
+                                    <p class="lead-3">7. Open your Pinnacle Asset Trade MetaTrader for Apple Mac Installation and you will be able to see your Indicator in the Navigator menu.</p>
 								</div>
 							</div>
                         </div>

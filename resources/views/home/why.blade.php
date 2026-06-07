@@ -7,8 +7,8 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
-                    <h2 class="mb-2">Why Choose Pinnacle Assets Trade</h2>
-                    <p class="lead-3">Pinnacle Assets Trade has grown to become one of the largest MetaTrader 4 Forex CFD provider in the world by giving traders what they really want.</p>
+                    <h2 class="mb-2">Why Choose Pinnacle Asset Trade</h2>
+                    <p class="lead-3">Pinnacle Asset Trade has grown to become one of the largest MetaTrader 4 Forex CFD provider in the world by giving traders what they really want.</p>
                     <a id="why_us_1" class="btn btn-primary" href="{{route('register')}}">Start Trading</a>
                     
                 </div>
@@ -30,7 +30,7 @@
                         </div>
                     </div>
                     <ul class="pagtab-list">
-                        <li class="current-page"><a id="why_us_2" href="{{url('why')}}" class="menu-title">Why Pinnacle Assets Trade</a></li>
+                        <li class="current-page"><a id="why_us_2" href="{{url('why')}}" class="menu-title">Why Pinnacle Asset Trade</a></li>
                         <li><a id="why_us_3" href="{{url('spreads')}}"  class="menu-title">What is Raw pricing</a></li>
                         <li><a id="why_us_4" href="{{url('spreads')}}"  class="menu-title">Simple Pricing</a></li>
                     </ul>
@@ -43,7 +43,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="exclaimatory-text pe-md-5 mb-md-5 mb-3">
-                        Join Pinnacle Assets Trade to experience tight spreads and trading conditions plus a live support team committed to helping you.
+                        Join Pinnacle Asset Trade to experience tight spreads and trading conditions plus a live support team committed to helping you.
                     </div>
                     <h2 class="fw-700">Low Spreads</h2>
                     <p class="lead-3">
@@ -74,9 +74,9 @@
                 </div>
                 <div class="col-md-12">
                     <h2>Fast Execution</h2>
-                    <p class="lead-3">Pinnacle Assets Trade utilises enterprise grade hardware on our trade servers in the NY4 &amp; LD5 data centre in New York &amp; London respectively. Our trader servers are collocated with the data server of our pricing providers in these data centres. Dedicated fibre optic cross connects us and our pricing providers to ensure the lowest latency and fastest possible trade execution for our clients.</p>
+                    <p class="lead-3">Pinnacle Asset Trade utilises enterprise grade hardware on our trade servers in the NY4 &amp; LD5 data centre in New York &amp; London respectively. Our trader servers are collocated with the data server of our pricing providers in these data centres. Dedicated fibre optic cross connects us and our pricing providers to ensure the lowest latency and fastest possible trade execution for our clients.</p>
                     <h2>Superior Technology</h2>
-                    <p class="lead-3">Pinnacle Assets Trade has partnered with the world’s best trading technology companies to bring you the ultimate trading experience&nbsp; and cutting edge trading tools. These tools include: Depth of Market (DoM), inbuilt spread monitoring, ladder trading, automated close of trades with custom order templates, and more. Our iPhone and Android trading applications have been optimised to provide you the best possible mobile trading experience.</p>
+                    <p class="lead-3">Pinnacle Asset Trade has partnered with the world’s best trading technology companies to bring you the ultimate trading experience&nbsp; and cutting edge trading tools. These tools include: Depth of Market (DoM), inbuilt spread monitoring, ladder trading, automated close of trades with custom order templates, and more. Our iPhone and Android trading applications have been optimised to provide you the best possible mobile trading experience.</p>
                 </div>
             </div>
         </div>
@@ -88,7 +88,7 @@
                     <h2>The Ultimate in Trading Conditions</h2>
                     <p class="lead-3">
                         
-                            Pinnacle Assets Trade has been created with traders in mind. Scalping, hedging, and automated trading are all allowed. Our Raw Spread account spreads start from 0.0 pips. We have flexible leverage options offering up to 1:1000, and accept deposits in 10 major currencies.
+                            Pinnacle Asset Trade has been created with traders in mind. Scalping, hedging, and automated trading are all allowed. Our Raw Spread account spreads start from 0.0 pips. We have flexible leverage options offering up to 1:1000, and accept deposits in 10 major currencies.
                         
                     </p>
                     <h2>Better Fills</h2>
@@ -103,16 +103,16 @@
                 <div class="col-md-12">
                     <h2>Unrivalled Customer Service</h2>
                     
-                        <p class="lead-3">Pinnacle Assets Trade strives to offer you the best possible customer service and support. Our team has a significant amount of experience within the forex industry so they understand what traders want and need. You can trade with confidence knowing that the Pinnacle Assets Trade team will always be there to help 24 hours a day, 7 days a week.</p>
+                        <p class="lead-3">Pinnacle Asset Trade strives to offer you the best possible customer service and support. Our team has a significant amount of experience within the forex industry so they understand what traders want and need. You can trade with confidence knowing that the Pinnacle Asset Trade team will always be there to help 24 hours a day, 7 days a week.</p>
                       
                     <h2>Advanced Trading Tools</h2>
                     <p class="lead-3">Our additions to MetaTrader 4 such as a one click trade module, market depth, spread monitor, trade risk calculator, and advanced order types previously not available on MetaTrader 4 make for a better trading experience.</p>
                     <h2>Superior Trading Platforms</h2>
-                    <p class="lead-3">MetaTrader 4, MetaTrader 5, cTrader and TradingView are some of the best trading platforms available today. Pinnacle Assets Trade has revolutionised forex trading by giving traders direct access to our Raw Pricing using any of these popular trading platforms.</p>
+                    <p class="lead-3">MetaTrader 4, MetaTrader 5, cTrader and TradingView are some of the best trading platforms available today. Pinnacle Asset Trade has revolutionised forex trading by giving traders direct access to our Raw Pricing using any of these popular trading platforms.</p>
                     <h2>Trust and Transparency</h2>
-                    <p class="lead-3">Trust and Transparency form the basis of Pinnacle Assets Trade's core values. Pinnacle Assets Trade is a regulated Forex CFD provider that applies Raw Spreads on its main and most famous account type, so there is no requotes, no price manipulation and no restrictions.</p>
+                    <p class="lead-3">Trust and Transparency form the basis of Pinnacle Asset Trade's core values. Pinnacle Asset Trade is a regulated Forex CFD provider that applies Raw Spreads on its main and most famous account type, so there is no requotes, no price manipulation and no restrictions.</p>
                     <h2>Regulation</h2>
-                    <p class="lead-3">Pinnacle Assets Trade is regulated by the Financial Services Authority of Seychelles (FSA) meeting strict capital requirements. All client funds are held in segregated client money accounts with top International banks. Pinnacle Assets Trade do not use these funds for any operational expenses or purposes.</p>    
+                    <p class="lead-3">Pinnacle Asset Trade is regulated by the Financial Services Authority of Seychelles (FSA) meeting strict capital requirements. All client funds are held in segregated client money accounts with top International banks. Pinnacle Asset Trade do not use these funds for any operational expenses or purposes.</p>    
                 </div>
             </div>
         </div>

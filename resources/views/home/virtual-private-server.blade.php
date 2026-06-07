@@ -10,7 +10,7 @@
                 
                     <div class="col-md-6 text-center">
                         <h2 class="mb-3">Virtual Private Server</h2>
-                        <p class="lead-3 mb-4 text-white">Execute automated trading strategies 24 hours a day, 7 days a week with the fastest possible connectivity to the Pinnacle Assets Trade trading servers.</p>
+                        <p class="lead-3 mb-4 text-white">Execute automated trading strategies 24 hours a day, 7 days a week with the fastest possible connectivity to the Pinnacle Asset Trade trading servers.</p>
                         <a id="virtual_private_server_1" class="btn btn-primary mt-3" href="../open-trading-account/live.html">Start Trading</a>
                         
                     </div>
@@ -64,7 +64,7 @@
                 <div class="col-md-8 pe-md-5">            
                     
                         <h3 class="lh-sm fw-700 my-3">Access Next Level Trading<br> with a Virtual Private Server (VPS)</h3>
-                        <p class="mb-3 fw-400 grey">Execute your EAs in a trouble-free environment without the need for additional computer hardware, backup internet, or a power supply, all thanks to a Virtual Private Server (VPS). Pinnacle Assets Trade recommends <b>IC VPS</b> or <b>ForexVPS</b>, a partner provider co-located within Equinix data centres with direct cross-connections to our trading servers in Equinix NY4.</p>
+                        <p class="mb-3 fw-400 grey">Execute your EAs in a trouble-free environment without the need for additional computer hardware, backup internet, or a power supply, all thanks to a Virtual Private Server (VPS). Pinnacle Asset Trade recommends <b>IC VPS</b> or <b>ForexVPS</b>, a partner provider co-located within Equinix data centres with direct cross-connections to our trading servers in Equinix NY4.</p>
                     
                 </div>
                 <div class="col-md-1"></div>
@@ -97,9 +97,9 @@
                                 <p class="lead-3 mb-3 fw-500">VPS Activation Time: 5 Minutes</p>
                                 <ul class="list mb-5">
                                     <li>We understand traders, because we are traders too.</li>
-                                    <li>At ForexVPS, you will get 1 millisecond latency times to Pinnacle Assets Trade live server.</li>
+                                    <li>At ForexVPS, you will get 1 millisecond latency times to Pinnacle Asset Trade live server.</li>
                                     <li>Our customer support team are multi-lingual and on hand via Live Chat 24 hours a day. We will help you install Expert Advisors, Third Party Tools or troubleshoot any issues you may experience.</li>
-                                    <li>ForexVPS will come with Pinnacle Assets Trade MetaTrader 4 pre-installed so you can get trading immediately.</li>
+                                    <li>ForexVPS will come with Pinnacle Asset Trade MetaTrader 4 pre-installed so you can get trading immediately.</li>
                                 </ul>
                                 <a id="forex_vps" target="_blank" class="btn btn-primary" href="https://secure.icmarkets.com/Account/LogOn?ReturnUrl=%2f">Trade with ForexVPS</a>
                                 <p class="grey font12 fw-400 my-4">*To qualify for our sponsored VPS service, you must meet our minimum monthly criteria.</p>
@@ -108,7 +108,7 @@
                             <div id="tab2" class="tab-data">
                                 <h3 class="my-4">New York City Servers</h3>
                                 <p class="lead-3 mb-3">You can rest easy at night knowing that your VPS is hosted on one of the best Forex VPS platforms. New York City Servers has brought together all the key elements that every trader expects from their VPS.</p>
-                                <p class="lead-3 mb-3">The latency from New York City Server's network to Pinnacle Assets Trade live trading servers is just 1ms. In addition we will help you install all of your EA's and scripts at no extra cost.</p>
+                                <p class="lead-3 mb-3">The latency from New York City Server's network to Pinnacle Asset Trade live trading servers is just 1ms. In addition we will help you install all of your EA's and scripts at no extra cost.</p>
                                 <ul class="list mb-5">
                                     <li>Low latency</li>
                                     <li>Reliability</li>
@@ -128,7 +128,7 @@
             <div class="container">
                 <div class="text-center">
                     <h3 class="lh-sm fw-700 mb-4">Power your EAs with IC VPS</h3>
-                    <p class="lead-3 fw-400 mb-1">Discover IC VPS by Pinnacle Assets Trade and access a fast, reliable and glitch-free trading network.</p>
+                    <p class="lead-3 fw-400 mb-1">Discover IC VPS by Pinnacle Asset Trade and access a fast, reliable and glitch-free trading network.</p>
                     <p class="lead-3 fw-400">Get it for FREE when you meet our monthly criteria*</p>
                 </div>
 

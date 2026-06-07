@@ -81,9 +81,9 @@
                                     <i>
                                         <img src="https://www.icmarkets.com/assets/images/single_market_page/icon-bond.svg" alt="" class="img-fluid h-100">
                                     </i>
-                                    <h5 class="fw-700 lh-base mb-3">Pinnacle Assets Trade Bond CFDs are based off fixed income debt securities that pay investors a regular coupon in exchange for their investment. We offer the bonds products as a CFD with flexible lot sizing, so you can speculate on the price of the Bond by going long or short.</h5>
+                                    <h5 class="fw-700 lh-base mb-3">Pinnacle Asset Trade Bond CFDs are based off fixed income debt securities that pay investors a regular coupon in exchange for their investment. We offer the bonds products as a CFD with flexible lot sizing, so you can speculate on the price of the Bond by going long or short.</h5>
                                     <p class="lead-4 mb-2">There is no interest debited or credited on these Bonds CFDs, just like the underlying Futures markets that they’re based off. Again, this means you only have to worry about the price of the bond and whether you go long or short.</p>
-                                    <p class="lead-4 mb-2">Bond CFDs provided by Pinnacle Assets Trade are based off highly rated government issued debt securities, including governments of the United States, Japan and Europe. Bonds offer traders the opportunity to speculate on interest rates and risk on/off sentiment, diversify a portfolio or reduce risk and build defensive positions during periods of economic weakness or uncertainty.</p>
+                                    <p class="lead-4 mb-2">Bond CFDs provided by Pinnacle Asset Trade are based off highly rated government issued debt securities, including governments of the United States, Japan and Europe. Bonds offer traders the opportunity to speculate on interest rates and risk on/off sentiment, diversify a portfolio or reduce risk and build defensive positions during periods of economic weakness or uncertainty.</p>
                                     
                                 </div>
                                 <div class="col-md-4">
@@ -173,7 +173,7 @@
                         <h2>Upcoming Expiring Futures</h2>
                         <p class="lead-3 selling-block">Futures expiry/roll process</p>
                     </div>
-                    <p class="lead-3">Pinnacle Assets Trade Futures CFDs are set to expire two working days before the contract expires on the underlying market. When a Futures CFD contract expires, all open positions will be closed at the futures settlement price; as reported by the futures exchange. This process would usually take place on the day following the expiry. Open positions are not rolled to the next front month so any clients wishing to hold long term positions must reopen the trade on the next available contract.</p>
+                    <p class="lead-3">Pinnacle Asset Trade Futures CFDs are set to expire two working days before the contract expires on the underlying market. When a Futures CFD contract expires, all open positions will be closed at the futures settlement price; as reported by the futures exchange. This process would usually take place on the day following the expiry. Open positions are not rolled to the next front month so any clients wishing to hold long term positions must reopen the trade on the next available contract.</p>
                     <div class="overflow-x-auto pt-4">
                         <div class="table-div">
                             <div class="table-div-leftfixed table-div-single">

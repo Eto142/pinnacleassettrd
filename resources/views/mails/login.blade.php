@@ -145,7 +145,7 @@
             <table border='0' width='600' cellpadding='0' cellspacing='0' class='container590'>
                 <tr>
                     <td align='center'>
-                        <img width='300' border='0' style='display: block; width: 300px;' src="https://yourdomain.com/logo1.png" alt="Pinnacle Assets Logo" />
+                        <img width='300' border='0' style='display: block; width: 300px;' src="https://yourdomain.com/logo1.png" alt="Pinnacle Asset Logo" />
                     </td>
                 </tr>
                 <tr>
@@ -165,7 +165,7 @@
                         </p>
                         <p style='line-height: 24px;'>
                             Kind Regards,<br>
-                            <strong>Pinnacle Assets Team</strong>
+                            <strong>Pinnacle Asset Team</strong>
                         </p>
                     </td>
                 </tr>

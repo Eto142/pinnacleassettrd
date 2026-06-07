@@ -8,7 +8,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">Forex</h2>
-                    <p class="lead-3 color-white">The Pinnacle Assets Trade Forex offering is one of the most competitive in the world. Access the world’s largest and most liquid market with Raw spreads starting from 0.0 pips.</p>
+                    <p class="lead-3 color-white">The Pinnacle Asset Trade Forex offering is one of the most competitive in the world. Access the world’s largest and most liquid market with Raw spreads starting from 0.0 pips.</p>
                     <a id="forex_1" class="btn btn-primary" href="../open-trading-account/live.html">Start Trading</a>
                     
                 </div>
@@ -120,7 +120,7 @@
             <div class="row">
                 <div class="col-md-12 text-center">
                     <h3 class="mb-2 fw-700">Forex Spreads</h3>
-                    <p class="lead-3 mb-0">Pinnacle Assets Trade offers Forex traders some of the tightest spreads out of all Forex exchange brokers globally with our EUR/USD spread averaging 0.1 pips. Tight spreads combined with our low latency enterprise grade hardware makes Pinnacle Assets Trade the ideal choice for active day traders and those using Expert Advisors. The table at the bottom of this page shows our minimum and average spreads across all of the major currency pairs.</p>
+                    <p class="lead-3 mb-0">Pinnacle Asset Trade offers Forex traders some of the tightest spreads out of all Forex exchange brokers globally with our EUR/USD spread averaging 0.1 pips. Tight spreads combined with our low latency enterprise grade hardware makes Pinnacle Asset Trade the ideal choice for active day traders and those using Expert Advisors. The table at the bottom of this page shows our minimum and average spreads across all of the major currency pairs.</p>
                 </div>
             </div>
         </div>

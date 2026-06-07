@@ -9,7 +9,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">Advantages of CFDs</h2>
-                    <p class="lead-3">Pinnacle Assets Trade offers flexible trading conditions across a broad range of CFDs covering Indices, Energies, Metals, CFDs on Commodities and more.</p>
+                    <p class="lead-3">Pinnacle Asset Trade offers flexible trading conditions across a broad range of CFDs covering Indices, Energies, Metals, CFDs on Commodities and more.</p>
                     <a id="advantages_of_cfds_1" class="btn btn-primary" href="../open-trading-account/live.html">Trade CFDs</a>
                     
                 </div>

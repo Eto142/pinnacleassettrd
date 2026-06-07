@@ -8,7 +8,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">Spreads</h2>
-                    <p class="lead-3">Pinnacle Assets Trade's spreads are among the lowest across all major and minor currency pairs. In particular, our average EUR/USD spread* of 0.1 pips is one of the lowest in the world.</p>
+                    <p class="lead-3">Pinnacle Asset Trade's spreads are among the lowest across all major and minor currency pairs. In particular, our average EUR/USD spread* of 0.1 pips is one of the lowest in the world.</p>
                     <a id="why_us_1" class="btn btn-primary" href="../open-trading-account/live.html">Start Trading</a>
                     
                 </div>
@@ -64,7 +64,7 @@
                     </i>
                     <h2>Spreads</h2>
                     <p class="lead-3 mb-4">
-                        Pinnacle Assets Trade offers variable spreads on our  
+                        Pinnacle Asset Trade offers variable spreads on our  
                         
                             <a id="spreads_2" href="../forex-trading-platform-metatrader/metatrader-4.html">MetaTrader 4</a>, 
                             <a id="spreads_3" href="../forex-trading-platform-metatrader/metatrader-5.html">MetaTrader 5</a>,

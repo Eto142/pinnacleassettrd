@@ -9,7 +9,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <h2>Trade on the go with <span class='highlight-text'>Pinnacle Assets Trade</span> mobile app</h2>
+                    <h2>Trade on the go with <span class='highlight-text'>Pinnacle Asset Trade</span> mobile app</h2>
                     <p class="lead-4 fw-300">powered by</p>
                     <div class="trader-logos">
                         <img id="poweredby metatrader4" alt="poweredby metatrader4" class="powered-icon-sm ml-2-sm" src="https://www.icmarkets.com/assets/images/mobile_trading_app/powered_metatrader4.webp"/> 
@@ -79,7 +79,7 @@
                 <div class="col-md-5">
                     <div class="sm-icon mb-2"><img class="img-fluid" src="https://www.icmarkets.com/assets/images/mobile_trading_app/24_hours.webp" /></div>
                     <h3 class="fw-700 mb-2">24/7 Support</h3>
-                    <p class="lead-3">Get in contact with our <span class='highlight-text'>24/7 dedicated support</span> from the <span class='highlight-text'>Pinnacle Assets Trade App</span> at any time.</p>
+                    <p class="lead-3">Get in contact with our <span class='highlight-text'>24/7 dedicated support</span> from the <span class='highlight-text'>Pinnacle Asset Trade App</span> at any time.</p>
                 </div>
                 <div class="col-md-2"></div>
                 <div class="col-md-5">
@@ -140,7 +140,7 @@
         <div class="container">
             <div class="row justify-content-center mb-5">
                 <div class="col-md-8 text-center">
-                    <h3 class="fw-700 mb-3">Trade global markets on the move with <span class='highlight-text'>Pinnacle Assets Trade</span></h3>
+                    <h3 class="fw-700 mb-3">Trade global markets on the move with <span class='highlight-text'>Pinnacle Asset Trade</span></h3>
                     <p class="lead-3 mb-0">Trade Forex, CFDs on Commodities, indices, stocks, futures, bonds, and cryptocurrencies from your phone with industry-leading tight spreads. Available on Andriod & iOS.</p>
                 </div>
             </div>
@@ -177,7 +177,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-12 mb-4 text-center">
                     <p class="lead-3 mb-1">Best FX Trading Experience</p>
-                    <h3 class="fw-700"><span class='highlight-text'>Pinnacle Assets Trade</span> MetaTrader and cTrader Native Mobile</h3>
+                    <h3 class="fw-700"><span class='highlight-text'>Pinnacle Asset Trade</span> MetaTrader and cTrader Native Mobile</h3>
                 </div>
                 <div class="col-md-4">
                     <div class="trading-download">

@@ -9,7 +9,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">Stocks</h2>
-                    <p class="lead-3 color-white">Trade over +2100 large-cap Stocks CFDs across the ASX, NYSE and NASDAQ stock exchanges with superior execution and tight pricing exclusively on the Pinnacle Assets Trade MetaTrader 5 platform.</p>
+                    <p class="lead-3 color-white">Trade over +2100 large-cap Stocks CFDs across the ASX, NYSE and NASDAQ stock exchanges with superior execution and tight pricing exclusively on the Pinnacle Asset Trade MetaTrader 5 platform.</p>
                     <a id="stocks_1" class="btn btn-primary" href="../open-trading-account/live.html">Start Trading</a>
                     
                 </div>
@@ -83,9 +83,9 @@
                                     <i>
                                         <img src="https://www.icmarkets.com/assets/images/single_market_page/icon-stock.svg" alt="" class="img-fluid h-100">
                                     </i>
-                                    <h5 class="fw-700 lh-base mb-3">Pinnacle Assets Trade single stock CFD give traders the ability to trade the world’s most popular companies such as Nvidia, Apple, Meta, Microsoft or BHP Billiton.</h5>
+                                    <h5 class="fw-700 lh-base mb-3">Pinnacle Asset Trade single stock CFD give traders the ability to trade the world’s most popular companies such as Nvidia, Apple, Meta, Microsoft or BHP Billiton.</h5>
                                     <p class="lead-4 mb-2">We have listed the most popular stocks across the Australian and US markets to give you the best trading opportunities. Alternatively you can trade global macro themes with our special selection of US Exchange listed CFDs including a range of emerging markets Indices and popular such as the VanEck Vectors Gold Miners (GDX).</p>
-                                    <p class="lead-4 mb-2">Stocks are available exclusively on the Pinnacle Assets Trade MetaTrader 5 platform which offers advanced functionalities for both new and experienced traders who require world class execution and superior charting tools.</p>
+                                    <p class="lead-4 mb-2">Stocks are available exclusively on the Pinnacle Asset Trade MetaTrader 5 platform which offers advanced functionalities for both new and experienced traders who require world class execution and superior charting tools.</p>
                                     <a id="stocks_3" class="btn btn-link scroll text-start px-0" href="#us_stock_trading_description">Further Information on US Stock Trading</a>
                                     
                                         <a id="stocks_4" class="btn btn-link scroll text-start px-0" href="#asx_description">Further information about ASX trading</a>
@@ -66985,7 +66985,7 @@
                     <h2>US STOCK TRADING</h2>
                     <p class="lead-3 mb-4">The US Internal Revenue Service (IRS) requires all non-US resident holders of US equity derivatives – (this includes CFDs ) to be taxed on dividend adjustments.</p>
                     <h4 class="fw-700 mb-2">What does it mean for me?</h4>
-                    <p class="lead-3 mb-4">When trading any US listed equities with Pinnacle Assets Trade, the Dividend adjustments on your long positions are credited to your account, and the applicable withholding taxes are automatically deducted.</p>
+                    <p class="lead-3 mb-4">When trading any US listed equities with Pinnacle Asset Trade, the Dividend adjustments on your long positions are credited to your account, and the applicable withholding taxes are automatically deducted.</p>
                     <h4 class="fw-700 mb-2">How much will be deducted?</h4>
                     <p class="lead-3 mb-4">The deduction rate varies depending on the underlying market, but where a treaty between your country of residence and the relevant market exists, the rate may be reduced to 15%. Please note that the withholding tax deduction doesn't apply to short positions.</p>
                     <h4 class="fw-700 mb-2">What should I do?</h4>

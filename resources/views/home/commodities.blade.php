@@ -10,7 +10,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">Commodities CFDs</h2>
-                    <p class="lead-3 color-white">Trade the most popular CFDs on Commodities from around the world, including energies, agriculture and metals. Pinnacle Assets Trade combines tight pricing and flexible conditions to give you one powerful product.</p>
+                    <p class="lead-3 color-white">Trade the most popular CFDs on Commodities from around the world, including energies, agriculture and metals. Pinnacle Asset Trade combines tight pricing and flexible conditions to give you one powerful product.</p>
                     <a id="commodities_1" class="btn btn-primary" href="../open-trading-account/live.html">Start Trading</a>
                     
                 </div>
@@ -84,7 +84,7 @@
                                     <i>
                                         <img src="https://www.icmarkets.com/assets/images/single_market_page/icon-comodity.svg" alt="" class="img-fluid h-100">
                                     </i>
-                                    <h4 class="fw-700 lh-base mb-3">Pinnacle Assets Trade offers a flexible and easy way to gain exposure to some of the world’s most popular CFDs on Commodities including energies and metals all from within your MetaTrader 4, 5, cTrader and TradingView trading platforms.</h4>
+                                    <h4 class="fw-700 lh-base mb-3">Pinnacle Asset Trade offers a flexible and easy way to gain exposure to some of the world’s most popular CFDs on Commodities including energies and metals all from within your MetaTrader 4, 5, cTrader and TradingView trading platforms.</h4>
                                     <p class="lead-3">Commodity markets are attractive to speculators as they are susceptible to dramatic changes in supply and demand.</p>
                                     
                                 </div>
@@ -123,7 +123,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <h3 class="mb-2 fw-700">Energies</h3>
-                    <p class="lead-4 mb-2">Pinnacle Assets Trade allows trading of spot energy contracts including Crude Oil, Brent, and Natural Gas from your chosen trading platform against the US Dollar.</p>
+                    <p class="lead-4 mb-2">Pinnacle Asset Trade allows trading of spot energy contracts including Crude Oil, Brent, and Natural Gas from your chosen trading platform against the US Dollar.</p>
                     <p class="lead-4 mb-5">Trading energy contracts as a spot instrument has many advantages for investors who are only interested in price speculation.&nbsp;</p>
                 </div>
                 <div class="col-md-6">
@@ -131,14 +131,14 @@
                     <p class="lead-4 mb-0">
                         
                             
-                                Pinnacle Assets Trade allows trading the spot price for metals including Gold or Silver against the US Dollar or Euro and the metals Platinum or Palladium against the US Dollar as a currency pair on 1:1000 leverage.
+                                Pinnacle Asset Trade allows trading the spot price for metals including Gold or Silver against the US Dollar or Euro and the metals Platinum or Palladium against the US Dollar as a currency pair on 1:1000 leverage.
                             
                         
                     </p>
                 </div>
                 <div class="col-md-6">
                     <h3 class="mb-2 fw-700">Soft CFDs on Commodities</h3>
-                    <p class="lead-4 mb-0">In addition to energy and metal contracts, at Pinnacle Assets Trade we offer a range of soft commodity products to trade, including corn, soybeans, sugar, cocoa, coffee, and wheat as CFDs – all with low spreads and leverage up to 1:100.</p>
+                    <p class="lead-4 mb-0">In addition to energy and metal contracts, at Pinnacle Asset Trade we offer a range of soft commodity products to trade, including corn, soybeans, sugar, cocoa, coffee, and wheat as CFDs – all with low spreads and leverage up to 1:100.</p>
                 </div>
             </div>
         </div>

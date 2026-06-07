@@ -9,7 +9,7 @@
                                 <img src="assets/images/logo.png" alt="" class="img-fluid footer-logo-fsa" />
                             
                         </a>
-                        <p>Pinnacle Assets Trade mission is to create the best trading experience for retail and institutional clients alike, allowing traders to focus more on their trading. Built by traders for traders Pinnacle Assets Trade is dedicated to offering superior spreads, execution and service.</p>
+                        <p>Pinnacle Asset Trade mission is to create the best trading experience for retail and institutional clients alike, allowing traders to focus more on their trading. Built by traders for traders Pinnacle Asset Trade is dedicated to offering superior spreads, execution and service.</p>
                         
                             
                              
@@ -82,7 +82,7 @@
             </div>
             <div class="col-md-3">
                 <div class="footer-menu">
-                    <h5>About Pinnacle Assets Trade?</h5>
+                    <h5>About Pinnacle Asset Trade?</h5>
                     <ul class="footer-menu-list">
                         
                             <li>
@@ -90,7 +90,7 @@
                             </li>
                             <li>
                                 <a id="footer_company_why_us_1" href="{{url('why')}}">
-                                    Why Pinnacle Assets Trade
+                                    Why Pinnacle Asset Trade
                                 </a>
                             </li>
                             
@@ -123,7 +123,7 @@
                         
                             
                             <div class="d-block">
-                                <p>Pinnacle Assets Trade is the trading name of Raw Trading Ltd, which is regulated by the Seychelles Financial Services Authority (FSA) with Securities Dealer’s license number SD018.</p><p><b>Risk Warning:</b> Trading Forex and CFDs carries a high level of risk to your capital and you should only trade with money you can afford to lose. Trading Forex and CFDs may not be suitable for all investors, so please ensure that you fully understand the risks involved and seek independent advice if necessary. Please read and ensure you fully understand our <a href="Risk_Disclosure_Notice_FSA.pdf" target="_blank">Risk Disclosure</a>.</p></br>
+                                <p>Pinnacle Asset Trade is the trading name of Raw Trading Ltd, which is regulated by the Seychelles Financial Services Authority (FSA) with Securities Dealer’s license number SD018.</p><p><b>Risk Warning:</b> Trading Forex and CFDs carries a high level of risk to your capital and you should only trade with money you can afford to lose. Trading Forex and CFDs may not be suitable for all investors, so please ensure that you fully understand the risks involved and seek independent advice if necessary. Please read and ensure you fully understand our <a href="Risk_Disclosure_Notice_FSA.pdf" target="_blank">Risk Disclosure</a>.</p></br>
                                 <p>You must be 18 years old, or of legal age as determined in your country. Upon registering an account with Raw Trading Ltd, you acknowledge that you are registering <u>at your own free will, without solicitation on behalf of Raw Trading Ltd.</u></p></br><p>Raw Trading Ltd does not direct its website and services to any individual in any country in which the use of its website and services are prohibited by local laws or regulations. When accessing this website from a country in which its use may or may not be prohibited, it is the user's <u>responsibility to ensure that any use of the website or services adheres to local laws or regulations</u>. Raw Trading Ltd does not affirm that the information on its website is suitable for all jurisdictions.</p></br>
                             </div>
                             <div class="d-none">
@@ -141,7 +141,7 @@
                     </div>
                 </div>
                 <div class="copyright">
-                    <p>© 2025 Pinnacle Assets Trade | All rights reserved.</p>
+                    <p>© 2025 Pinnacle Asset Trade | All rights reserved.</p>
                 </div>
             </div>
         </div>

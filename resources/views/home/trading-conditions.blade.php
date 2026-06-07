@@ -10,7 +10,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">Trading Conditions</h2>
-                    <p class="lead-3 color-white">The Pinnacle Assets Trade Trading environment offers the most aggressive pricing and flexible trading conditions globally. They are ideal for traders who demand the best execution quality and lowest spreads.</p>
+                    <p class="lead-3 color-white">The Pinnacle Asset Trade Trading environment offers the most aggressive pricing and flexible trading conditions globally. They are ideal for traders who demand the best execution quality and lowest spreads.</p>
                     <a id="trading_conditions_1" class="btn btn-primary" href="../open-trading-account/live.html">Start Trading</a>
                 </div>
             </div>
@@ -79,7 +79,7 @@
                         </div>
                         <div class="col-md-10">
                             <h3 class="fw-700 mb-2">Execution</h3>
-                            <p class="lead-3">Our average execution speed is under 40ms once the order is received by Pinnacle Assets Trade. We execute your trade at one of the fastest speed in the industry. Access unparalleled depth of market with one of the most trusted Forex CFD provider and the support of ultra fast server in New York and London.</p>
+                            <p class="lead-3">Our average execution speed is under 40ms once the order is received by Pinnacle Asset Trade. We execute your trade at one of the fastest speed in the industry. Access unparalleled depth of market with one of the most trusted Forex CFD provider and the support of ultra fast server in New York and London.</p>
                         </div>
                     </div>
                     <div class="row mb-3">
@@ -105,7 +105,7 @@
                         </div>
                         <div class="col-md-10">
                             <h3 class="fw-700 mb-2">Currency Pairs</h3>
-                            <p class="lead-3">Pinnacle Assets Trade streams prices on 60 different currency pairs and 4 metals on all trading platforms. Pinnacle Assets Trade is able to offer some of the best pricing in the industry by aggregating quotes from over 25 different pricing&nbsp; sources. This low pricing combined with unrivalled execution speeds makes Pinnacle Assets Trade the favoured destination for day traders, scalpers and those using Expert Advisors (EAs).</p>
+                            <p class="lead-3">Pinnacle Asset Trade streams prices on 60 different currency pairs and 4 metals on all trading platforms. Pinnacle Asset Trade is able to offer some of the best pricing in the industry by aggregating quotes from over 25 different pricing&nbsp; sources. This low pricing combined with unrivalled execution speeds makes Pinnacle Asset Trade the favoured destination for day traders, scalpers and those using Expert Advisors (EAs).</p>
                         </div>
                     </div>
                     <div class="row mb-3">

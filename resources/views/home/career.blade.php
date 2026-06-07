@@ -10,7 +10,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">Careers</h2>
-                    <p class="lead-3">At Pinnacle Assets Trade we are always looking for the best talent to further our global growth and expansion.</p>
+                    <p class="lead-3">At Pinnacle Asset Trade we are always looking for the best talent to further our global growth and expansion.</p>
                 </div>
             </div>
         </div>
@@ -61,11 +61,11 @@
                 <div class="col-md-12">
                     <p class="lead-2 fw-700">
                         We recognise that our continued growth is dependent upon attracting and retaining high calibre employees, so we are always looking for the best talent available. If you are looking for the chance to enhance and develop your career within a fast growing and innovative company, then
-                        <a id="career_about_us" href="about-us.html">Pinnacle Assets Trade</a>
+                        <a id="career_about_us" href="about-us.html">Pinnacle Asset Trade</a>
                         could be the place for you.
                     </p>
                     <h4 class="fw-700 mb-3">Expand your Career</h4>
-                    <p class="lead-3 mb-2">As Pinnacle Assets Trade continues to experience strong growth, we are rapidly expanding our workforce around the world. This means there are frequent new opportunities within the company’s main areas: Trading, Marketing, Legal/Compliance, Sales, Support, Finance, IT Development/Production, Operations, Human Resources.</p>
+                    <p class="lead-3 mb-2">As Pinnacle Asset Trade continues to experience strong growth, we are rapidly expanding our workforce around the world. This means there are frequent new opportunities within the company’s main areas: Trading, Marketing, Legal/Compliance, Sales, Support, Finance, IT Development/Production, Operations, Human Resources.</p>
                     <p class="lead-3">We aim to provide a challenging and rewarding working environment.</p>
                     
                         <h4 class="fw-700 mb-3">Seychelles</h4>

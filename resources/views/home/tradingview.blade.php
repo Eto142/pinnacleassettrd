@@ -57,7 +57,7 @@
       <div class="container">
           <div class="row align-items-center justify-content-between">
               <div class="col-md-6">
-                  <h1 class="fw-700">Premiere charting and<br/> trading with <span class='company-name'>Pinnacle Assets Trade</span></h1>
+                  <h1 class="fw-700">Premiere charting and<br/> trading with <span class='company-name'>Pinnacle Asset Trade</span></h1>
                   <p class="mb-3 support-text">TradingView is the world’s leading charting platform and a vibrant community used by over 50 million traders. Our trading integration via cTrader will allow you to access the best charting and technical analysis tools on the market and be informed like never before.</p>
                   <a id="tradingview_2" class="btn btn-primary" href="open-trading-account/live/index793a.html?tradingview=true">Open Account</a>
               </div>
@@ -72,7 +72,7 @@
     <section class="content-sec features-sec bg-midgrey">
       <div class="container">
         <div class="row justify-content-center text-center">
-          <div class="text-green">Start trading with <span class='company-name'>Pinnacle Assets Trade</span></div>
+          <div class="text-green">Start trading with <span class='company-name'>Pinnacle Asset Trade</span></div>
           <h2 class="mt-3 mb-5">What makes TradingView a leading charting<br/> platform?</h2>
           <div class="features-grid">
               
@@ -146,8 +146,8 @@
               <img class="mobile-apps" src="https://www.icmarkets.com/assets/images/tradingview/apps-trading.webp"/>
               <img class="col-md-6 mobile-bg" src="https://www.icmarkets.com/assets/images/tradingview/mobile-tradingview.webp"/>
               <div class="row col-md-6 gap-3 ps-3">
-                  <div class="text-green">Start trading with <span class='company-name'>Pinnacle Assets Trade</div>
-                  <h2>Why trade on TradingView with <span class='company-name'>Pinnacle Assets Trade?</span></h2>
+                  <div class="text-green">Start trading with <span class='company-name'>Pinnacle Asset Trade</div>
+                  <h2>Why trade on TradingView with <span class='company-name'>Pinnacle Asset Trade?</span></h2>
                   
                       <div class="tips mb-2">
                           <img class="me-3" src="https://www.icmarkets.com/assets/images/tradingview/tick-mark.svg" />
@@ -210,12 +210,12 @@
           <div class="row tradingview-guide">
               <div class="col-md-12 text-center">
                   <p class="fw-500 mb-0">Start Trading with Tradingview</p>
-                  <h2 class="mb-5">Connect your Pinnacle Assets Trade account to TradingView</h2>
+                  <h2 class="mb-5">Connect your Pinnacle Asset Trade account to TradingView</h2>
               </div>
               <div class="col-sm-6">
                   <div class="platform-box white w-100 text-center">
                       <img src="https://www.icmarkets.com/assets/images/new-customer-icon.webp" alt="" class="img-fluid mb-3">
-                      <h3 class="mb-4">NEW to Pinnacle Assets Trade</h3>
+                      <h3 class="mb-4">NEW to Pinnacle Asset Trade</h3>
                       
                           <a target="_blank" href="https://cdn.icmarkets.com/uploads/FSA/New_TradingView_UserGuide_EN.pdf" class="btn btn-primary w-100">
                               Connect your Account
@@ -226,7 +226,7 @@
               <div class="col-sm-6">
                   <div class="platform-box white w-100 text-center">
                       <img src="https://www.icmarkets.com/assets/images/existing-customer-icon.webp" alt="" class="img-fluid mb-3">
-                      <h3 class="mb-4">Existing Pinnacle Assets Trade Client</h3>
+                      <h3 class="mb-4">Existing Pinnacle Asset Trade Client</h3>
                       
                           <a target="_blank" href="https://cdn.icmarkets.com/uploads/FSA/Existing_TradingView_UserGuide_EN.pdf" class="btn btn-primary w-100">
                               Connect your Account
@@ -258,7 +258,7 @@
                       <div class="accordion-item" key="most-q-2">
                           <h4 class="accordion-header mb-0" id="most-q-2">
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#most-qa-2" aria-expanded="true" aria-controls="most-qa-2">
-                                  Which type of Pinnacle Assets Trade account is compatible with TradingView?
+                                  Which type of Pinnacle Asset Trade account is compatible with TradingView?
                               </button>
                           </h4>
                           <div id="most-qa-2" class="accordion-collapse collapse" aria-labelledby="most-q-2" data-bs-parent="#most-q-2">
@@ -298,7 +298,7 @@
                       <div class="accordion-item" key="most-q-5">
                           <h4 class="accordion-header mb-0" id="most-q-5">
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#most-qa-5" aria-expanded="true" aria-controls="most-qa-5">
-                                  Can I trade with different Pinnacle Assets Trade Account Types in my Trading Panel on TradingView?
+                                  Can I trade with different Pinnacle Asset Trade Account Types in my Trading Panel on TradingView?
                               </button>
                           </h4>
                           <div id="most-qa-5" class="accordion-collapse collapse" aria-labelledby="most-q-5" data-bs-parent="#most-q-5">

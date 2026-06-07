@@ -133,7 +133,7 @@
 <div class="form-container contact-us-form-container combined">
     <div class="text-center">
         <h2>Send us a message</h2>
-        <p class="lead-3 mb-4 w-75 mx-auto">Whether you are new to Pinnacle Assets Trade or have a question about your existing account, we can help. Simply fill in your details below and we'll get back to you soon.</p>
+        <p class="lead-3 mb-4 w-75 mx-auto">Whether you are new to Pinnacle Asset Trade or have a question about your existing account, we can help. Simply fill in your details below and we'll get back to you soon.</p>
     </div>
     <div class="row justify-content-center">
         <div class="col-md-12">

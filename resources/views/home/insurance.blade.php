@@ -23,7 +23,7 @@
                         <div class="accordion-item">
                             <h4 class="accordion-header mb-0" id="acc-01">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-01" aria-expanded="true" aria-controls="collapse-01">
-                                    What is Pinnacle Assets Trade's Insurance Coverage?
+                                    What is Pinnacle Asset Trade's Insurance Coverage?
                                 </button>
                             </h4>
                             <div id="collapse-01" class="accordion-collapse collapse" aria-labelledby="acc-01" data-bs-parent="#acc-01">
@@ -52,7 +52,7 @@
                             </h4>
                             <div id="collapse-03" class="accordion-collapse collapse" aria-labelledby="acc-03" data-bs-parent="#acc-03">
 								<div class="accordion-body">
-                                    <p class="lead-3">The Insurance Coverage is available to all the Pinnacle Assets Trade clients of Raw Trading Ltd, and will be triggered only in the unlikely event of Raw Trading Ltd's insolvency.</p>
+                                    <p class="lead-3">The Insurance Coverage is available to all the Pinnacle Asset Trade clients of Raw Trading Ltd, and will be triggered only in the unlikely event of Raw Trading Ltd's insolvency.</p>
 								</div>
 							</div>
                         </div>

@@ -7,7 +7,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">Forex Trading</h2>
-                    <p class="lead-3">Pinnacle Assets Trade's carefully selected range of products, platforms, and account types give you access to the most popular and liquid markets across the world, for the best trading opportunities 24/7</p>
+                    <p class="lead-3">Pinnacle Asset Trade's carefully selected range of products, platforms, and account types give you access to the most popular and liquid markets across the world, for the best trading opportunities 24/7</p>
                     <a id="forex_trading_1" class="btn btn-primary" href="../open-trading-account/live.html">Start Trading</a>
                 </div>
             </div>
@@ -31,7 +31,7 @@
 <ul class="pagtab-list">
 
 <li class="menu-item">
-  <a id="introduction_menu_1" href="../company/why-us.html" class="menu-title">Why Pinnacle Assets Trade</a>
+  <a id="introduction_menu_1" href="../company/why-us.html" class="menu-title">Why Pinnacle Asset Trade</a>
 </li>
 
 <li class="menu-item">
@@ -62,7 +62,7 @@
                             <div class="row d-flex align-items-center">
                                 <div class="col-md-8">
                                     <h2>Forex Account Types</h2>
-                                    <p class="lead-3 pe-md-5">Pinnacle Assets Trade allows you to select an account type that suits you best. Choose from our Standard MetaTrader 4/5 account with no commissions and a minimum spread of 0.8 pip, our Raw Spread MetaTrader 4/5 account with spreads from 0.0 pips or our cTrader Raw Spread account with spreads as low as 0.0. All of our platforms take advantage of our &nbsp;low latency trading environment.</p>
+                                    <p class="lead-3 pe-md-5">Pinnacle Asset Trade allows you to select an account type that suits you best. Choose from our Standard MetaTrader 4/5 account with no commissions and a minimum spread of 0.8 pip, our Raw Spread MetaTrader 4/5 account with spreads from 0.0 pips or our cTrader Raw Spread account with spreads as low as 0.0. All of our platforms take advantage of our &nbsp;low latency trading environment.</p>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="card range-card">
@@ -87,7 +87,7 @@
                             <div class="row d-flex align-items-center">
                                 <div class="col-md-8">
                                     <h2>Forex Demo Accounts</h2>
-                                    <p class="lead-3 pe-md-5">Pinnacle Assets Trade MetaTrader 4/5, and cTrader demo accounts allow traders to practice their trading strategies online and become familiar with our forex trading platforms in a risk-free environment. All of our demo trading accounts have the same features as our live trading accounts, including ultra low latency execution and our world renowned Raw Spread pricing connectivity with no requotes. Foreign exchange traders can practice placing trades and test their expert advisors (EAs) before making the transition to a live trading environment.</p>
+                                    <p class="lead-3 pe-md-5">Pinnacle Asset Trade MetaTrader 4/5, and cTrader demo accounts allow traders to practice their trading strategies online and become familiar with our forex trading platforms in a risk-free environment. All of our demo trading accounts have the same features as our live trading accounts, including ultra low latency execution and our world renowned Raw Spread pricing connectivity with no requotes. Foreign exchange traders can practice placing trades and test their expert advisors (EAs) before making the transition to a live trading environment.</p>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="card range-card">
@@ -114,7 +114,7 @@
                                     <h2>Forex CFD Trading</h2>
                                     <p class="lead-3 pe-md-5">
                                         
-                                            Pinnacle Assets Trade MetaTrader 4/5 and cTrader/TradingView accounts allow you to trade over 60+ currency pairs including majors, minors and exotics with the tighest possible spreads with Raw Pricing connectivity. Trade on a flexible leverage from 1:1 to 1:1000 with no intervention.
+                                            Pinnacle Asset Trade MetaTrader 4/5 and cTrader/TradingView accounts allow you to trade over 60+ currency pairs including majors, minors and exotics with the tighest possible spreads with Raw Pricing connectivity. Trade on a flexible leverage from 1:1 to 1:1000 with no intervention.
                                         
                                     </p>
                                 </div>
@@ -147,7 +147,7 @@
                                     <h2>Commodities CFD Trading</h2>
                                     <p class="lead-3 pe-md-5">
                                         
-                                            Pinnacle Assets Trade offers the both gold and and silver trading against the USD and EUR (XAU/USD, XAG/USD, XAU/EUR and XAG/EUR). Traders can trade metals with ultra fast execution speeds and no requotes. Trade gold and silver on 1:1000 leverage with no dealing desk.
+                                            Pinnacle Asset Trade offers the both gold and and silver trading against the USD and EUR (XAU/USD, XAG/USD, XAU/EUR and XAG/EUR). Traders can trade metals with ultra fast execution speeds and no requotes. Trade gold and silver on 1:1000 leverage with no dealing desk.
                                         
                                     </p>
                                 </div>
@@ -176,7 +176,7 @@
                             <div class="row d-flex align-items-center">
                                 <div class="col-md-8">
                                     <h2>Index CFD Trading</h2>
-                                    <p class="lead-3 pe-md-5">Pinnacle Assets Trade offers a diverse range of index CFDs covering Indices on 15 major markets plus Brent, WTI and Natural Gas. Our Index CFDs can be traded directly from your MetaTrader 4 or 5 account with spreads starting at 0.5 pips for the ASX 200 index CFD and 1 point for the FTSE 100 Index CFD.</p>
+                                    <p class="lead-3 pe-md-5">Pinnacle Asset Trade offers a diverse range of index CFDs covering Indices on 15 major markets plus Brent, WTI and Natural Gas. Our Index CFDs can be traded directly from your MetaTrader 4 or 5 account with spreads starting at 0.5 pips for the ASX 200 index CFD and 1 point for the FTSE 100 Index CFD.</p>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="card range-card">
@@ -202,7 +202,7 @@
                             <div class="row d-flex align-items-center">
                                 <div class="col-md-8">
                                     <h2>Stock&nbsp; CFD Trading</h2>
-                                    <p class="lead-3 pe-md-5">Pinnacle Assets Trade offers a wide range of Stock CFDs on MetaTrader 5 platform. Traders can access over 750 stocks across Australia and United States. Trade with a leverage upto 1:20 in a Raw Pricing environment.</p>
+                                    <p class="lead-3 pe-md-5">Pinnacle Asset Trade offers a wide range of Stock CFDs on MetaTrader 5 platform. Traders can access over 750 stocks across Australia and United States. Trade with a leverage upto 1:20 in a Raw Pricing environment.</p>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="card range-card">
@@ -228,7 +228,7 @@
                             <div class="row d-flex align-items-center">
                                 <div class="col-md-8">
                                     <h2>Bond CFD Trading</h2>
-                                    <p class="lead-3 pe-md-5">Pinnacle Assets Trade offers traders a range of bonds from around the world including, ICE Futures Europe, Eurex and the Chicago Mercantile Exchange (CME). Bonds are offered exclusively on Metatrader 4 and Metatrader 5 with competitive spreads across all fixed income futures products. CFD Bond Futures are priced directly from the underlying futures markets, with commissions, financing charges and dividend adjustments all built into the spread itself.</p>
+                                    <p class="lead-3 pe-md-5">Pinnacle Asset Trade offers traders a range of bonds from around the world including, ICE Futures Europe, Eurex and the Chicago Mercantile Exchange (CME). Bonds are offered exclusively on Metatrader 4 and Metatrader 5 with competitive spreads across all fixed income futures products. CFD Bond Futures are priced directly from the underlying futures markets, with commissions, financing charges and dividend adjustments all built into the spread itself.</p>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="card range-card">
@@ -254,7 +254,7 @@
                             <div class="row d-flex align-items-center">
                                 <div class="col-md-8">
                                     <h2>Cryptocurrency CFD Trading</h2>
-                                    <p class="lead-3 pe-md-5">Pinnacle Assets Trade offers a diverse range of cryptocurrencies including 6 most popular cryptos. Traders can go long and short for increased opportunities. Trade cryptos starting from micro (0.01) lots in a regulated environment.</p>
+                                    <p class="lead-3 pe-md-5">Pinnacle Asset Trade offers a diverse range of cryptocurrencies including 6 most popular cryptos. Traders can go long and short for increased opportunities. Trade cryptos starting from micro (0.01) lots in a regulated environment.</p>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="card range-card">
@@ -280,7 +280,7 @@
                             <div class="row d-flex align-items-center">
                                 <div class="col-md-8">
                                     <h2>Trading Conditions</h2>
-                                    <p class="lead-3 pe-md-5">Review our online trading conditions including spreads, swap rates and available currency pairs. Pinnacle Assets Trade Raw Spread Pricing&nbsp; environment provides the most competitive spreads in the industry with pricing from up to 25 different pricing sources on over 60 different currency pairs.</p>
+                                    <p class="lead-3 pe-md-5">Review our online trading conditions including spreads, swap rates and available currency pairs. Pinnacle Asset Trade Raw Spread Pricing&nbsp; environment provides the most competitive spreads in the industry with pricing from up to 25 different pricing sources on over 60 different currency pairs.</p>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="card range-card">

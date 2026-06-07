@@ -8,7 +8,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">Video Tutorials</h2>
-                    <p class="lead-3">Pinnacle Assets Trade offers a number of educational videos to help forex traders who are new to using the MetaTrader 4 platform. Our instructional videos will give you an overview as to how to install MetaTrader 4, use the market watch, navigator, trade terminal and place different order types.</p>
+                    <p class="lead-3">Pinnacle Asset Trade offers a number of educational videos to help forex traders who are new to using the MetaTrader 4 platform. Our instructional videos will give you an overview as to how to install MetaTrader 4, use the market watch, navigator, trade terminal and place different order types.</p>
                     <a id="video_tutorials_1" class="btn btn-primary" href="../open-trading-account/live.html">Start Trading</a>
                     
                 </div>
@@ -65,7 +65,7 @@
                 
                         <div class="col-md-4 text-center">
                             <iframe width="100%" height="276" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen src="https://www.youtube.com/embed/s8_wSdV3NOY?feature=oembed"></iframe>
-                            <p class="lead-4">HOW TO CONNECT Pinnacle Assets Trade ACCOUNT TO TRADINGVIEW</p>
+                            <p class="lead-4">HOW TO CONNECT Pinnacle Asset Trade ACCOUNT TO TRADINGVIEW</p>
                         </div>
                     
                         <div class="col-md-4 text-center">

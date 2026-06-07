@@ -5,7 +5,7 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
         
-            <!--<title id="cryptoHide">CFD & Forex Trading | Stocks & CFDs on Commodities | Pinnacle Assets Trade</title>-->
+            <!--<title id="cryptoHide">CFD & Forex Trading | Stocks & CFDs on Commodities | Pinnacle Asset Trade</title>-->
         
         
                         
@@ -341,7 +341,7 @@ window.smartsupp||(function(d) {
                                                                     
                                                                         <li class="dropdown-list-container__list-item" data-target=".navbar-collapse.in">
                                                                             <a id="navigation_why_us" href="{{url('why')}}">
-                                                                                Why Pinnacle Assets Trade <span class="glyphicon glyphicon-arrow-right"></span>
+                                                                                Why Pinnacle Asset Trade <span class="glyphicon glyphicon-arrow-right"></span>
                                                                             </a>
                                                                         </li>
                                                                     
@@ -399,7 +399,7 @@ window.smartsupp||(function(d) {
                                                                     
                                                                         <li class="dropdown-list-container__list-item" data-target=".navbar-collapse.in">
                                                                             <a href="{{url('ic-mobile')}}">
-                                                                                Pinnacle Assets Trade Mobile App <span class="glyphicon glyphicon-arrow-right"></span>
+                                                                                Pinnacle Asset Trade Mobile App <span class="glyphicon glyphicon-arrow-right"></span>
                                                                             </a>
                                                                         </li>
                                                                     
@@ -842,12 +842,12 @@ window.smartsupp||(function(d) {
                                                                     <ul class="dropdown-list-container___list">
                                                                         <li class="dropdown-list-container__list-item" data-target=".navbar-collapse.in">
                                                                             <a id="navigation_platforms" href="{{url('about')}}">
-                                                                                About Pinnacle Assets Trade <span class="glyphicon glyphicon-arrow-right"></span>
+                                                                                About Pinnacle Asset Trade <span class="glyphicon glyphicon-arrow-right"></span>
                                                                             </a>
                                                                         </li>
                                                                         <li class="dropdown-list-container__list-item" data-target=".navbar-collapse.in">
                                                                             <a id="navigation_why_us_3" href="{{url('why')}}">
-                                                                                Why Pinnacle Assets Trade <span class="glyphicon glyphicon-arrow-right"></span>
+                                                                                Why Pinnacle Asset Trade <span class="glyphicon glyphicon-arrow-right"></span>
                                                                             </a>
                                                                         </li>
                                                                         <li class="dropdown-list-container__list-item" data-target=".navbar-collapse.in">
@@ -956,7 +956,7 @@ window.smartsupp||(function(d) {
                                                                         </li>
                                                                         <li class="dropdown-list-container__list-item" data-target=".navbar-collapse.in">
                                                                             
-                                                                                <a id="navigation_blog" class="cursor-pointer" href="#" target="_blank"><span class="icm-blogmarker">Pinnacle Assets Trade Blog</span></a>
+                                                                                <a id="navigation_blog" class="cursor-pointer" href="#" target="_blank"><span class="icm-blogmarker">Pinnacle Asset Trade Blog</span></a>
                                                                             
                                                                         </li>
                                                                         

@@ -65,7 +65,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-9">
-                    <h4 class="lh-sm fw-700 mb-3">As a part of improving the overall trading experience for our users, Pinnacle Assets Trade has introduced 20 exclusive trading tools previously not available on MetaTrader 4. With the help of these advanced trading tools, the world's best trading platform is now even better, providing our traders with a competitive edge.</h4>
+                    <h4 class="lh-sm fw-700 mb-3">As a part of improving the overall trading experience for our users, Pinnacle Asset Trade has introduced 20 exclusive trading tools previously not available on MetaTrader 4. With the help of these advanced trading tools, the world's best trading platform is now even better, providing our traders with a competitive edge.</h4>
                     <p class="lead-3">The apps give traders institutional quality tools over and above those provided in the underlying trading platform. In addition to having some of the most feature rich trade execution and management tools, the list also includes apps that assist in making trade decisions along with handy tools like sophisticated alarms, messaging broadcasting facilities, market data & more aimed at enhancing the overall trading experience. The following Advanced trader tools are exclusively available for our Live account holders.</p>
                 </div>
                 <div class="col-md-3">

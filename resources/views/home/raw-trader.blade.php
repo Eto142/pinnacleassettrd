@@ -8,7 +8,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">Raw Trader Plus</h2>
-                    <p class="lead-3">Receive rebates on your trading commissions and access a range of exclusive benefits everytime you trade. Pinnacle Assets Trade's carefully selected range of products, platforms, and account types give you access to the most popular and liquid markets across the world, for the best trading opportunities.</p>
+                    <p class="lead-3">Receive rebates on your trading commissions and access a range of exclusive benefits everytime you trade. Pinnacle Asset Trade's carefully selected range of products, platforms, and account types give you access to the most popular and liquid markets across the world, for the best trading opportunities.</p>
                 </div>
             </div>
         </div>
@@ -31,7 +31,7 @@
 <ul class="pagtab-list">
 
 <li class="menu-item">
-  <a id="introduction_menu_1" href="../company/why-us.html" class="menu-title">Why Pinnacle Assets Trade</a>
+  <a id="introduction_menu_1" href="../company/why-us.html" class="menu-title">Why Pinnacle Asset Trade</a>
 </li>
 
 <li class="menu-item">
@@ -134,7 +134,7 @@
                         <div class="card-body">
                             <i><img src="https://www.icmarkets.com/assets/images/raw-trader-plus-image2.webp" class="img-fluid" /></i>
                             <h4 class="card-title">VPS Hosting</h4>
-                            <p class="lead-4">Pinnacle Assets Trade Raw Traders can receive access to our VPS hosting solution. This allows you to build and launch automated trading strategies and take advantage of Pinnacle Assets Trade optimum trading conditions.</p>
+                            <p class="lead-4">Pinnacle Asset Trade Raw Traders can receive access to our VPS hosting solution. This allows you to build and launch automated trading strategies and take advantage of Pinnacle Asset Trade optimum trading conditions.</p>
                         </div>
                     </div>
                 </div>
@@ -164,7 +164,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 mb-md-5 mb-4">
-                    <h2>New to Pinnacle Assets Trade?</h2>
+                    <h2>New to Pinnacle Asset Trade?</h2>
                 </div>
                 <div class="col-md-4 px-5 mb-5 mb-md-0">
                     <img class="img-fluid mb-4" src="https://www.icmarkets.com/assets/images/raw-trader-plus-image4-fsa.webp" />

@@ -72,9 +72,9 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-10 text-center">
-                        <h2 class="mb-4">Experience the next Generation of MetaTrader 5 with Pinnacle Assets Trade</h2>
-                        <p class="lead-2 mb-3">The new platform is an updated and improved version of its predecessor which has long been the industry standard for traders around the world. Pinnacle Assets Trade is proud to present the next generation MetaTrader 5 platform, designed to offer everything you need to trade the markets.</p>
-                        <p class="lead-2 mb-3">MetaTrader 5’s advanced charting technology coupled with sophisticated order management tools help you to monitor and control your positions quickly and efficiently. It is a powerful platform packed with brand new features aimed at improving your trading experience. It is available on both of the Pinnacle Assets Trade account types: Raw Pricing and Standard.</p>
+                        <h2 class="mb-4">Experience the next Generation of MetaTrader 5 with Pinnacle Asset Trade</h2>
+                        <p class="lead-2 mb-3">The new platform is an updated and improved version of its predecessor which has long been the industry standard for traders around the world. Pinnacle Asset Trade is proud to present the next generation MetaTrader 5 platform, designed to offer everything you need to trade the markets.</p>
+                        <p class="lead-2 mb-3">MetaTrader 5’s advanced charting technology coupled with sophisticated order management tools help you to monitor and control your positions quickly and efficiently. It is a powerful platform packed with brand new features aimed at improving your trading experience. It is available on both of the Pinnacle Asset Trade account types: Raw Pricing and Standard.</p>
                         <a id="metatrader5_2" class="btn btn-primary mb-2" href="../open-trading-account/live.html">Open Account</a>
                         
                         <p class="footnote"><b>System Requirements</b> The MetaTrader 5 Client Terminal requires Windows operating system 7 or higher. It is also possible to run this software on a Mac OSX.</p>
@@ -89,7 +89,7 @@
                         <figure>
                             <img class="img-fluid" src="https://www.icmarkets.com/assets/images/mt5.webp" alt="">
                         </figure>
-                        <h2 class="mb-4">Why is Pinnacle Assets Trade MetaTrader 5 Platform Different?</h2>
+                        <h2 class="mb-4">Why is Pinnacle Asset Trade MetaTrader 5 Platform Different?</h2>
                         <div class="row justify-content-center">
                             <div class="col-md-6">
                                 <div class="featured-box mb-3 mb-md-0">
@@ -126,18 +126,18 @@
             <div class="row">
                 <div class="col-md-12">
                     <h3 class="fw-700 mb-2">Raw Pricing Connectivity</h3>
-                    <p class="lead-3 mb-3">Raw Pricing allows Pinnacle Assets Trade to offer tight spreads and trading conditions on the MetaTrader 5 trading platform.</p>
-                    <p class="lead-3">Gain access to institutional grade prices on almost the same level of the world’s leading execution venues through our Raw Pricing. Traders can enjoy trading with no dealing desk, price requotes or any sort of manipulation on our market leading platforms. Our extensive mix of up to 25 different pricing providers makes Pinnacle Assets Trade the top choice for high volume traders, scalpers and automated traders who demand some of the best trading conditions including the low spreads and fastexecution speeds.</p>
+                    <p class="lead-3 mb-3">Raw Pricing allows Pinnacle Asset Trade to offer tight spreads and trading conditions on the MetaTrader 5 trading platform.</p>
+                    <p class="lead-3">Gain access to institutional grade prices on almost the same level of the world’s leading execution venues through our Raw Pricing. Traders can enjoy trading with no dealing desk, price requotes or any sort of manipulation on our market leading platforms. Our extensive mix of up to 25 different pricing providers makes Pinnacle Asset Trade the top choice for high volume traders, scalpers and automated traders who demand some of the best trading conditions including the low spreads and fastexecution speeds.</p>
                     <h3 class="fw-700 mb-2">Fast Order Execution</h3>
-                    <p class="lead-3 mb-3">All Pinnacle Assets Trade MetaTrader 5 servers are located in the Equinix NY4 data centre in New York for optimal execution speed. The NY4 data centre is known as one of the most secure and reliable data centres in the world. The MetaTrader 5 servers are cross connected to us and our pricing providers to ensure &nbsp;low latency and fast execution.</p>
-                    <p class="lead-3">The Pinnacle Assets Trade MetaTrader 5 trade servers have latency less than 1 millisecond to major VPS providers either collocated in the NY4 data centre or through dedicated lines to nearby data centres.</p>
+                    <p class="lead-3 mb-3">All Pinnacle Asset Trade MetaTrader 5 servers are located in the Equinix NY4 data centre in New York for optimal execution speed. The NY4 data centre is known as one of the most secure and reliable data centres in the world. The MetaTrader 5 servers are cross connected to us and our pricing providers to ensure &nbsp;low latency and fast execution.</p>
+                    <p class="lead-3">The Pinnacle Asset Trade MetaTrader 5 trade servers have latency less than 1 millisecond to major VPS providers either collocated in the NY4 data centre or through dedicated lines to nearby data centres.</p>
                     <h3 class="fw-700 mb-2">No Restrictions on Trading</h3>
-                    <p class="lead-3 mb-3"> There are no trading restrictions on the Pinnacle Assets Trade MetaTrader 5 platform. We offer ideal trading conditions for scalping and high frequency trading, even allowing traders to place orders between the spread as there is no minimum order distance and a freeze level of 0. This means orders including stop loss orders can be placed at any level.</p>
-                    <p class="lead-3">Traders can also hedge positions as there is no first in first out (FIFO) rule with Pinnacle Assets Trade. Please note that different hedge margin level and settings may be applied to different products and platforms.</p>
+                    <p class="lead-3 mb-3"> There are no trading restrictions on the Pinnacle Asset Trade MetaTrader 5 platform. We offer ideal trading conditions for scalping and high frequency trading, even allowing traders to place orders between the spread as there is no minimum order distance and a freeze level of 0. This means orders including stop loss orders can be placed at any level.</p>
+                    <p class="lead-3">Traders can also hedge positions as there is no first in first out (FIFO) rule with Pinnacle Asset Trade. Please note that different hedge margin level and settings may be applied to different products and platforms.</p>
                     <h3 class="fw-700 mb-2">Level II Pricing – Market Depth</h3>
                     <p class="lead-3">The MetaTrader 5 Depth of Market displays the full range of available prices directly from our prices providers. This feature provides full transparency of available liquidity for each currency at any given time. High liquidity, asynchronous spot prices and low latency guarantee the tightest possible spreads.</p>
                     <h3 class="fw-700 mb-2">Spreads from 0.0 Pips</h3>
-                    <p class="lead-3 mb-0">Pinnacle Assets Trade offers some of the tightest spreads out of all forex brokers around the world with our EURUSD spread averaging just 0.1 pips. This is currently one of the tightest average EURUSD spread globally. Pinnacle Assets Trade is always able to keep spreads tight by sourcing prices from our diverse mix of up to 25 different sources of prices.</p>
+                    <p class="lead-3 mb-0">Pinnacle Asset Trade offers some of the tightest spreads out of all forex brokers around the world with our EURUSD spread averaging just 0.1 pips. This is currently one of the tightest average EURUSD spread globally. Pinnacle Asset Trade is always able to keep spreads tight by sourcing prices from our diverse mix of up to 25 different sources of prices.</p>
                 </div>
             </div>
         </div>
@@ -164,7 +164,7 @@
                     <h6>MetaTrader 5</h6>
                     <h2>About MetaTrader 5</h2>
                     <p class="lead-4">The new platform is an updated and improved version of its predecessor which has long been the industry standard for traders around the world. Its advanced charting technology, together with sophisticated order management tools allow to monitor and control your positions efficiently.</p>
-                    <p class="lead-4">It is a powerful platform packed with brand new features aimed at improving your trading experience. It is available on Pinnacle Assets Trade Raw Pricing and Standard account types. </p>
+                    <p class="lead-4">It is a powerful platform packed with brand new features aimed at improving your trading experience. It is available on Pinnacle Asset Trade Raw Pricing and Standard account types. </p>
                     <ul class="list">
                         <li>Mobility</li>
                         <li>Analytics - DOM</li>
@@ -208,7 +208,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2 class="mb-3">How to open an MetaTrader 5 account with Pinnacle Assets Trade.</h2>
+                    <h2 class="mb-3">How to open an MetaTrader 5 account with Pinnacle Asset Trade.</h2>
                     <p class="lead-2 mb-4 w-md-75 m-auto">Before you can start trading, first open a Standard or Professional MetaTrader 5 account with IC markets. Upon successful account registration, you will be able to find your MetaTrader 5 account details listed in your Secured Client  Area.</p>
                     
                         <a id="mt5_page_64" class="btn btn-primary" href="../open-trading-account/live.html">Start Trading</a>

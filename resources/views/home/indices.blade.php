@@ -7,7 +7,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">Indices</h2>
-                    <p class="lead-3 color-white">Gain exposure to the basket of instruments making up the index in just one trade. The world’s most popular Indices are available on all Pinnacle Assets Trade trading platforms.</p>
+                    <p class="lead-3 color-white">Gain exposure to the basket of instruments making up the index in just one trade. The world’s most popular Indices are available on all Pinnacle Asset Trade trading platforms.</p>
                     <a id="indices_1" class="btn btn-primary" href="../open-trading-account/live.html">Start Trading</a>
                     
                 </div>
@@ -81,7 +81,7 @@
                                     <i>
                                         <img src="https://www.icmarkets.com/assets/images/single_market_page/icon-indices.svg" alt="" class="img-fluid h-100">
                                     </i>
-                                    <h5 class="fw-700 lh-base mb-3">Indices are the most popular form of CFDs. Pinnacle Assets Trade has a large range of Indices from around the world to choose from, including the Australian S&P 200 Index, UK FTSE 100 Index, US E-mini S&P 500 and US DJIA Index.</h5>
+                                    <h5 class="fw-700 lh-base mb-3">Indices are the most popular form of CFDs. Pinnacle Asset Trade has a large range of Indices from around the world to choose from, including the Australian S&P 200 Index, UK FTSE 100 Index, US E-mini S&P 500 and US DJIA Index.</h5>
                                     <p class="lead-4 mb-3">A stock index is a good indicative measure of market performance. Indices such as the FTSE 100 and DJIA Index are baskets of blue chip stocks listed on the exchange and are generally a good measure of the current market sentiment. A change in the performance of any constituent stock in an index is reflected in a change in the overall value of that index.</p>
                                     <p class="lead-4 mb-2">Indices have the advantage of allowing traders to take a wider view of a basket of stocks rather than taking a view on one individual stock alone. Online CFD and futures based indices are offered on all platforms.</p>
                                     
@@ -138,9 +138,9 @@
             <div class="row">
                 <div class="col-md-12">
                     <h3 class="mb-2 fw-700">(Spot) Equity Indices Spreads</h3>
-                    <p class="lead-3">Pinnacle Assets Trade offers competitive spreads across all of our cash Indices, including the E-mini S&amp;P 500 Index from 0.4 points, the FTSE 100 Index from 1 point, Xetra DAX Index from 1 point and S&amp;P 200 Index from 1 point.</p>
+                    <p class="lead-3">Pinnacle Asset Trade offers competitive spreads across all of our cash Indices, including the E-mini S&amp;P 500 Index from 0.4 points, the FTSE 100 Index from 1 point, Xetra DAX Index from 1 point and S&amp;P 200 Index from 1 point.</p>
                     <h3 class="mb-2 fw-700">Futures Indices</h3>
-                    <p class="lead-3 mb-0">In addition to Equity Indices, Pinnacle Assets Trade also offers Futures Indices: ICE Dollar Index and VIX Index.</p>
+                    <p class="lead-3 mb-0">In addition to Equity Indices, Pinnacle Asset Trade also offers Futures Indices: ICE Dollar Index and VIX Index.</p>
                 </div>
             </div>
         </div>
@@ -156,7 +156,7 @@
                     <p class="lead-4 lh-base mb-2">
                         From the above example, let us assume that the ex-dividend date for Index AUS200 is on the of 18th August 2016. Therefore, a client must have an open position for Index AUS200 before the 18th of August 2016 and it must remain open until the 18th August 2016, in order to have the dividend adjustment of $2.44 per lot. To determine if the dividend adjustment is added or deducted to the client’s account, will depend on whether it is a SELL or BUY on AUS200. If the client has 1 lot of BUY for AUS200, the client will be entitled $2.44 per lot. However, if it is a SELL of AUS200, the client will be deducted $2.44 per lot. The amount $2.44 per lot will be converted to the client’s base currency, before it is being deducted.
                     </p>
-                    <p class="lead-4">Since this is from index AUS200, the dividend adjustment will be AUD$2.44 per lot. Alternatively, if the index is US500, the dividend adjustment would be USD$2.44 per lot. Pinnacle Assets Trade EX- Dividends Excel sheet shows the expected Indices that will have their index points adjusted for the given week and the actual ex-dividend adjustment amount for each indices will be updated regularly on our blog, Ex- Dividends Adjustments.</p>
+                    <p class="lead-4">Since this is from index AUS200, the dividend adjustment will be AUD$2.44 per lot. Alternatively, if the index is US500, the dividend adjustment would be USD$2.44 per lot. Pinnacle Asset Trade EX- Dividends Excel sheet shows the expected Indices that will have their index points adjusted for the given week and the actual ex-dividend adjustment amount for each indices will be updated regularly on our blog, Ex- Dividends Adjustments.</p>
                 </div>
             </div>
         </div>

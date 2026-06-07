@@ -72,8 +72,8 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-7">
-                    <h4 class="lead-2 lh-base fw-700 mb-4">Our Raw Spread&nbsp; account offers some of the lowest possible spreads available. Our average EUR/USD spread is 0.1 pips, with only a small commission of $3.50 per lot payable per side. With Deep liquidity and fast execution, Pinnacle Assets Trade Raw Spread account was built for day traders, scalpers and expert advisors.</h4>
-                    <p class="lead-2">Our MetaTrader 4 and 5 Raw Spread servers are located in the Equinix NY4 data center in New York, bringing you closer to our bridge, eliminating any unnecessary latency. Pinnacle Assets Trade MetaTrader 4 and 5 platforms are the preferred choice for active day traders and scalpers globally.</p>
+                    <h4 class="lead-2 lh-base fw-700 mb-4">Our Raw Spread&nbsp; account offers some of the lowest possible spreads available. Our average EUR/USD spread is 0.1 pips, with only a small commission of $3.50 per lot payable per side. With Deep liquidity and fast execution, Pinnacle Asset Trade Raw Spread account was built for day traders, scalpers and expert advisors.</h4>
+                    <p class="lead-2">Our MetaTrader 4 and 5 Raw Spread servers are located in the Equinix NY4 data center in New York, bringing you closer to our bridge, eliminating any unnecessary latency. Pinnacle Asset Trade MetaTrader 4 and 5 platforms are the preferred choice for active day traders and scalpers globally.</p>
                 </div>
                 <div class="col-md-5">
                     <div class="card range-card shadow-bx ms-auto">
@@ -104,8 +104,8 @@
             <div class="row justify-content-center">
                 <div class="col-md-11 text-center">
                     <h2 class="fw-700">Raw Pricing</h2>
-                    <p class="lead-3 mb-3 lh-base">Pinnacle Assets Trade is able to offer market pricing and some of the best trading conditions through the MetaTrader 4 and MetaTrader 5 platforms by providing clients with Raw Pricing.</p>
-                    <p class="lead-3 mb-0 lh-base">The Raw Pricing environment allows you to trade on institutional grade pricing on almost the same level of the world’s leading execution venues. Executable Streaming Prices (ESP) are sent from Pinnacle Assets Trade's pricing providers to us and offered to our clients with no dealing desk, price manipulation or requotes. Pinnacle Assets Trade is the Forex CFD provider of choice for high volume traders, scalpers and robots who demand the tight spreads and best possible execution.</p>
+                    <p class="lead-3 mb-3 lh-base">Pinnacle Asset Trade is able to offer market pricing and some of the best trading conditions through the MetaTrader 4 and MetaTrader 5 platforms by providing clients with Raw Pricing.</p>
+                    <p class="lead-3 mb-0 lh-base">The Raw Pricing environment allows you to trade on institutional grade pricing on almost the same level of the world’s leading execution venues. Executable Streaming Prices (ESP) are sent from Pinnacle Asset Trade's pricing providers to us and offered to our clients with no dealing desk, price manipulation or requotes. Pinnacle Asset Trade is the Forex CFD provider of choice for high volume traders, scalpers and robots who demand the tight spreads and best possible execution.</p>
                 </div>
             </div>
         </div>
@@ -115,15 +115,15 @@
             <div class="row">
                 <div class="col-md-6">
                     <h3 class="mb-3 fw-700">Fast order execution</h3>
-                    <p class="lead-3 mb-3">The Pinnacle Assets Trade MetaTrader 4 and 5 server is located in the Equinix NY4 data centre in New York. The NY4 data centre referred to as a financial ecosystem is home to over 600 buy and sell side firms, exchanges, trading venues, market data and service providers. The MetaTrader 4 and 5 server is cross connected to our Communication Network to ensure low latency and the fast execution of your trades via Pinnacle Assets Trade trading environment.</p>
-                    <p class="lead-3 mb-5">The Pinnacle Assets Trade MetaTrader 4 and 5 trade servers have latency of less than 1 millisecond to major VPS providers either collocated in the NY4 data centre or through dedicated lines to nearby data centres.This low latency environment is ideal for automated and High Frequency Trading and scalping.</p>
+                    <p class="lead-3 mb-3">The Pinnacle Asset Trade MetaTrader 4 and 5 server is located in the Equinix NY4 data centre in New York. The NY4 data centre referred to as a financial ecosystem is home to over 600 buy and sell side firms, exchanges, trading venues, market data and service providers. The MetaTrader 4 and 5 server is cross connected to our Communication Network to ensure low latency and the fast execution of your trades via Pinnacle Asset Trade trading environment.</p>
+                    <p class="lead-3 mb-5">The Pinnacle Asset Trade MetaTrader 4 and 5 trade servers have latency of less than 1 millisecond to major VPS providers either collocated in the NY4 data centre or through dedicated lines to nearby data centres.This low latency environment is ideal for automated and High Frequency Trading and scalping.</p>
                     <h3 class="mb-3 fw-700">No Restrictions onTrading – Scalping Allowed </h3>
-                    <p class="lead-3 mb-3"> Pinnacle Assets Trade MetaTrader 4 and 5 platforms have no restrictions on trading. We have some of the best trading conditions for scalping and high frequency trading globally, allowing traders to place orders between the spread as there is no minimum order distance and a freeze level of 0. This means orders including stop loss orders can be placed as close to the market price as you like.</p>
-                    <p class="lead-3 mb-5">Traders can also hedge positions as there is no first in first out (FIFO) rule with Pinnacle Assets Trade. Please note that different hedge margin level and settings may be applied to different products and platforms.</p>
+                    <p class="lead-3 mb-3"> Pinnacle Asset Trade MetaTrader 4 and 5 platforms have no restrictions on trading. We have some of the best trading conditions for scalping and high frequency trading globally, allowing traders to place orders between the spread as there is no minimum order distance and a freeze level of 0. This means orders including stop loss orders can be placed as close to the market price as you like.</p>
+                    <p class="lead-3 mb-5">Traders can also hedge positions as there is no first in first out (FIFO) rule with Pinnacle Asset Trade. Please note that different hedge margin level and settings may be applied to different products and platforms.</p>
                 </div>
                 <div class="col-md-6">
                     <h3 class="mb-3 fw-700">Spreads from 0.0 pips</h3>
-                    <p class="lead-3 mb-3">Pinnacle Assets Trade boasts some of the tightest spreads of all forex brokers globally. Spreads start at 0.0 pips on the MetaTrader 4 and 5 platforms with the average on EURUSD being 0.1 pips 24/5. This is currently one of the tightest average EURUSD spread globally.</p>
+                    <p class="lead-3 mb-3">Pinnacle Asset Trade boasts some of the tightest spreads of all forex brokers globally. Spreads start at 0.0 pips on the MetaTrader 4 and 5 platforms with the average on EURUSD being 0.1 pips 24/5. This is currently one of the tightest average EURUSD spread globally.</p>
                     <p class="lead-3 mb-5">Our pricing connector, aggregates a&nbsp; mix from up to 25 different prices providers, that means that we are always able to source the best price&nbsp; for our clients and keep our spreads tight, especially during high volatility times such as news announcements..</p>
                     <h3 class="mb-3 fw-700">Level II Pricing – MarketDepth </h3>
                     <p class="lead-3 mb-5">Depth of market shows the full range of executable prices coming directly from our prices providers. Depth of market offers complete transparency of the liquidity of each currency pair by showing the available volumes for each price level at any given time. High liquidity, asynchronous spot prices and low latency guarantee the tightest possible spreads.</p>
@@ -154,7 +154,7 @@
                         </h5>
                         <p class="footnote">
                             
-                                Accounts go up to 1:1000 leverage on the Pinnacle Assets Trade MetaTrader 4 and 5 platforms. Traders can use higher leverage to suit their trading style and get the best out of their manual and automated trading strategies.
+                                Accounts go up to 1:1000 leverage on the Pinnacle Asset Trade MetaTrader 4 and 5 platforms. Traders can use higher leverage to suit their trading style and get the best out of their manual and automated trading strategies.
                             
                         </p>
                     </div>
@@ -171,7 +171,7 @@
             <div class="row">
                 <div class="col-md-12 text-center">
                     <h1>Start trading with</h1>
-                    <h4>Pinnacle Assets Trade Raw Spread Account</h4>
+                    <h4>Pinnacle Asset Trade Raw Spread Account</h4>
                     <div class="btn-flex">
                         <a id="raw_spread_account_3" class="btn btn-primary me-3" href="../open-trading-account/live.html">Open Trading Account</a>
                         <a id="raw_spread_account_4" class="btn btn-outline-primary" href="../open-trading-account/demo.html">Try a Free Demo</a>

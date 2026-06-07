@@ -12,7 +12,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">Swap Rates</h2>
-                    <p class="lead-3 color-white">Pinnacle Assets Trade swap rates are amongst the most competitive in the world. Maximise your overnight swap earnings or reduce your swap costs across our wide range of products.</p>
+                    <p class="lead-3 color-white">Pinnacle Asset Trade swap rates are amongst the most competitive in the world. Maximise your overnight swap earnings or reduce your swap costs across our wide range of products.</p>
                     <a id="swap_rates_1" class="btn btn-primary" href="../open-trading-account/live.html">Start Trading</a>
                     
                 </div>

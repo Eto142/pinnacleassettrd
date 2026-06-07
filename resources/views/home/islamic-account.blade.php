@@ -75,7 +75,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-7">
-                    <h4 class="lead-2 lh-base fw-700 mb-4">Pinnacle Assets Trade offers Islamic accounts (also known as swap free accounts) for clients who cannot earn or pay interest due to their religious beliefs. The swap free option** is available on both our Raw Spread and Standard account types on the MetaTrader4, MetaTrader 5 and cTrader platforms.</h4>
+                    <h4 class="lead-2 lh-base fw-700 mb-4">Pinnacle Asset Trade offers Islamic accounts (also known as swap free accounts) for clients who cannot earn or pay interest due to their religious beliefs. The swap free option** is available on both our Raw Spread and Standard account types on the MetaTrader4, MetaTrader 5 and cTrader platforms.</h4>
                     <p class="lead-2">We are committed to providing our clients with the best trading conditions. Our Islamic accounts offer state of the art trading infrastructure and execution speeds enabling our traders to gain a competitive edge.</p>
                 </div>
                 <div class="col-md-5">
@@ -119,7 +119,7 @@
                         
                             <a id="islamic_account_3" class="btn btn-link p-0" href="https://cdn.icmarkets.com/uploads/islamic-terms-and-conditions-fsa.pdf" target="_blank">Click here</a>
                         
-                         to access the terms & conditions governing the use of 'Islamic Accounts' at Pinnacle Assets Trade.
+                         to access the terms & conditions governing the use of 'Islamic Accounts' at Pinnacle Asset Trade.
                     </p>
                     
                         <p class="lead-5 fw-700 mb-0 lh-base">
@@ -1916,7 +1916,7 @@
                 <div class="col-md-12 mt-4">
                     <p class="footnote break fw-700">
                         
-                            The Holding fee will be charged every calendar day including weekends. Weekend holding fees will be charged the next business day.<br>New positions will benefit from a 5-day grace period. During this time frame, no holding fees will be incurred, offering you a seamless initiation period. For instance, if you open a position on BTCUSD on February 12th, no holding fee will be applied if you close your position before the market closes on 16th Feb 2024.<br>**Pinnacle Assets Trade reserves the right to request additional documentation in order to offer swap-free privilege to an account.<br>&nbsp;<br>
+                            The Holding fee will be charged every calendar day including weekends. Weekend holding fees will be charged the next business day.<br>New positions will benefit from a 5-day grace period. During this time frame, no holding fees will be incurred, offering you a seamless initiation period. For instance, if you open a position on BTCUSD on February 12th, no holding fee will be applied if you close your position before the market closes on 16th Feb 2024.<br>**Pinnacle Asset Trade reserves the right to request additional documentation in order to offer swap-free privilege to an account.<br>&nbsp;<br>
                         
                     </p>
                 </div>

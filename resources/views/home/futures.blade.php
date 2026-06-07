@@ -9,7 +9,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-11 text-center">
                     <h2 class="mb-2">Futures</h2>
-                    <p class="lead-3 color-white">Futures are one of the most popular form of CFDs. Pinnacle Assets Trade offer a range of Futures from around the world, including ICE Dollar Index and CBOE VIX Index. Online Futures based CFDs are offered exclusively on Pinnacle Assets Trade's MetaTrader 4 & 5 Platform.</p>
+                    <p class="lead-3 color-white">Futures are one of the most popular form of CFDs. Pinnacle Asset Trade offer a range of Futures from around the world, including ICE Dollar Index and CBOE VIX Index. Online Futures based CFDs are offered exclusively on Pinnacle Asset Trade's MetaTrader 4 & 5 Platform.</p>
                     <a id="futures_1" class="btn btn-primary" href="../open-trading-account/live.html">Start Trading</a>
                     
                 </div>
@@ -83,7 +83,7 @@
                                     <i>
                                         <img src="https://www.icmarkets.com/assets/images/single_market_page/icon-futures.webp" alt="" class="img-fluid h-100">
                                     </i>
-                                    <h5 class="fw-700 lh-base mb-3">Futures CFD are priced directly from the underlying futures markets, with commissions, financing charges and dividend adjustments all built into the spread itself. Pinnacle Assets Trade offers competitive spreads across all of our Future CFDs.</h5>
+                                    <h5 class="fw-700 lh-base mb-3">Futures CFD are priced directly from the underlying futures markets, with commissions, financing charges and dividend adjustments all built into the spread itself. Pinnacle Asset Trade offers competitive spreads across all of our Future CFDs.</h5>
                                     <p class="lead-4">The following table shows our selection of global Futures CFDs</p>
                                     
                                     <div class="table-responsive">
@@ -188,7 +188,7 @@
                     </div>
                     <h2>Upcoming Expiring, Spot Oil and Tradable Markets</h2>
                     <p class="lead-3"><b>Futures expiry/roll process</b></p>
-                    <p class="lead-3">Pinnacle Assets Trade Futures CFDs are set to expire two working days before the contract expires on the underlying market. When a Futures CFD contract expires, all open positions will be closed at the futures settlement price; as reported by the futures exchange. This process would usually take place on the day following the expiry. Open positions are not rolled to the next front month so any clients wishing to hold long term positions must reopen the trade on the next available contract.</p>
+                    <p class="lead-3">Pinnacle Asset Trade Futures CFDs are set to expire two working days before the contract expires on the underlying market. When a Futures CFD contract expires, all open positions will be closed at the futures settlement price; as reported by the futures exchange. This process would usually take place on the day following the expiry. Open positions are not rolled to the next front month so any clients wishing to hold long term positions must reopen the trade on the next available contract.</p>
                     <div class="table-responsive mb-5 pb-4">
                         <table class="table table-01 mb-3">
                             <thead>

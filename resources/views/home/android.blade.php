@@ -76,7 +76,7 @@
                 <div class="col-md-6">
                     <h2>Trade Forex on the go with your Android device!</h2>
                     <p class="lead-3 mb-3">We offer both MetaTrader 4 and MetaTrader 5 as an application on Android-based devices. These applications give traders easy access to their accounts wherever they are.</p>
-                    <p class="lead-3 mb-4">The Pinnacle Assets Trade MetaTrader Android application gives you access to our tight spreads and fast execution speeds directly on your Android-based mobile. It features fast one click trading from multiple screens and customisable layouts. With full access to historical data and advanced charting facilities, you can manage your account, trade our full list of products, and use over 30 technical indicators for market analysis.</p>
+                    <p class="lead-3 mb-4">The Pinnacle Asset Trade MetaTrader Android application gives you access to our tight spreads and fast execution speeds directly on your Android-based mobile. It features fast one click trading from multiple screens and customisable layouts. With full access to historical data and advanced charting facilities, you can manage your account, trade our full list of products, and use over 30 technical indicators for market analysis.</p>
                     <a id="android_2" class="btn btn-primary mb-3" href="../open-trading-account/live.html">Use Metatrader for Android</a>
                     <p class="footnote"><b>System Requirements</b> Android  4.0 or higher</p>
                 </div>
@@ -116,7 +116,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="text-center">
-                        <h2 class="mb-5">Why trade on MetaTrader Android with Pinnacle Assets Trade?</h2>
+                        <h2 class="mb-5">Why trade on MetaTrader Android with Pinnacle Asset Trade?</h2>
                     </div>
                     <div class="row">
                         <div class="col-md-6">

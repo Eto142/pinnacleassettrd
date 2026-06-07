@@ -8,7 +8,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
-                    <h2 class="fw-700 mb-5 text-white">Maximize Forex Success <br/>with Pinnacle Assets Trade Signal Start</h2>
+                    <h2 class="fw-700 mb-5 text-white">Maximize Forex Success <br/>with Pinnacle Asset Trade Signal Start</h2>
                     <a id="myfxbook_autotrade_1" class="btn btn-primary" href="https://icmarkets.signalstart.com/" target="_blank">Sign Up</a>
                 </div>
             </div>

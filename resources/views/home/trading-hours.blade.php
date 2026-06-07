@@ -12,7 +12,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">Trading Hours</h2>
-                    <p class="lead-3 color-white">At Pinnacle Assets Trade there’s always a market for you to trade. Our dedicated specialists are available for you 24 hours a day, 5 days a week.</p>
+                    <p class="lead-3 color-white">At Pinnacle Asset Trade there’s always a market for you to trade. Our dedicated specialists are available for you 24 hours a day, 5 days a week.</p>
                     <a id="trading_hours_1" class="btn btn-primary" href="../open-trading-account/live.html">Start Trading</a>
                     
                 </div>
@@ -66,7 +66,7 @@
                     <i>
                         <img class="img-fluid" src="https://www.icmarkets.com/assets/images/single_market_page/trading-hours-hours.webp" alt="">
                     </i>
-                    <h4 class="fw-700 mb-4">See at a glance the market hours for all our tradable products below. Please note that Pinnacle Assets Trade's server time and charts are GMT+2 or GMT+3 (when daylight savings is in effect).</h4>
+                    <h4 class="fw-700 mb-4">See at a glance the market hours for all our tradable products below. Please note that Pinnacle Asset Trade's server time and charts are GMT+2 or GMT+3 (when daylight savings is in effect).</h4>
                     <p class="lead-3 mb-3">The trading hours for all currency pairs is&nbsp;00:01 server time to 23:59 server time daily (23:57 on Friday), whereas for Gold is 01:02 server time to 23:57. All other Metals (XAG, XPD, XPT) open for trading at 01:00 server time (Monday) and close at 23:59 server time daily (23:57 on Friday).</p>
                     <p class="lead-3 mb-3">You will also be able to view the Trading Hours from within your MetaTrader trading terminal by following the process outlined below.</p>
                     <p class="lead-3"><p>Right click on any instrument in the ‘Market Watch’ section, then left click on the ‘Specification’ button, a new window will open that shows the Trading Hours for the pair selected.&nbsp;</p><p>Trading Hours are subject to change. The most accurate details are those displayed in your account through the electronic trading system.</p></p>

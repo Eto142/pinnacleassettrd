@@ -72,8 +72,8 @@
         <div class="container">
             <div class="row align-items-md-center">
                 <div class="col-md-7">
-                    <h2 class="mb-3">Trade on the most sophisticated trading technology Pinnacle Assets Trade cTrader Web</h2>
-                    <p class="lead-3 mb-3">cTrader Web offers the fast order execution capabilities of cTrader with the ease and convenience of being a web-based application. cTrader Web is a user friendly web-based trading platform allowing you to enjoy trading with Pinnacle Assets Trade from anywhere in the world.</p>
+                    <h2 class="mb-3">Trade on the most sophisticated trading technology Pinnacle Asset Trade cTrader Web</h2>
+                    <p class="lead-3 mb-3">cTrader Web offers the fast order execution capabilities of cTrader with the ease and convenience of being a web-based application. cTrader Web is a user friendly web-based trading platform allowing you to enjoy trading with Pinnacle Asset Trade from anywhere in the world.</p>
                     <p class="lead-3 mb-3">cTrader Web has the same tight spreads, Level II Pricing, and one-click trading as the cTrader desktop version along with features such as a personalized trader dashboard to allow monitoring of your positions at a glance.</p>
                     
                         <a id="ctrader_web_3" class="btn btn-primary mb-3" href="../open-trading-account/live.html">Use cTrader web</a>
@@ -93,7 +93,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="text-center">
-                        <h2 class="mb-3">Why trade on cTrader Web with Pinnacle Assets Trade?</h2>
+                        <h2 class="mb-3">Why trade on cTrader Web with Pinnacle Asset Trade?</h2>
                         <p class="lead-2 mb-3">The World's Most Popular Platform</p>
                         <div class="single-logo">
                             <img class="img-fluid" src="https://www.icmarkets.com/assets/images/ctrader-white.webp" alt="">
@@ -137,23 +137,23 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2 class="mb-3">What makes Pinnacle Assets Trade's cTrader Platform different?</h2>
-                    <p class="lead-2 mb-5 w-md-75 mx-auto">Pinnacle Assets Trade has partnered with key providers to bring you a powerful and user-friendly platform designed to take your trading to the next level.</p>
+                    <h2 class="mb-3">What makes Pinnacle Asset Trade's cTrader Platform different?</h2>
+                    <p class="lead-2 mb-5 w-md-75 mx-auto">Pinnacle Asset Trade has partnered with key providers to bring you a powerful and user-friendly platform designed to take your trading to the next level.</p>
                     <div class="webtrader-list">
                         <div class="single-list text-start pe-md-5 mb-3">
                             <i><img src="https://www.icmarkets.com/assets/images/ctrader-01.webp" alt=""></i>
                             <h4 class="fw-700 mb-2">Extremely Low Spreads</h4>
-                            <p class="lead-4 lh-base fw-300">Pinnacle Assets Trade boasts some of the tightest spreads of all Forex CFD providers globally. Spreads on the EUR/USD can often be seen at 0.0 pips during the European and North American trading sessions. The average spread on EUR/USD is 0.1 pips 24/5.</p>
+                            <p class="lead-4 lh-base fw-300">Pinnacle Asset Trade boasts some of the tightest spreads of all Forex CFD providers globally. Spreads on the EUR/USD can often be seen at 0.0 pips during the European and North American trading sessions. The average spread on EUR/USD is 0.1 pips 24/5.</p>
                         </div>
                         <div class="single-list text-start pe-md-5 mb-3">
                             <i><img src="https://www.icmarkets.com/assets/images/ctrader-02.webp" alt=""></i>
                             <h4 class="fw-700 mb-2">Fast Order Execution</h4>
-                            <p class="lead-4 lh-base fw-300">The Pinnacle Assets Trade cTrader server is located in the LD5 IBX Equinix Data Centre in London. The LD5 IBX data centre referred to as a financial ecosystem is home to over 600 buy and sell side firms, exchanges, trading venues, market data and service providers.</p>
+                            <p class="lead-4 lh-base fw-300">The Pinnacle Asset Trade cTrader server is located in the LD5 IBX Equinix Data Centre in London. The LD5 IBX data centre referred to as a financial ecosystem is home to over 600 buy and sell side firms, exchanges, trading venues, market data and service providers.</p>
                         </div>
                         <div class="single-list text-start pe-md-5 mb-3">
                             <i><img src="https://www.icmarkets.com/assets/images/ctrader-03.webp" alt=""></i>
                             <h4 class="fw-700 mb-2">Advanced Trading Tools</h4>
-                            <p class="lead-4 lh-base fw-300">Pinnacle Assets Trade's cTrader offers advanced trading tools including advanced order types, depth of market (DOM) and volume-weighted average price (VWAP) indicators, to help you make  informed trading decisions.</p>
+                            <p class="lead-4 lh-base fw-300">Pinnacle Asset Trade's cTrader offers advanced trading tools including advanced order types, depth of market (DOM) and volume-weighted average price (VWAP) indicators, to help you make  informed trading decisions.</p>
                         </div>
                         <div class="single-list text-start pe-md-5 mb-0">
                             <i><img src="https://www.icmarkets.com/assets/images/ctrader-04.webp" alt=""></i>
@@ -163,7 +163,7 @@
                         <div class="single-list text-start pe-md-5 mb-0">
                             <i><img src="https://www.icmarkets.com/assets/images/ctrader-03.webp" alt=""></i>
                             <h4 class="fw-700 mb-2">Level II Pricing</h4>
-                            <p class="lead-4 lh-base fw-300">cTrader platform offers complete transparency of the liquidity of each currency pair by showing the available volumes for each price level at any given time. Pinnacle Assets Trade's high liquidity, asynchronous spot prices and low latency guarantee the tightest possible spreads.</p>
+                            <p class="lead-4 lh-base fw-300">cTrader platform offers complete transparency of the liquidity of each currency pair by showing the available volumes for each price level at any given time. Pinnacle Asset Trade's high liquidity, asynchronous spot prices and low latency guarantee the tightest possible spreads.</p>
                         </div>
                         <div class="single-list text-start pe-md-5 mb-0">
                             <i><img src="https://www.icmarkets.com/assets/images/ctrader-01.webp" alt=""></i>
@@ -204,12 +204,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2 class="mb-3">How to open an cTrader account with Pinnacle Assets Trade.</h2>
+                    <h2 class="mb-3">How to open an cTrader account with Pinnacle Asset Trade.</h2>
                     <p class="lead-3 mb-2 mb-md-5 pb-3 w-md-75 m-auto">Before you can start trading, you will need to open a Standard or Professional cTrader account. Upon successful account registration, you will find your cTrader  account details listed in your Personal Area.</p>
                     <ul class="openAcc-steps">
                         <li>
                             <span>Step 01</span>
-                            Open an account with Pinnacle Assets Trade
+                            Open an account with Pinnacle Asset Trade
                         </li>
                         <li>
                             <span>Step 02</span>

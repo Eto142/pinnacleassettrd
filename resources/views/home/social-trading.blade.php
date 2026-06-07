@@ -26,7 +26,7 @@
 			<div class="row">
 				<div class="col-md-12 text-center">
 					<h2 class="text-primary mb-3">Trade, Chat & Learn</h2>
-					<p class="lead-3">Connect your Pinnacle Assets Trade MetaTrader 4 Live Account and begin today.</p>
+					<p class="lead-3">Connect your Pinnacle Asset Trade MetaTrader 4 Live Account and begin today.</p>
 				</div>
 			</div>
 			<div class="row my-5 py-md-5">
@@ -56,7 +56,7 @@
 					<div class="text-section">
 						<div>
 							<h3 class="fw-700 mb-2">All-In-One Platform</h3>
-							<p class="lead-3">Connect your Pinnacle Assets Trade MetaTrader 4 Live Account and start trading within a community.</p>
+							<p class="lead-3">Connect your Pinnacle Asset Trade MetaTrader 4 Live Account and start trading within a community.</p>
 						</div>
 						<div>
 							<h3 class="fw-700 mb-2">Copy Trading</h3>
@@ -68,7 +68,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="text-center">
-						<a href="https://www.icmarkets.com/open-trading-account/live" class="btn btn-primary">Create Pinnacle Assets Trade Account</a>
+						<a href="https://www.icmarkets.com/open-trading-account/live" class="btn btn-primary">Create Pinnacle Asset Trade Account</a>
 					</div>
 				</div>
 			</div>
@@ -159,7 +159,7 @@
 					<div class="card getStartedCard">
 						<div class="card-head">
 							<span class="number">1</span>
-							<h4>Create an Pinnacle Assets Trade account</h4>
+							<h4>Create an Pinnacle Asset Trade account</h4>
 						</div>
 						<div class="card-body">
 							<ul>
@@ -179,7 +179,7 @@
 						</div>
 						<div class="card-body">
 							<ul>
-								<li>Link your Pinnacle Assets Trade account to IC Social by entering your account login details within the IC Social app.</li>
+								<li>Link your Pinnacle Asset Trade account to IC Social by entering your account login details within the IC Social app.</li>
 								<li>Choose your preferred trader from a large collection and begin your copy trading experience.</li>
 							</ul>
 						</div>
@@ -213,7 +213,7 @@
 									</h4>
 									<div id="collapse_0_0" class="accordion-collapse collapse" aria-labelledby="i_0_0" data-bs-parent="#i_0">
 									<div class="accordion-body">
-										<p class="lead-4">IC Social is a social trading app that allows traders to replicate/copy the strategies of signal providers and also to become a signal provider by using your Pinnacle Assets Trade MetaTrader 4 account.</p>
+										<p class="lead-4">IC Social is a social trading app that allows traders to replicate/copy the strategies of signal providers and also to become a signal provider by using your Pinnacle Asset Trade MetaTrader 4 account.</p>
 									</div>
 									</div>
 								</div>
@@ -228,7 +228,7 @@
 									</h4>
 									<div id="collapse_0_1" class="accordion-collapse collapse" aria-labelledby="i_0_1" data-bs-parent="#i_0">
 									<div class="accordion-body">
-										<p class="lead-4">You can download the IC Social app from Google Play store or iOS app store. If you are an existing client of Pinnacle Assets Trade and hold a live accounts, you can sign up with your registered email address. If you are not an Pinnacle Assets Trade client yet, you can apply for a <a href='../open-trading-account/live.html'>Live Account</a>, once approved, you can connect your MetaTrader 4 account to IC Social.</p>
+										<p class="lead-4">You can download the IC Social app from Google Play store or iOS app store. If you are an existing client of Pinnacle Asset Trade and hold a live accounts, you can sign up with your registered email address. If you are not an Pinnacle Asset Trade client yet, you can apply for a <a href='../open-trading-account/live.html'>Live Account</a>, once approved, you can connect your MetaTrader 4 account to IC Social.</p>
 									</div>
 									</div>
 								</div>
@@ -248,7 +248,7 @@
 									</h4>
 									<div id="collapse_1_0" class="accordion-collapse collapse" aria-labelledby="i_1_0" data-bs-parent="#i_1">
 									<div class="accordion-body">
-										<p class="lead-4">You can Link your Pinnacle Assets Trade account to IC Social by entering your account login details within the IC Social app.</p>
+										<p class="lead-4">You can Link your Pinnacle Asset Trade account to IC Social by entering your account login details within the IC Social app.</p>
 									</div>
 									</div>
 								</div>
@@ -368,7 +368,7 @@
 									</h4>
 									<div id="collapse_1_8" class="accordion-collapse collapse" aria-labelledby="i_1_8" data-bs-parent="#i_1">
 									<div class="accordion-body">
-										<p class="lead-4">You can place such requests via your Pinnacle Assets Trade Secure Client Area or by contacting us at <a href='mailto:support@icmarkets.com'>support@icmarkets.com</a></p>
+										<p class="lead-4">You can place such requests via your Pinnacle Asset Trade Secure Client Area or by contacting us at <a href='mailto:support@icmarkets.com'>support@icmarkets.com</a></p>
 									</div>
 									</div>
 								</div>
@@ -498,7 +498,7 @@
 									</h4>
 									<div id="collapse_3_3" class="accordion-collapse collapse" aria-labelledby="i_3_3" data-bs-parent="#i_3">
 									<div class="accordion-body">
-										<p class="lead-4">Performance fees are calculated based on your Broker's preferred interval: Instantly, <b>Daily</b>, Weekly or Monthly. Fees are then deducted shortly thereafter when they have been processed. They will be labelled clearly in your account. <span class="d-block mt-2">Pinnacle Assets Trade offers daily performance fee payout for Signal providers.</span></p>
+										<p class="lead-4">Performance fees are calculated based on your Broker's preferred interval: Instantly, <b>Daily</b>, Weekly or Monthly. Fees are then deducted shortly thereafter when they have been processed. They will be labelled clearly in your account. <span class="d-block mt-2">Pinnacle Asset Trade offers daily performance fee payout for Signal providers.</span></p>
 									</div>
 									</div>
 								</div>

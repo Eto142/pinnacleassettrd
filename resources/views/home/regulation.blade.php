@@ -9,7 +9,7 @@
                     <h2 class="mb-2">Regulation</h2>
                     <p class="lead-3">
                         
-                            Pinnacle Assets Trade is authorised and regulated by Financial Services Authority of Seychelles (FSA). Trade with peace of mind knowing that clients are protected by Pinnacle Assets Trade's strict compliance protocols.
+                            Pinnacle Asset Trade is authorised and regulated by Financial Services Authority of Seychelles (FSA). Trade with peace of mind knowing that clients are protected by Pinnacle Asset Trade's strict compliance protocols.
                         
                     </p>
                     <a id="regulation_1" class="btn btn-primary" href="../open-trading-account/live.html">Start Trading</a>
@@ -86,7 +86,7 @@
                             </div>
                             <div class="card-detail">
                                 <p class="lead-4 mb-0 fw-400">
-                                    Pinnacle Assets Trade complies with the FSA regulatory requirements and has in place internal risk management controls to ensure that it is sufficiently capitalized to support its operations.<br><br>External audits supplement Pinnacle Assets Trade operational and accounting process and ensure full regulatory compliance.
+                                    Pinnacle Asset Trade complies with the FSA regulatory requirements and has in place internal risk management controls to ensure that it is sufficiently capitalized to support its operations.<br><br>External audits supplement Pinnacle Asset Trade operational and accounting process and ensure full regulatory compliance.
                                 </p>
                             </div>
                         </div>
@@ -118,7 +118,7 @@
             <div class="container"> 
                 <div class="row">
                     <div class="col-md-12">
-                        <h3 class='mb-2'><b>Segregation of Client Funds</b></h3><p class='lead-4 mb-4'>When funding your trading account your funds are held in client segregated accounts with top tier banking institutions. Pinnacle Assets Trade complies with the Securities Act and the Securities (Conduct of Business) Regulations and employs strict policies and procedures regarding the maintenance and operation of these accounts.</p><h3 class='mb-2'><b>Anti-Money Laundering</b></h3><p class='lead-4 mb-4'>In accordance with the FSA Anti-Money Laundering and Counter Terrorism Financial Act, Pinnacle Assets Trade has in place policies and procedures to ensure compliance with the law. These policies and procedures are designed to prevent money laundering activities from occurring. Pinnacle Assets Trade <a target='_blank' href='aml-policy6cf4.html?regulator=3'>Anti-Money Laundering policy</a> outlines the documents that you must provide us before opening an account.</p><h3 class='mb-2'><b>Licence</b></h3><p class='lead-4 mb-4'>Raw Trading Ltd, Pinnacle Assets Trade, is authorised by the Seychelles Financial Services Authority as a Security Dealer for the provision of financial services under License NO SD018.
+                        <h3 class='mb-2'><b>Segregation of Client Funds</b></h3><p class='lead-4 mb-4'>When funding your trading account your funds are held in client segregated accounts with top tier banking institutions. Pinnacle Asset Trade complies with the Securities Act and the Securities (Conduct of Business) Regulations and employs strict policies and procedures regarding the maintenance and operation of these accounts.</p><h3 class='mb-2'><b>Anti-Money Laundering</b></h3><p class='lead-4 mb-4'>In accordance with the FSA Anti-Money Laundering and Counter Terrorism Financial Act, Pinnacle Asset Trade has in place policies and procedures to ensure compliance with the law. These policies and procedures are designed to prevent money laundering activities from occurring. Pinnacle Asset Trade <a target='_blank' href='aml-policy6cf4.html?regulator=3'>Anti-Money Laundering policy</a> outlines the documents that you must provide us before opening an account.</p><h3 class='mb-2'><b>Licence</b></h3><p class='lead-4 mb-4'>Raw Trading Ltd, Pinnacle Asset Trade, is authorised by the Seychelles Financial Services Authority as a Security Dealer for the provision of financial services under License NO SD018.
                             <br>All Users (traders, copytraders,investors) must have a Trading License Certificate in compliance with international trading standards.
                         </p>
                     </div>

@@ -10,7 +10,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">Account Overview</h2>
-                    <p class="lead-3 text-white">Pinnacle Assets Trade Raw Pricing offering and large product range are included across all account types. Suited for both new and experienced traders, simply choose your preferred trading platform and pricing model to get started.</p>
+                    <p class="lead-3 text-white">Pinnacle Asset Trade Raw Pricing offering and large product range are included across all account types. Suited for both new and experienced traders, simply choose your preferred trading platform and pricing model to get started.</p>
                     <a id="trading_accounts_overview_1" class="btn btn-primary" href="{{route('register')}}">Open  account</a>
                     
                 </div>
@@ -175,7 +175,7 @@
                 <div class="col-md-12">
                     <h5>COMPARE ACCOUNT FEATURES</h5>
                     <h2>Why Choose Our Raw Spread Account?</h2>
-                    <p class="lead-3">Our Raw Spread account offers some of the lowest possible spreads available. Our average EUR/USD spread is 0.1 pips, with only a small commission of $3.50 per lot payable per side. With aggregated source of pricing from up to 25 institutional grade sources, Pinnacle Assets Trade Raw Spread account was built for day traders, scalpers and expert advisors. Our MetaTrader 4 and 5 servers are located in the Equinix NY4 data center in New York, bringing you closer to our bridge eliminating any unnecessary latency. Pinnacle Assets Trade MetaTrader 4 and 5 platforms are the preferred choice for active day traders and scalpers globally.</p>
+                    <p class="lead-3">Our Raw Spread account offers some of the lowest possible spreads available. Our average EUR/USD spread is 0.1 pips, with only a small commission of $3.50 per lot payable per side. With aggregated source of pricing from up to 25 institutional grade sources, Pinnacle Asset Trade Raw Spread account was built for day traders, scalpers and expert advisors. Our MetaTrader 4 and 5 servers are located in the Equinix NY4 data center in New York, bringing you closer to our bridge eliminating any unnecessary latency. Pinnacle Asset Trade MetaTrader 4 and 5 platforms are the preferred choice for active day traders and scalpers globally.</p>
                     <div class="overflow-x-auto pt-4">
                         <div class="table-div">
                             <div class="table-div-leftfixed table-div-single">

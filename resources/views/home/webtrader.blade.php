@@ -9,7 +9,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">MetaTrader WebTrader</h2>
-                    <p class="lead-3">Access your MetaTrader 4 or MetaTrader 5 trading account from any web browser in the world using Pinnacle Assets Trade MetaTrader WebTrader.</p>
+                    <p class="lead-3">Access your MetaTrader 4 or MetaTrader 5 trading account from any web browser in the world using Pinnacle Asset Trade MetaTrader WebTrader.</p>
                     <a id="web_trader_1" class="btn btn-primary" target="_blank" href="https://webtrader-sc.icmarkets.com/">Start Trading with Web Trader</a>
                 </div>
             </div>
@@ -75,7 +75,7 @@
                 </div>
                 <div class="col-md-6">
                     <h2>Trade Forex from anywhere on MetaTrader WebTrader!</h2>
-                    <p class="lead-3 mb-3">MetaTrader WebTrader offers &nbsp;fast order execution capabilities of MetaTrader with ease and convenience of being a web-based application. MetaTrader WebTrader is a user friendly web-based trading platform allowing you to enjoy trading in the Pinnacle Assets Trade trading environment with no dealing desk from anywhere in the world.</p>
+                    <p class="lead-3 mb-3">MetaTrader WebTrader offers &nbsp;fast order execution capabilities of MetaTrader with ease and convenience of being a web-based application. MetaTrader WebTrader is a user friendly web-based trading platform allowing you to enjoy trading in the Pinnacle Asset Trade trading environment with no dealing desk from anywhere in the world.</p>
                     <p class="lead-3 mb-4">MetaTrader WebTrader has the same tight spreads, Level II Pricing, and one-click trading as the MetaTrader desktop version along with features such as a personalized trader dashboard to allow monitoring of your positions at a glance.</p>
                     <a id="web_trader_4" class="btn btn-primary mb-3" href="../open-trading-account/live.html">Open Account</a>
                     <p class="footnote"><b>System Requirements</b> Browsers Supported Chrome, Firefox, Safari, IE 10+</p>
@@ -116,7 +116,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="text-center">
-                        <h2 class="mb-3">Why trade on MetaTrader Web Trader with Pinnacle Assets Trade?</h2>
+                        <h2 class="mb-3">Why trade on MetaTrader Web Trader with Pinnacle Asset Trade?</h2>
                         <p class="mb-4 lead-3">MetaTrader Web  Trader has the same tight spreads, Level II Pricing, and one-click trading as the MetaTrader desktop version along with features such as a personalized trader dashboard to allow you to monitor all of your positions at a glance.</p>
                         <figure class="mb-5">
                             <img class="img-fluid" src="https://www.icmarkets.com/assets/images/browsers-icon.webp" alt="">
@@ -216,12 +216,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2 class="w-md-75 m-auto mb-3">How to open an MetaTrader WebTrader account with Pinnacle Assets Trade.</h2>
+                    <h2 class="w-md-75 m-auto mb-3">How to open an MetaTrader WebTrader account with Pinnacle Asset Trade.</h2>
                     <p class="w-md-75 lead-2 m-auto">Before you can start trading, you will need to open a Standard or Professional Web Trader account. Upon successful account registration, you will find your Web Trader account details listed in your Personal Area.</p>
                     <ul class="wbt-steplist">
                         <li>
                             <i><img class="img-fluid" src="https://www.icmarkets.com/assets/images/step-webtrader-01.webp" alt=""></i>
-                            <p class="lead-3">Open an Pinnacle Assets Trade account</p>
+                            <p class="lead-3">Open an Pinnacle Asset Trade account</p>
                         </li>
                         <li>
                             <i><img class="img-fluid" src="https://www.icmarkets.com/assets/images/step-webtrader-02.webp" alt=""></i>

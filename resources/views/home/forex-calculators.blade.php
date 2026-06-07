@@ -8,7 +8,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">Forex Trading Calculators</h2>
-                    <p class="lead-3">Forex trading calculators – Calculate current pip values in your account currency across Pinnacle Assets Trade range of products.</p>
+                    <p class="lead-3">Forex trading calculators – Calculate current pip values in your account currency across Pinnacle Asset Trade range of products.</p>
                 </div>
             </div>
         </div>

@@ -115,7 +115,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="text-center">
-                        <h2 class="mb-5">Why trade on MetaTrader iOS with Pinnacle Assets Trade?</h2>
+                        <h2 class="mb-5">Why trade on MetaTrader iOS with Pinnacle Asset Trade?</h2>
                     </div>
                     <div class="row">
                         <div class="col-md-6">

@@ -6,7 +6,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">Legal Documents</h2>
-                    <p class="lead-3">Legal documents – All relevant legal documentation required for managing and understanding your legal relationship with Pinnacle Assets Trade can be found here.</p>
+                    <p class="lead-3">Legal documents – All relevant legal documentation required for managing and understanding your legal relationship with Pinnacle Asset Trade can be found here.</p>
                 </div>
             </div>
         </div>
@@ -55,7 +55,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8">
-                    <h4 class="mb-4">Prior to opening a trading account with Pinnacle Assets Trade please ensure that you have read and understood our Account Terms and other disclosure documents as applicable.</h4>
+                    <h4 class="mb-4">Prior to opening a trading account with Pinnacle Asset Trade please ensure that you have read and understood our Account Terms and other disclosure documents as applicable.</h4>
                     <div class="accordion" id="accordion-01">
                         <div class="accordion-item">
                             <h4 class="accordion-header mb-0" id="legal-01">

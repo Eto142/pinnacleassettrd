@@ -10,7 +10,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">Range of Markets</h2>
-                    <p class="lead-3">Pinnacle Assets Trade's carefully selected range of products gives you access to the most popular and liquid markets across the world for the best trading opportunities 24/7.</p>
+                    <p class="lead-3">Pinnacle Asset Trade's carefully selected range of products gives you access to the most popular and liquid markets across the world for the best trading opportunities 24/7.</p>
                     <a id="range_of_markets_1" class="btn btn-primary" href="../open-trading-account/live.html">Start Trading</a>
                     
                 </div>
@@ -137,7 +137,7 @@
                                                 <img src="https://www.icmarkets.com/assets/images/single_market_page/icon-indices.svg" alt="" class="img-fluid h-100">
                                             </i>
                                             <h2>Indices CFD</h2>
-                                            <p class="lead-3">Gain exposure to the world’s largest equity markets through Pinnacle Assets Trade's offering of global Indices CFDs. With spreads from 0.4 points on 25 Indices, traders can take a wider view of equities markets whilst enjoying commission free and 24/5 trading across major markets.</p>
+                                            <p class="lead-3">Gain exposure to the world’s largest equity markets through Pinnacle Asset Trade's offering of global Indices CFDs. With spreads from 0.4 points on 25 Indices, traders can take a wider view of equities markets whilst enjoying commission free and 24/5 trading across major markets.</p>
                                             <ul class="profile-list">
                                                 
                                                 <li>
@@ -387,7 +387,7 @@
                                                 <img src="https://www.icmarkets.com/assets/images/single_market_page/icon-futures.webp" alt="" class="img-fluid h-100">
                                             </i>
                                             <h2>Futures CFD</h2>
-                                            <p class="lead-3">Futures are one of the most popular form of CFDs. Pinnacle Assets Trade offer a range of Futures from around the world, including ICE Dollar Index and CBOE VIX Index. Online Futures based CFDs are offered exclusively on Pinnacle Assets Trade's MetaTrader 4 Platform.</p>
+                                            <p class="lead-3">Futures are one of the most popular form of CFDs. Pinnacle Asset Trade offer a range of Futures from around the world, including ICE Dollar Index and CBOE VIX Index. Online Futures based CFDs are offered exclusively on Pinnacle Asset Trade's MetaTrader 4 Platform.</p>
                                             <ul class="profile-list">
                                                 
                                                 <li>

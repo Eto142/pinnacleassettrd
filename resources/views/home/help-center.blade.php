@@ -61,18 +61,18 @@
             <div class="row">
                 <div class="col-md-12">
                     <h2>Most frequently asked questions</h2>
-                    <p class="lead-3">Here are the most common questions a trader would normally ask us or consider to ask before opening an account with us.<br>For more information on help resources related to Pinnacle Assets Trade and the products we offer,<br>simply type your question below or visit our live chat service.</p>
+                    <p class="lead-3">Here are the most common questions a trader would normally ask us or consider to ask before opening an account with us.<br>For more information on help resources related to Pinnacle Asset Trade and the products we offer,<br>simply type your question below or visit our live chat service.</p>
                     <div class="accordion" id="accordion-02">
                         
                             <div class="accordion-item" key="most-q-01">
                                 <h4 class="accordion-header mb-0" id="most-q-01">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#most-qa-01" aria-expanded="true" aria-controls="most-qa-01">
-                                        What account types does Pinnacle Assets Trade offer?
+                                        What account types does Pinnacle Asset Trade offer?
                                     </button>
                                 </h4>
                                 <div id="most-qa-01" class="accordion-collapse collapse" aria-labelledby="most-q-01" data-bs-parent="#most-q-01">
                                     <div class="accordion-body">
-                                        Pinnacle Assets Trade offer two types of accounts, Standard account and our market leading, Raw Spread account.<br><br><strong>Raw Spread Account</strong>: This account shows the Raw inter-bank spread received from our liquidity providers. There is a commission charge of $7 per standard lot round turn.<br><br><strong>Standard Account</strong>: We do not charge a commission on Standard accounts but instead, there is a mark up applied to the spread of 0.8pip above the raw Inter-bank rate received from our Liquidity providers.<br><br>Further information about the different types of trading accounts available can be found on our <a id='m_a_01' href="https://www.icmarkets.com/global/trading-accounts/overview">Account Overview</a> page.
+                                        Pinnacle Asset Trade offer two types of accounts, Standard account and our market leading, Raw Spread account.<br><br><strong>Raw Spread Account</strong>: This account shows the Raw inter-bank spread received from our liquidity providers. There is a commission charge of $7 per standard lot round turn.<br><br><strong>Standard Account</strong>: We do not charge a commission on Standard accounts but instead, there is a mark up applied to the spread of 0.8pip above the raw Inter-bank rate received from our Liquidity providers.<br><br>Further information about the different types of trading accounts available can be found on our <a id='m_a_01' href="https://www.icmarkets.com/global/trading-accounts/overview">Account Overview</a> page.
                                     </div>
                                 </div>
                             </div>
@@ -80,12 +80,12 @@
                             <div class="accordion-item" key="most-q-02">
                                 <h4 class="accordion-header mb-0" id="most-q-02">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#most-qa-02" aria-expanded="true" aria-controls="most-qa-02">
-                                        What are the fees, commissions for trading with Pinnacle Assets Trade?
+                                        What are the fees, commissions for trading with Pinnacle Asset Trade?
                                     </button>
                                 </h4>
                                 <div id="most-qa-02" class="accordion-collapse collapse" aria-labelledby="most-q-02" data-bs-parent="#most-q-02">
                                     <div class="accordion-body">
-                                        <p>Pinnacle Assets Trade has two MetaTrader account types, a Standard account and our market leading, The Raw Spread account. Pinnacle Assets Trade does not charge a commission on Standard accounts but instead applies a spread mark up of 0.8 pip above the Raw inter-bank prices received from our liquidity providers. Pinnacle Assets Trade Raw Spread account shows the raw inter-bank spread received from our liquidity providers. On this account we commission of $7 per standard lot round turn.&nbsp;</p><p>Below are commission rates for different base currency accounts:</p><figure class="table"><table><tbody><tr><td>AUD</td><td>7.00 round turn</td></tr><tr><td>USD</td><td>7.00 round turn</td></tr><tr><td>EUR</td><td>5.50 round turn</td></tr><tr><td>GBP</td><td>5.00 round turn</td></tr><tr><td>SGD</td><td>9.00 round turn</td></tr><tr><td>JPY</td><td>700.00 round turn</td></tr><tr><td>CHF</td><td>6.60 round turn</td></tr><tr><td>NZD</td><td>9.00 round turn</td></tr><tr><td>HKD</td><td>54.25 round turn</td></tr></tbody></table></figure>
+                                        <p>Pinnacle Asset Trade has two MetaTrader account types, a Standard account and our market leading, The Raw Spread account. Pinnacle Asset Trade does not charge a commission on Standard accounts but instead applies a spread mark up of 0.8 pip above the Raw inter-bank prices received from our liquidity providers. Pinnacle Asset Trade Raw Spread account shows the raw inter-bank spread received from our liquidity providers. On this account we commission of $7 per standard lot round turn.&nbsp;</p><p>Below are commission rates for different base currency accounts:</p><figure class="table"><table><tbody><tr><td>AUD</td><td>7.00 round turn</td></tr><tr><td>USD</td><td>7.00 round turn</td></tr><tr><td>EUR</td><td>5.50 round turn</td></tr><tr><td>GBP</td><td>5.00 round turn</td></tr><tr><td>SGD</td><td>9.00 round turn</td></tr><tr><td>JPY</td><td>700.00 round turn</td></tr><tr><td>CHF</td><td>6.60 round turn</td></tr><tr><td>NZD</td><td>9.00 round turn</td></tr><tr><td>HKD</td><td>54.25 round turn</td></tr></tbody></table></figure>
                                     </div>
                                 </div>
                             </div>
@@ -98,7 +98,7 @@
                                 </h4>
                                 <div id="most-qa-03" class="accordion-collapse collapse" aria-labelledby="most-q-03" data-bs-parent="#most-q-03">
                                     <div class="accordion-body">
-                                        Pinnacle Assets Trade allows clients to open an account with as little as USD $200 or currency equivalent.
+                                        Pinnacle Asset Trade allows clients to open an account with as little as USD $200 or currency equivalent.
                                     </div>
                                 </div>
                             </div>
@@ -119,12 +119,12 @@
                             <div class="accordion-item" key="most-q-05">
                                 <h4 class="accordion-header mb-0" id="most-q-05">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#most-qa-05" aria-expanded="true" aria-controls="most-qa-05">
-                                        Is Pinnacle Assets Trade an ECN/STP broker or a Market Maker?
+                                        Is Pinnacle Asset Trade an ECN/STP broker or a Market Maker?
                                     </button>
                                 </h4>
                                 <div id="most-qa-05" class="accordion-collapse collapse" aria-labelledby="most-q-05" data-bs-parent="#most-q-05">
                                     <div class="accordion-body">
-                                        	This is one of the most frequently asked questions. The difficult part in understanding ECN and STP meanings is that those have been interpreted differently by many people. There are three main business models used by Forex brokers which differ by the way the transactions are handled and orders are executed: ECN, STP and Market Makers.<br><br>ECN: ECN stands for 'Electronic Communication Network' which is simply a technical term that is used to describe how banks and liquidity providers connect to each other to form a bid and offer price. In the Forex industry, it can be used to identify providers who use this type of pricing mechanism in order to offer raw interbank pricing to retail traders. Under this model your broker will stream raw prices and your trades will be offset with another client, a liquidity provider or held internally by the broker. This usually results in faster trade execution. This is distinct from order execution that may result in an offsetting order placed with a liquidity provider.<br><br>STP: This term stands for 'Straight Through Processing' and is used when a Forex and CFD provider processes all trades at market prices obtained from a liquidity provider, this price is simply passed on by the broker. This is not dissimilar to the ECN pricing model in that the price is not altered and there is no dealing desk intervention when the trade is processed, hence it is known as STP.<br><br>Pinnacle Assets Trade is the issuer of the products it provides. We consider ourselves to be a forex provider offering the ECN pricing model as we source our pricing from external unrelated liquidity providers , these prices are passed onto you with no dealing desk intervention. In order to provide you with better price certainty and to ensure fast execution speed we do not offset each and every position with our liquidity providers. We do this in order to provide you with a better overall trading experience.<br>&nbsp;
+                                        	This is one of the most frequently asked questions. The difficult part in understanding ECN and STP meanings is that those have been interpreted differently by many people. There are three main business models used by Forex brokers which differ by the way the transactions are handled and orders are executed: ECN, STP and Market Makers.<br><br>ECN: ECN stands for 'Electronic Communication Network' which is simply a technical term that is used to describe how banks and liquidity providers connect to each other to form a bid and offer price. In the Forex industry, it can be used to identify providers who use this type of pricing mechanism in order to offer raw interbank pricing to retail traders. Under this model your broker will stream raw prices and your trades will be offset with another client, a liquidity provider or held internally by the broker. This usually results in faster trade execution. This is distinct from order execution that may result in an offsetting order placed with a liquidity provider.<br><br>STP: This term stands for 'Straight Through Processing' and is used when a Forex and CFD provider processes all trades at market prices obtained from a liquidity provider, this price is simply passed on by the broker. This is not dissimilar to the ECN pricing model in that the price is not altered and there is no dealing desk intervention when the trade is processed, hence it is known as STP.<br><br>Pinnacle Asset Trade is the issuer of the products it provides. We consider ourselves to be a forex provider offering the ECN pricing model as we source our pricing from external unrelated liquidity providers , these prices are passed onto you with no dealing desk intervention. In order to provide you with better price certainty and to ensure fast execution speed we do not offset each and every position with our liquidity providers. We do this in order to provide you with a better overall trading experience.<br>&nbsp;
                                     </div>
                                 </div>
                             </div>
@@ -132,7 +132,7 @@
                             <div class="accordion-item" key="most-q-06">
                                 <h4 class="accordion-header mb-0" id="most-q-06">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#most-qa-06" aria-expanded="true" aria-controls="most-qa-06">
-                                        How do I open a live trading account with Pinnacle Assets Trade?
+                                        How do I open a live trading account with Pinnacle Asset Trade?
                                     </button>
                                 </h4>
                                 <div id="most-qa-06" class="accordion-collapse collapse" aria-labelledby="most-q-06" data-bs-parent="#most-q-06">
@@ -156,20 +156,20 @@
                     
                         
                             <div class="accordion" id="accordion-01">
-                                <h3 class="fw-700 mb-4">Questions about Pinnacle Assets Trade</h3>
+                                <h3 class="fw-700 mb-4">Questions about Pinnacle Asset Trade</h3>
                                 
                                     
                                         
                                             <div class="accordion-item" key="i_0">
                                                 <h4 class="accordion-header mb-0" id="i_0">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_0" aria-expanded="true" aria-controls="j_0">
-                                                        Who is Pinnacle Assets Trade?
+                                                        Who is Pinnacle Asset Trade?
                                                     </button>
                                                 </h4>
                                                 <div id="j_0" class="accordion-collapse collapse" aria-labelledby="i_0" data-bs-parent="#i_0">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade is one of the world's leading Forex CFD provider. The company was incorporated with the vision of providing fair and transparent Forex trading to active traders. Pinnacle Assets Trade is dedicated to bringing solutions previously only available to professionals and large global investment banks to retail investors and traders around the world. For additional information about Pinnacle Assets Trade, please visit the About Us page.
+                                                            Pinnacle Asset Trade is one of the world's leading Forex CFD provider. The company was incorporated with the vision of providing fair and transparent Forex trading to active traders. Pinnacle Asset Trade is dedicated to bringing solutions previously only available to professionals and large global investment banks to retail investors and traders around the world. For additional information about Pinnacle Asset Trade, please visit the About Us page.
                                                         
                                                     </div>
                                                 </div>
@@ -182,13 +182,13 @@
                                             <div class="accordion-item" key="i_1">
                                                 <h4 class="accordion-header mb-0" id="i_1">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_1" aria-expanded="true" aria-controls="j_1">
-                                                        Who owns Pinnacle Assets Trade?
+                                                        Who owns Pinnacle Asset Trade?
                                                     </button>
                                                 </h4>
                                                 <div id="j_1" class="accordion-collapse collapse" aria-labelledby="i_1" data-bs-parent="#i_1">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade is a privately owned company. Pinnacle Assets Trade's management team is comprised of individuals with over 20 years' experience in derivative products. Pinnacle Assets Trade's founders were instrumental in the success of one of the largest CFD &nbsp;provider.
+                                                            Pinnacle Asset Trade is a privately owned company. Pinnacle Asset Trade's management team is comprised of individuals with over 20 years' experience in derivative products. Pinnacle Asset Trade's founders were instrumental in the success of one of the largest CFD &nbsp;provider.
                                                         
                                                     </div>
                                                 </div>
@@ -201,13 +201,13 @@
                                             <div class="accordion-item" key="i_2">
                                                 <h4 class="accordion-header mb-0" id="i_2">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_2" aria-expanded="true" aria-controls="j_2">
-                                                        Is Pinnacle Assets Trade regulated?
+                                                        Is Pinnacle Asset Trade regulated?
                                                     </button>
                                                 </h4>
                                                 <div id="j_2" class="accordion-collapse collapse" aria-labelledby="i_2" data-bs-parent="#i_2">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade is regulated by the Financial Services Authority of Seychelles (FSA).
+                                                            Pinnacle Asset Trade is regulated by the Financial Services Authority of Seychelles (FSA).
                                                         
                                                     </div>
                                                 </div>
@@ -226,7 +226,7 @@
                                                 <div id="j_3" class="accordion-collapse collapse" aria-labelledby="i_3" data-bs-parent="#i_3">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade holds client money in segregated client money accounts in Tier 1 banks.
+                                                            Pinnacle Asset Trade holds client money in segregated client money accounts in Tier 1 banks.
                                                         
                                                     </div>
                                                 </div>
@@ -249,7 +249,7 @@
                                                 <div id="j_225" class="accordion-collapse collapse" aria-labelledby="i_225" data-bs-parent="#i_225">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade hold client money in segregated client money accounts with a number of top rated International banks. We spread the client money across multiple banks to reduce the counterparty risk to any one bank.
+                                                            Pinnacle Asset Trade hold client money in segregated client money accounts with a number of top rated International banks. We spread the client money across multiple banks to reduce the counterparty risk to any one bank.
                                                         
                                                     </div>
                                                 </div>
@@ -262,7 +262,7 @@
                                             <div class="accordion-item" key="i_226">
                                                 <h4 class="accordion-header mb-0" id="i_226">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_226" aria-expanded="true" aria-controls="j_226">
-                                                        How does Pinnacle Assets Trade use my personal information?
+                                                        How does Pinnacle Asset Trade use my personal information?
                                                     </button>
                                                 </h4>
                                                 <div id="j_226" class="accordion-collapse collapse" aria-labelledby="i_226" data-bs-parent="#i_226">
@@ -319,7 +319,7 @@
                     
                         
                             <div class="accordion" id="accordion-01">
-                                <h3 class="fw-700 mb-4">Questions about Trading with Pinnacle Assets Trade</h3>
+                                <h3 class="fw-700 mb-4">Questions about Trading with Pinnacle Asset Trade</h3>
                                 
                                     
                                         
@@ -332,7 +332,7 @@
                                                 <div id="j_4" class="accordion-collapse collapse" aria-labelledby="i_4" data-bs-parent="#i_4">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade has two MetaTrader account types: Standard Account and our market-leading Raw Spread Account. Pinnacle Assets Trade does not charge a commission on Standard Accounts; instead, we mark up the spread received from our liquidity providers. Pinnacle Assets Trade's Raw Spread Account shows the raw interbank spread received from our liquidity providers. On this account we charge a commission of $3.5 per standard lot round turn.
+                                                            Pinnacle Asset Trade has two MetaTrader account types: Standard Account and our market-leading Raw Spread Account. Pinnacle Asset Trade does not charge a commission on Standard Accounts; instead, we mark up the spread received from our liquidity providers. Pinnacle Asset Trade's Raw Spread Account shows the raw interbank spread received from our liquidity providers. On this account we charge a commission of $3.5 per standard lot round turn.
                                                         
                                                     </div>
                                                 </div>
@@ -351,7 +351,7 @@
                                                 <div id="j_5" class="accordion-collapse collapse" aria-labelledby="i_5" data-bs-parent="#i_5">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade allows clients to open a trading account with as little as USD $200 or currency equivalent.
+                                                            Pinnacle Asset Trade allows clients to open a trading account with as little as USD $200 or currency equivalent.
                                                         
                                                     </div>
                                                 </div>
@@ -364,13 +364,13 @@
                                             <div class="accordion-item" key="i_6">
                                                 <h4 class="accordion-header mb-0" id="i_6">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_6" aria-expanded="true" aria-controls="j_6">
-                                                        What leverage does Pinnacle Assets Trade offer?
+                                                        What leverage does Pinnacle Asset Trade offer?
                                                     </button>
                                                 </h4>
                                                 <div id="j_6" class="accordion-collapse collapse" aria-labelledby="i_6" data-bs-parent="#i_6">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade offers flexible leverage options ranging from 1:1 to 1:1000. You can change the leverage on your trading account via your Client Area.
+                                                            Pinnacle Asset Trade offers flexible leverage options ranging from 1:1 to 1:1000. You can change the leverage on your trading account via your Client Area.
                                                         
                                                     </div>
                                                 </div>
@@ -383,13 +383,13 @@
                                             <div class="accordion-item" key="i_7">
                                                 <h4 class="accordion-header mb-0" id="i_7">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_7" aria-expanded="true" aria-controls="j_7">
-                                                        Can I have multiple trading accounts with Pinnacle Assets Trade?
+                                                        Can I have multiple trading accounts with Pinnacle Asset Trade?
                                                     </button>
                                                 </h4>
                                                 <div id="j_7" class="accordion-collapse collapse" aria-labelledby="i_7" data-bs-parent="#i_7">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade allows you to open multiple trading accounts. You can open an additional trading account via your Client Area.
+                                                            Pinnacle Asset Trade allows you to open multiple trading accounts. You can open an additional trading account via your Client Area.
                                                         
                                                     </div>
                                                 </div>
@@ -402,13 +402,13 @@
                                             <div class="accordion-item" key="i_8">
                                                 <h4 class="accordion-header mb-0" id="i_8">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_8" aria-expanded="true" aria-controls="j_8">
-                                                        What time does Pinnacle Assets Trade open and close its prices?
+                                                        What time does Pinnacle Asset Trade open and close its prices?
                                                     </button>
                                                 </h4>
                                                 <div id="j_8" class="accordion-collapse collapse" aria-labelledby="i_8" data-bs-parent="#i_8">
                                                     <div class="accordion-body">
                                                         
-                                                            The opening and closing times of Pinnacle Assets Trade's prices are:<br><b>Opening time</b>: 00:01 MetaTrader 4 Server Time (Monday)<br><b>Closing time</b>: 23:57 MetaTrader 4 Server Time (Friday)<br>Please note the trading times of certain instruments may vary; you should refer to the relevant product section on our website for specific information.
+                                                            The opening and closing times of Pinnacle Asset Trade's prices are:<br><b>Opening time</b>: 00:01 MetaTrader 4 Server Time (Monday)<br><b>Closing time</b>: 23:57 MetaTrader 4 Server Time (Friday)<br>Please note the trading times of certain instruments may vary; you should refer to the relevant product section on our website for specific information.
                                                         
                                                     </div>
                                                 </div>
@@ -421,13 +421,13 @@
                                             <div class="accordion-item" key="i_9">
                                                 <h4 class="accordion-header mb-0" id="i_9">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_9" aria-expanded="true" aria-controls="j_9">
-                                                        What time does Pinnacle Assets Trade's rollover occur?
+                                                        What time does Pinnacle Asset Trade's rollover occur?
                                                     </button>
                                                 </h4>
                                                 <div id="j_9" class="accordion-collapse collapse" aria-labelledby="i_9" data-bs-parent="#i_9">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade's rollover occurs at 00:00 MetaTrader 4 Server Time.
+                                                            Pinnacle Asset Trade's rollover occurs at 00:00 MetaTrader 4 Server Time.
                                                         
                                                     </div>
                                                 </div>
@@ -440,13 +440,13 @@
                                             <div class="accordion-item" key="i_10">
                                                 <h4 class="accordion-header mb-0" id="i_10">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_10" aria-expanded="true" aria-controls="j_10">
-                                                        What is Pinnacle Assets Trade GMetaTrader Offset?
+                                                        What is Pinnacle Asset Trade GMetaTrader Offset?
                                                     </button>
                                                 </h4>
                                                 <div id="j_10" class="accordion-collapse collapse" aria-labelledby="i_10" data-bs-parent="#i_10">
                                                     <div class="accordion-body">
                                                         
-                                                            To align the daily chart candles with New York close (5pm ET), Pinnacle Assets Trade's server time and charts are GMT+2 or GMT+3 when daylight saving is in effect. The table below outlines the dates on which the server time is changed to reflect daylight savings each year.<br>
+                                                            To align the daily chart candles with New York close (5pm ET), Pinnacle Asset Trade's server time and charts are GMT+2 or GMT+3 when daylight saving is in effect. The table below outlines the dates on which the server time is changed to reflect daylight savings each year.<br>
 <table cellpadding="3" cellspacing="0" border="0">
     <tbody><tr><th>Year</th><th>DST Commencement Date</th><th>DST Ending Date</th>
     </tr><tr><td>2019</td><td>10th March</td><td>3rd November</td></tr>
@@ -486,13 +486,13 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_12">
                                                 <h4 class="accordion-header mb-0" id="i_12">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_12" aria-expanded="true" aria-controls="j_12">
-                                                        Does Pinnacle Assets Trade offer any education?
+                                                        Does Pinnacle Asset Trade offer any education?
                                                     </button>
                                                 </h4>
                                                 <div id="j_12" class="accordion-collapse collapse" aria-labelledby="i_12" data-bs-parent="#i_12">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade offers extensive online education. In addition, we regularly conduct educational webinars on a variety of topics. Webinar dates and times are published on our <a id='a12' target="_blank" rel="noopener noreferrer" href="https://www.icmarkets.com/blog">blog</a>.
+                                                            Pinnacle Asset Trade offers extensive online education. In addition, we regularly conduct educational webinars on a variety of topics. Webinar dates and times are published on our <a id='a12' target="_blank" rel="noopener noreferrer" href="https://www.icmarkets.com/blog">blog</a>.
                                                         
                                                     </div>
                                                 </div>
@@ -505,13 +505,13 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_13">
                                                 <h4 class="accordion-header mb-0" id="i_13">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_13" aria-expanded="true" aria-controls="j_13">
-                                                        How many currency pairs does Pinnacle Assets Trade offer?
+                                                        How many currency pairs does Pinnacle Asset Trade offer?
                                                     </button>
                                                 </h4>
                                                 <div id="j_13" class="accordion-collapse collapse" aria-labelledby="i_13" data-bs-parent="#i_13">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade offers over 75 currency pairs, including cryptocurrencies.
+                                                            Pinnacle Asset Trade offers over 75 currency pairs, including cryptocurrencies.
                                                         
                                                     </div>
                                                 </div>
@@ -524,13 +524,13 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_14">
                                                 <h4 class="accordion-header mb-0" id="i_14">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_14" aria-expanded="true" aria-controls="j_14">
-                                                        Which other instruments does Pinnacle Assets Trade offer?
+                                                        Which other instruments does Pinnacle Asset Trade offer?
                                                     </button>
                                                 </h4>
                                                 <div id="j_14" class="accordion-collapse collapse" aria-labelledby="i_14" data-bs-parent="#i_14">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade also offers CFDs in precious metals, CFDs on Commodities, indices, futures, shares and bonds.
+                                                            Pinnacle Asset Trade also offers CFDs in precious metals, CFDs on Commodities, indices, futures, shares and bonds.
                                                         
                                                     </div>
                                                 </div>
@@ -549,7 +549,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                                 <div id="j_15" class="accordion-collapse collapse" aria-labelledby="i_15" data-bs-parent="#i_15">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade offers its customers several ways of depositing funds into their trading account. Common deposit methods include bank / wire transfer, Paypal, credit card, Skrill, Neteller, UnionPay, Bpay, FasaPay and Poli. Our <a id='a15' href="https://www.icmarkets.com/global/trading-accounts/funding">funding page</a> provides further information about each method that we offer.
+                                                            Pinnacle Asset Trade offers its customers several ways of depositing funds into their trading account. Common deposit methods include bank / wire transfer, Paypal, credit card, Skrill, Neteller, UnionPay, Bpay, FasaPay and Poli. Our <a id='a15' href="https://www.icmarkets.com/global/trading-accounts/funding">funding page</a> provides further information about each method that we offer.
                                                         
                                                     </div>
                                                 </div>
@@ -600,7 +600,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_19">
                                                 <h4 class="accordion-header mb-0" id="i_19">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_19" aria-expanded="true" aria-controls="j_19">
-                                                        How do I open a live trading account with Pinnacle Assets Trade?
+                                                        How do I open a live trading account with Pinnacle Asset Trade?
                                                     </button>
                                                 </h4>
                                                 <div id="j_19" class="accordion-collapse collapse" aria-labelledby="i_19" data-bs-parent="#i_19">
@@ -619,13 +619,13 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_20">
                                                 <h4 class="accordion-header mb-0" id="i_20">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_20" aria-expanded="true" aria-controls="j_20">
-                                                        What documents do I have to provide to Pinnacle Assets Trade to open a live trading account?
+                                                        What documents do I have to provide to Pinnacle Asset Trade to open a live trading account?
                                                     </button>
                                                 </h4>
                                                 <div id="j_20" class="accordion-collapse collapse" aria-labelledby="i_20" data-bs-parent="#i_20">
                                                     <div class="accordion-body">
                                                         
-                                                            Under the Anti -Money Laundering Act 2020 of Financial Services Authority of Seychelles, Pinnacle Assets Trade is required to verify your identity before opening a trading account for you.<br><br>Identification must be provided in the form of photo ID and proof of address to enable us to verify your identity.<br><br><strong>Photo ID</strong><br>• Must be clear and visible<br>• Must be issued by a government agency<br>• Name, signature, expiry date and date of birth* must be clear<br>* <i>Please note that Pinnacle Assets Trade does not accept account applications from any persons under the age of 18</i><br><br><strong>Proof of Address</strong><br>• Must be no older than 6 months<br>• Must show the same name and address as your account application<br><br>Our anti-money laundering policy contains further information regarding our identification requirements.
+                                                            Under the Anti -Money Laundering Act 2020 of Financial Services Authority of Seychelles, Pinnacle Asset Trade is required to verify your identity before opening a trading account for you.<br><br>Identification must be provided in the form of photo ID and proof of address to enable us to verify your identity.<br><br><strong>Photo ID</strong><br>• Must be clear and visible<br>• Must be issued by a government agency<br>• Name, signature, expiry date and date of birth* must be clear<br>* <i>Please note that Pinnacle Asset Trade does not accept account applications from any persons under the age of 18</i><br><br><strong>Proof of Address</strong><br>• Must be no older than 6 months<br>• Must show the same name and address as your account application<br><br>Our anti-money laundering policy contains further information regarding our identification requirements.
                                                         
                                                     </div>
                                                 </div>
@@ -644,7 +644,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                                 <div id="j_21" class="accordion-collapse collapse" aria-labelledby="i_21" data-bs-parent="#i_21">
                                                     <div class="accordion-body">
                                                         
-                                                            No, Pinnacle Assets Trade does not pay interest on account balances in any currency.
+                                                            No, Pinnacle Asset Trade does not pay interest on account balances in any currency.
                                                         
                                                     </div>
                                                 </div>
@@ -657,13 +657,13 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_22">
                                                 <h4 class="accordion-header mb-0" id="i_22">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_22" aria-expanded="true" aria-controls="j_22">
-                                                        Does Pinnacle Assets Trade accept US Clients?
+                                                        Does Pinnacle Asset Trade accept US Clients?
                                                     </button>
                                                 </h4>
                                                 <div id="j_22" class="accordion-collapse collapse" aria-labelledby="i_22" data-bs-parent="#i_22">
                                                     <div class="accordion-body">
                                                         
-                                                            No, Pinnacle Assets Trade does not accept US clients. US CTFC regulation prevents US clients from trading with brokers outside the US.
+                                                            No, Pinnacle Asset Trade does not accept US clients. US CTFC regulation prevents US clients from trading with brokers outside the US.
                                                         
                                                     </div>
                                                 </div>
@@ -701,7 +701,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                                 <div id="j_24" class="accordion-collapse collapse" aria-labelledby="i_24" data-bs-parent="#i_24">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade is not able to open new positions over the phone. However, should you wish to close out positions, please call our support team on +61 (0)2 8014 4280 and we will accept instructions from you.
+                                                            Pinnacle Asset Trade is not able to open new positions over the phone. However, should you wish to close out positions, please call our support team on +61 (0)2 8014 4280 and we will accept instructions from you.
                                                         
                                                     </div>
                                                 </div>
@@ -758,7 +758,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                                 <div id="j_131" class="accordion-collapse collapse" aria-labelledby="i_131" data-bs-parent="#i_131">
                                                     <div class="accordion-body">
                                                         
-                                                            Forex brokers use three main business models which differ in the way the transactions are handled and orders are executed: ECN, STP and Market Makers.<br><br>ECN: ECN stands for 'Electronic Communication Network', which is simply a technical term that is used to describe how banks and liquidity providers connect to each other to form bid and offer prices. In the Forex industry, it can be used to identify providers who use this type of pricing mechanism in order to offer raw interbank pricing to retail traders. Under this model your broker will stream raw prices and your trades will be offset with another client or liquidity provider, or held internally by the broker. This usually results in faster trade execution. This is distinct from order execution, which may result in an offsetting order placed with a liquidity provider.<br><br>STP: This term stands for 'Straight Through Processing' and is used when a Forex and CFD provider process all trades at market prices obtained from a liquidity provider. This price is simply passed on by the broker. This is not dissimilar to the ECN pricing model in that the price is not altered and there is no dealing desk intervention when the trade is processed; hence, it is known as STP.<br><br>Market Maker: Typically, market makers operate a dealing desk in order to create their own prices. These prices can be based on their own proprietary trading positions or overall risk exposure and may not reflect the prices in the underlying market.<br><br>Pinnacle Assets Trade is the issuer of the products it provides. We consider ourselves to be a Forex provider offering the ECN pricing model as we source our pricing from external unrelated liquidity providers. These prices are passed on to you with no dealing desk intervention. In order to provide you with better price certainty and to ensure fast execution speed, we do not hedge each and every position with our liquidity providers. We do this in order to provide you with a better overall trading experience.
+                                                            Forex brokers use three main business models which differ in the way the transactions are handled and orders are executed: ECN, STP and Market Makers.<br><br>ECN: ECN stands for 'Electronic Communication Network', which is simply a technical term that is used to describe how banks and liquidity providers connect to each other to form bid and offer prices. In the Forex industry, it can be used to identify providers who use this type of pricing mechanism in order to offer raw interbank pricing to retail traders. Under this model your broker will stream raw prices and your trades will be offset with another client or liquidity provider, or held internally by the broker. This usually results in faster trade execution. This is distinct from order execution, which may result in an offsetting order placed with a liquidity provider.<br><br>STP: This term stands for 'Straight Through Processing' and is used when a Forex and CFD provider process all trades at market prices obtained from a liquidity provider. This price is simply passed on by the broker. This is not dissimilar to the ECN pricing model in that the price is not altered and there is no dealing desk intervention when the trade is processed; hence, it is known as STP.<br><br>Market Maker: Typically, market makers operate a dealing desk in order to create their own prices. These prices can be based on their own proprietary trading positions or overall risk exposure and may not reflect the prices in the underlying market.<br><br>Pinnacle Asset Trade is the issuer of the products it provides. We consider ourselves to be a Forex provider offering the ECN pricing model as we source our pricing from external unrelated liquidity providers. These prices are passed on to you with no dealing desk intervention. In order to provide you with better price certainty and to ensure fast execution speed, we do not hedge each and every position with our liquidity providers. We do this in order to provide you with a better overall trading experience.
                                                         
                                                     </div>
                                                 </div>
@@ -777,7 +777,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                                 <div id="j_132" class="accordion-collapse collapse" aria-labelledby="i_132" data-bs-parent="#i_132">
                                                     <div class="accordion-body">
                                                         
-                                                            When you trade with us, you are trading with Pinnacle Assets Trade as principle, this is the case with all Forex and CFD providers globally.<br>We do not operate a proprietary trading book, we source our prices from external unrelated liquidity providers or directly, these prices are then passed onto you with no dealing desk intervention.
+                                                            When you trade with us, you are trading with Pinnacle Asset Trade as principle, this is the case with all Forex and CFD providers globally.<br>We do not operate a proprietary trading book, we source our prices from external unrelated liquidity providers or directly, these prices are then passed onto you with no dealing desk intervention.
                                                         
                                                     </div>
                                                 </div>
@@ -790,13 +790,13 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_133">
                                                 <h4 class="accordion-header mb-0" id="i_133">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_133" aria-expanded="true" aria-controls="j_133">
-                                                        How are Pinnacle Assets Trade's prices derived?
+                                                        How are Pinnacle Asset Trade's prices derived?
                                                     </button>
                                                 </h4>
                                                 <div id="j_133" class="accordion-collapse collapse" aria-labelledby="i_133" data-bs-parent="#i_133">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade streams prices from its liquidity providers, who, in their turn, derive those prices from the market (or exchange) in the case of Stocks CFDs and from banks and non-bank liquidity providers in the case of Forex. The source of the underlying market price may vary for each product.<br><br>Although Pinnacle Assets Trade's prices come from its liquidity providers and Pinnacle Assets Trade is not practically involved in the making of the price, simply streaming prices which it receives, the prices nonetheless become Pinnacle Assets Trade's prices when it provides them to its clients to trade on. This is the case for all derivative products which Pinnacle Assets Trade offers to its clients.
+                                                            Pinnacle Asset Trade streams prices from its liquidity providers, who, in their turn, derive those prices from the market (or exchange) in the case of Stocks CFDs and from banks and non-bank liquidity providers in the case of Forex. The source of the underlying market price may vary for each product.<br><br>Although Pinnacle Asset Trade's prices come from its liquidity providers and Pinnacle Asset Trade is not practically involved in the making of the price, simply streaming prices which it receives, the prices nonetheless become Pinnacle Asset Trade's prices when it provides them to its clients to trade on. This is the case for all derivative products which Pinnacle Asset Trade offers to its clients.
                                                         
                                                     </div>
                                                 </div>
@@ -828,13 +828,13 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_135">
                                                 <h4 class="accordion-header mb-0" id="i_135">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_135" aria-expanded="true" aria-controls="j_135">
-                                                        Is Pinnacle Assets Trade a market maker or an ECN broker?
+                                                        Is Pinnacle Asset Trade a market maker or an ECN broker?
                                                     </button>
                                                 </h4>
                                                 <div id="j_135" class="accordion-collapse collapse" aria-labelledby="i_135" data-bs-parent="#i_135">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade is the issuer of the products it provides. Our Securities Dealer License allows us to make a market; however, we consider ourselves to be a CFD provider offering the ECN pricing model as we do not operate a proprietary trading book and source our pricing from external unrelated liquidity providers. These prices are then passed on to you with no dealing desk intervention. In order to provide you with better price certainty and to ensure fast execution speed, we do not offset each and every single position with our liquidity providers.
+                                                            Pinnacle Asset Trade is the issuer of the products it provides. Our Securities Dealer License allows us to make a market; however, we consider ourselves to be a CFD provider offering the ECN pricing model as we do not operate a proprietary trading book and source our pricing from external unrelated liquidity providers. These prices are then passed on to you with no dealing desk intervention. In order to provide you with better price certainty and to ensure fast execution speed, we do not offset each and every single position with our liquidity providers.
                                                         
                                                     </div>
                                                 </div>
@@ -847,13 +847,13 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_136">
                                                 <h4 class="accordion-header mb-0" id="i_136">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_136" aria-expanded="true" aria-controls="j_136">
-                                                        Is Pinnacle Assets Trade a true ECN provider?
+                                                        Is Pinnacle Asset Trade a true ECN provider?
                                                     </button>
                                                 </h4>
                                                 <div id="j_136" class="accordion-collapse collapse" aria-labelledby="i_136" data-bs-parent="#i_136">
                                                     <div class="accordion-body">
                                                         
-                                                            When you trade with us you are trading on prices streamed from our liquidity providers. Pinnacle Assets Trade does not have a dealing desk that creates its own prices.
+                                                            When you trade with us you are trading on prices streamed from our liquidity providers. Pinnacle Asset Trade does not have a dealing desk that creates its own prices.
                                                         
                                                     </div>
                                                 </div>
@@ -899,7 +899,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                                 <div id="j_140" class="accordion-collapse collapse" aria-labelledby="i_140" data-bs-parent="#i_140">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade's Securities Dealer License allows us to make markets, this is the case for all CFD and Forex providers globally. We are not a broker to you but a Forex and CFD issuer. Simply put, acting as a principal to your trades, we are the sole counterparty that allows you to access prices streamed from our liquidity providers that supply Pinnacle Assets Trade with the bank and non-bank pricing.<br><br><br>Technically, when you buy a product at Pinnacle Assets Trade, we are selling that product to you. It is not possible for you to buy that product at the exchange directly to complete the transaction due to the attached requirements for higher trade sizes, and margin costs, etc., thus, it has to be dealt with Pinnacle Assets Trade on a principal basis alone.<br><br><br>Typically, market makers are considered to be Forex and CFD providers who operate a dealing desk in order to create their own prices, these prices can be based on their own proprietary trading positions or overall risk exposure and may not reflect the prices in the underlying market.
+                                                            Pinnacle Asset Trade's Securities Dealer License allows us to make markets, this is the case for all CFD and Forex providers globally. We are not a broker to you but a Forex and CFD issuer. Simply put, acting as a principal to your trades, we are the sole counterparty that allows you to access prices streamed from our liquidity providers that supply Pinnacle Asset Trade with the bank and non-bank pricing.<br><br><br>Technically, when you buy a product at Pinnacle Asset Trade, we are selling that product to you. It is not possible for you to buy that product at the exchange directly to complete the transaction due to the attached requirements for higher trade sizes, and margin costs, etc., thus, it has to be dealt with Pinnacle Asset Trade on a principal basis alone.<br><br><br>Typically, market makers are considered to be Forex and CFD providers who operate a dealing desk in order to create their own prices, these prices can be based on their own proprietary trading positions or overall risk exposure and may not reflect the prices in the underlying market.
                                                         
                                                     </div>
                                                 </div>
@@ -912,7 +912,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_141">
                                                 <h4 class="accordion-header mb-0" id="i_141">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_141" aria-expanded="true" aria-controls="j_141">
-                                                        What conflicts of interest exist between Pinnacle Assets Trade and its customers?
+                                                        What conflicts of interest exist between Pinnacle Asset Trade and its customers?
                                                     </button>
                                                 </h4>
                                                 <div id="j_141" class="accordion-collapse collapse" aria-labelledby="i_141" data-bs-parent="#i_141">
@@ -1055,7 +1055,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                                 <div id="j_149" class="accordion-collapse collapse" aria-labelledby="i_149" data-bs-parent="#i_149">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade offers over +2100 Stocks CFDs. The full list can be found on our <a id='a149' href="https://www.icmarkets.com/global/trading-markets/stocks">Stocks CFD</a> product page.
+                                                            Pinnacle Asset Trade offers over +2100 Stocks CFDs. The full list can be found on our <a id='a149' href="https://www.icmarkets.com/global/trading-markets/stocks">Stocks CFD</a> product page.
                                                         
                                                     </div>
                                                 </div>
@@ -1112,7 +1112,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                                 <div id="j_152" class="accordion-collapse collapse" aria-labelledby="i_152" data-bs-parent="#i_152">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade's margin stop out level on all trading platforms is 50%, which means that if your account's margin level drops to or below 50% of the margin required, the system will start closing your open positions automatically.
+                                                            Pinnacle Asset Trade's margin stop out level on all trading platforms is 50%, which means that if your account's margin level drops to or below 50% of the margin required, the system will start closing your open positions automatically.
                                                         
                                                     </div>
                                                 </div>
@@ -1150,7 +1150,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                                 <div id="j_154" class="accordion-collapse collapse" aria-labelledby="i_154" data-bs-parent="#i_154">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade uses a market execution model. A market execution model means that all trades and pending orders are filled at the prices we stream on the platform at the time an order is placed.
+                                                            Pinnacle Asset Trade uses a market execution model. A market execution model means that all trades and pending orders are filled at the prices we stream on the platform at the time an order is placed.
                                                         
                                                     </div>
                                                 </div>
@@ -1163,13 +1163,13 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_155">
                                                 <h4 class="accordion-header mb-0" id="i_155">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_155" aria-expanded="true" aria-controls="j_155">
-                                                        Does Pinnacle Assets Trade offer instant execution?
+                                                        Does Pinnacle Asset Trade offer instant execution?
                                                     </button>
                                                 </h4>
                                                 <div id="j_155" class="accordion-collapse collapse" aria-labelledby="i_155" data-bs-parent="#i_155">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade does not offer instant execution.
+                                                            Pinnacle Asset Trade does not offer instant execution.
                                                         
                                                     </div>
                                                 </div>
@@ -1201,13 +1201,13 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_157">
                                                 <h4 class="accordion-header mb-0" id="i_157">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_157" aria-expanded="true" aria-controls="j_157">
-                                                        What are the fees/commission for trading CFD indices with Pinnacle Assets Trade?
+                                                        What are the fees/commission for trading CFD indices with Pinnacle Asset Trade?
                                                     </button>
                                                 </h4>
                                                 <div id="j_157" class="accordion-collapse collapse" aria-labelledby="i_157" data-bs-parent="#i_157">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade does not charge any additional fees or commission for CFD indices trading.
+                                                            Pinnacle Asset Trade does not charge any additional fees or commission for CFD indices trading.
                                                         
                                                     </div>
                                                 </div>
@@ -1220,7 +1220,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_158">
                                                 <h4 class="accordion-header mb-0" id="i_158">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_158" aria-expanded="true" aria-controls="j_158">
-                                                        How do I subscribe or unsubscribe from Pinnacle Assets Trade's emails?
+                                                        How do I subscribe or unsubscribe from Pinnacle Asset Trade's emails?
                                                     </button>
                                                 </h4>
                                                 <div id="j_158" class="accordion-collapse collapse" aria-labelledby="i_158" data-bs-parent="#i_158">
@@ -1239,7 +1239,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_159">
                                                 <h4 class="accordion-header mb-0" id="i_159">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_159" aria-expanded="true" aria-controls="j_159">
-                                                        How do I subscribe to Pinnacle Assets Trade's daily market forecasts?
+                                                        How do I subscribe to Pinnacle Asset Trade's daily market forecasts?
                                                     </button>
                                                 </h4>
                                                 <div id="j_159" class="accordion-collapse collapse" aria-labelledby="i_159" data-bs-parent="#i_159">
@@ -1277,13 +1277,13 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_161">
                                                 <h4 class="accordion-header mb-0" id="i_161">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_161" aria-expanded="true" aria-controls="j_161">
-                                                        What partnership programs does Pinnacle Assets Trade offer?
+                                                        What partnership programs does Pinnacle Asset Trade offer?
                                                     </button>
                                                 </h4>
                                                 <div id="j_161" class="accordion-collapse collapse" aria-labelledby="i_161" data-bs-parent="#i_161">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade offers a variety of partnership programs including, but not limited to, Introducing Brokers, Affiliates, etc. Detailed information can be found at the <a id='a161' href="https://www.icmarketspartners.com/">partnerships section</a> on our website.
+                                                            Pinnacle Asset Trade offers a variety of partnership programs including, but not limited to, Introducing Brokers, Affiliates, etc. Detailed information can be found at the <a id='a161' href="https://www.icmarketspartners.com/">partnerships section</a> on our website.
                                                         
                                                     </div>
                                                 </div>
@@ -1338,7 +1338,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_165">
                                                 <h4 class="accordion-header mb-0" id="i_165">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_165" aria-expanded="true" aria-controls="j_165">
-                                                        What happens to my funds if Pinnacle Assets Trade becomes insolvent?
+                                                        What happens to my funds if Pinnacle Asset Trade becomes insolvent?
                                                     </button>
                                                 </h4>
                                                 <div id="j_165" class="accordion-collapse collapse" aria-labelledby="i_165" data-bs-parent="#i_165">
@@ -1357,7 +1357,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_166">
                                                 <h4 class="accordion-header mb-0" id="i_166">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_166" aria-expanded="true" aria-controls="j_166">
-                                                        Does Pinnacle Assets Trade offer trading advice?
+                                                        Does Pinnacle Asset Trade offer trading advice?
                                                     </button>
                                                 </h4>
                                                 <div id="j_166" class="accordion-collapse collapse" aria-labelledby="i_166" data-bs-parent="#i_166">
@@ -1783,7 +1783,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                                 <div id="j_168" class="accordion-collapse collapse" aria-labelledby="i_168" data-bs-parent="#i_168">
                                                     <div class="accordion-body">
                                                         
-                                                            Each cTrader user has their own unique cTID, which is a set of login details used to access the trading platform. All cTrader trading accounts are linked to just one cTID. Your cTrader ID will be automatically created for you once your cTrader account is approved. You will receive an email with the subject heading ‘Welcome to cTrader ID’. You must open the email and select ‘Confirm cTrader ID’.<br><br>Once your cTrader ID is confirmed, you can sign in to the cTrader platform using your email address and the password in your welcome email. You will then see that your Pinnacle Assets Trade trading account automatically appears.<br><br>If you open an additional cTrader account, it will be automatically linked to your cTID and you will see it the next time you log in to the platform.
+                                                            Each cTrader user has their own unique cTID, which is a set of login details used to access the trading platform. All cTrader trading accounts are linked to just one cTID. Your cTrader ID will be automatically created for you once your cTrader account is approved. You will receive an email with the subject heading ‘Welcome to cTrader ID’. You must open the email and select ‘Confirm cTrader ID’.<br><br>Once your cTrader ID is confirmed, you can sign in to the cTrader platform using your email address and the password in your welcome email. You will then see that your Pinnacle Asset Trade trading account automatically appears.<br><br>If you open an additional cTrader account, it will be automatically linked to your cTID and you will see it the next time you log in to the platform.
                                                         
                                                     </div>
                                                 </div>
@@ -1954,7 +1954,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                                 <div id="j_177" class="accordion-collapse collapse" aria-labelledby="i_177" data-bs-parent="#i_177">
                                                     <div class="accordion-body">
                                                         
-                                                            The time displayed on the trading platform cannot be changed. To align the daily chart candles with New York close (5 pm ET), Pinnacle Assets Trade's server time and charts are GMT+2 or GMT+3 when daylight saving is in effect.
+                                                            The time displayed on the trading platform cannot be changed. To align the daily chart candles with New York close (5 pm ET), Pinnacle Asset Trade's server time and charts are GMT+2 or GMT+3 when daylight saving is in effect.
                                                         
                                                     </div>
                                                 </div>
@@ -2213,7 +2213,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                                 <div id="j_193" class="accordion-collapse collapse" aria-labelledby="i_193" data-bs-parent="#i_193">
                                                     <div class="accordion-body">
                                                         
-                                                            Stocks are available exclusively on the Pinnacle Assets Trade's MetaTrader 5 platform. To have them added to your account, please email us at <a id='a193' href="mailto:support@icmarkets.com">enquires@icmarkets.com</a>. Your MetaTrader 5 trading account must be funded for the request to be successful.
+                                                            Stocks are available exclusively on the Pinnacle Asset Trade's MetaTrader 5 platform. To have them added to your account, please email us at <a id='a193' href="mailto:support@icmarkets.com">enquires@icmarkets.com</a>. Your MetaTrader 5 trading account must be funded for the request to be successful.
                                                         
                                                     </div>
                                                 </div>
@@ -2426,7 +2426,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                                 <div id="j_205" class="accordion-collapse collapse" aria-labelledby="i_205" data-bs-parent="#i_205">
                                                     <div class="accordion-body">
                                                         
-                                                            To enable notifications on the platform, you can use the inbuilt 'Notifications' feature from the MetaTrader 4 platform by navigating to the 'Options' window. You may also use the Alarm Manager offered by Pinnacle Assets Trade as one of its advanced trading tools.<br><br>For the inbuilt feature, go to the 'Tools' menu, and click on 'Options'. Now switch to the 'Notifications' tab and update the settings as required.
+                                                            To enable notifications on the platform, you can use the inbuilt 'Notifications' feature from the MetaTrader 4 platform by navigating to the 'Options' window. You may also use the Alarm Manager offered by Pinnacle Asset Trade as one of its advanced trading tools.<br><br>For the inbuilt feature, go to the 'Tools' menu, and click on 'Options'. Now switch to the 'Notifications' tab and update the settings as required.
                                                         
                                                     </div>
                                                 </div>
@@ -2526,13 +2526,13 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_47">
                                                 <h4 class="accordion-header mb-0" id="i_47">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_47" aria-expanded="true" aria-controls="j_47">
-                                                        What are the fees and commission charges for trading with Pinnacle Assets Trade?
+                                                        What are the fees and commission charges for trading with Pinnacle Asset Trade?
                                                     </button>
                                                 </h4>
                                                 <div id="j_47" class="accordion-collapse collapse" aria-labelledby="i_47" data-bs-parent="#i_47">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade has two MetaTrader account types, a Standard Account and our market leader, the Raw Spread Account. Pinnacle Assets Trade does not charge a commission on Standard Accounts; instead, it marks up the spread by 0.8 pip above the pricing rate received from our pricing providers. The Pinnacle Assets Trade Raw Spread Account shows the raw interbank spread received from our pricing providers. On this account, we charge commission of $3.5 per standard lot round turn.
+                                                            Pinnacle Asset Trade has two MetaTrader account types, a Standard Account and our market leader, the Raw Spread Account. Pinnacle Asset Trade does not charge a commission on Standard Accounts; instead, it marks up the spread by 0.8 pip above the pricing rate received from our pricing providers. The Pinnacle Asset Trade Raw Spread Account shows the raw interbank spread received from our pricing providers. On this account, we charge commission of $3.5 per standard lot round turn.
                                                         
                                                     </div>
                                                 </div>
@@ -2551,7 +2551,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                                 <div id="j_48" class="accordion-collapse collapse" aria-labelledby="i_48" data-bs-parent="#i_48">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade supports the trading of micro lots. A micro lot in MetaTrader 4 is represented as 0.01, which is equivalent to 1000 units of the base currency.
+                                                            Pinnacle Asset Trade supports the trading of micro lots. A micro lot in MetaTrader 4 is represented as 0.01, which is equivalent to 1000 units of the base currency.
                                                         
                                                     </div>
                                                 </div>
@@ -2659,13 +2659,13 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_54">
                                                 <h4 class="accordion-header mb-0" id="i_54">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_54" aria-expanded="true" aria-controls="j_54">
-                                                        What is Pinnacle Assets Trade's margin call level?
+                                                        What is Pinnacle Asset Trade's margin call level?
                                                     </button>
                                                 </h4>
                                                 <div id="j_54" class="accordion-collapse collapse" aria-labelledby="i_54" data-bs-parent="#i_54">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade's margin call level is 100%. This means that you will receive a margin call when your equity is 100% of the margin required on your open positions. Equity is calculated as (Balance + Open Profit/Loss).
+                                                            Pinnacle Asset Trade's margin call level is 100%. This means that you will receive a margin call when your equity is 100% of the margin required on your open positions. Equity is calculated as (Balance + Open Profit/Loss).
                                                         
                                                     </div>
                                                 </div>
@@ -2678,13 +2678,13 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_55">
                                                 <h4 class="accordion-header mb-0" id="i_55">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_55" aria-expanded="true" aria-controls="j_55">
-                                                        What is Pinnacle Assets Trade's margin stop out level?
+                                                        What is Pinnacle Asset Trade's margin stop out level?
                                                     </button>
                                                 </h4>
                                                 <div id="j_55" class="accordion-collapse collapse" aria-labelledby="i_55" data-bs-parent="#i_55">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade's margin stop out level is 50%. This means that if your free margin falls below 50%, then your positions will be automatically closed. MetaTrader 4 will automatically close them in order of the largest losing position to the smallest.<br><br>The margin stop out level is calculated using the following formula.<br>Margin level = equity / used margin x 100%<br>= margin level %<br><br>Worked example<br>The margin on a $10,000 USD (equity) trading account with 1 standard lot open position on USD/JPY and 100 times leverage would be calculated as follows:<br>= 10,000 / 1,000 x 100%<br>= 1000% margin level<br>If the position moves against you and your equity fell to $5,000, the calculation would be:<br><br>= 5,000 / 1,000 x 100%<br>= 500% margin level<br><br>If the position moved against you even further and the equity fell to $499, the position would be stopped out as the margin level would have fallen below 100%.<br>= 499 / 1,000 x 100%<br>= 49.9% margin level
+                                                            Pinnacle Asset Trade's margin stop out level is 50%. This means that if your free margin falls below 50%, then your positions will be automatically closed. MetaTrader 4 will automatically close them in order of the largest losing position to the smallest.<br><br>The margin stop out level is calculated using the following formula.<br>Margin level = equity / used margin x 100%<br>= margin level %<br><br>Worked example<br>The margin on a $10,000 USD (equity) trading account with 1 standard lot open position on USD/JPY and 100 times leverage would be calculated as follows:<br>= 10,000 / 1,000 x 100%<br>= 1000% margin level<br>If the position moves against you and your equity fell to $5,000, the calculation would be:<br><br>= 5,000 / 1,000 x 100%<br>= 500% margin level<br><br>If the position moved against you even further and the equity fell to $499, the position would be stopped out as the margin level would have fallen below 100%.<br>= 499 / 1,000 x 100%<br>= 49.9% margin level
                                                         
                                                     </div>
                                                 </div>
@@ -2779,7 +2779,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                                 <div id="j_60" class="accordion-collapse collapse" aria-labelledby="i_60" data-bs-parent="#i_60">
                                                     <div class="accordion-body">
                                                         
-                                                            If you are a new client, please click <a id='a60' href="https://www.icmarkets.com/global/open-trading-account/demo">open a new demo account</a>. If you are an existing client of Pinnacle Assets Trade, you can open an additional demo account from within your Client Area.
+                                                            If you are a new client, please click <a id='a60' href="https://www.icmarkets.com/global/open-trading-account/demo">open a new demo account</a>. If you are an existing client of Pinnacle Asset Trade, you can open an additional demo account from within your Client Area.
                                                         
                                                     </div>
                                                 </div>
@@ -2868,13 +2868,13 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_65">
                                                 <h4 class="accordion-header mb-0" id="i_65">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_65" aria-expanded="true" aria-controls="j_65">
-                                                        Does Pinnacle Assets Trade offer deposit bonuses?
+                                                        Does Pinnacle Asset Trade offer deposit bonuses?
                                                     </button>
                                                 </h4>
                                                 <div id="j_65" class="accordion-collapse collapse" aria-labelledby="i_65" data-bs-parent="#i_65">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade does not offer any deposit bonuses.
+                                                            Pinnacle Asset Trade does not offer any deposit bonuses.
                                                         
                                                     </div>
                                                 </div>
@@ -2982,7 +2982,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_71">
                                                 <h4 class="accordion-header mb-0" id="i_71">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_71" aria-expanded="true" aria-controls="j_71">
-                                                        What is Pinnacle Assets Trade's policy regarding slippage?
+                                                        What is Pinnacle Asset Trade's policy regarding slippage?
                                                     </button>
                                                 </h4>
                                                 <div id="j_71" class="accordion-collapse collapse" aria-labelledby="i_71" data-bs-parent="#i_71">
@@ -3026,7 +3026,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                                 <div id="j_73" class="accordion-collapse collapse" aria-labelledby="i_73" data-bs-parent="#i_73">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade's MetaTrader 4 and cTrader trade servers are located in the NY4 and LD5 IBX Equinix Data Centres in New York and London, providing clients with the fastest possible execution speeds. Equinix data centres are known globally for their secure and reliable infrastructure.
+                                                            Pinnacle Asset Trade's MetaTrader 4 and cTrader trade servers are located in the NY4 and LD5 IBX Equinix Data Centres in New York and London, providing clients with the fastest possible execution speeds. Equinix data centres are known globally for their secure and reliable infrastructure.
                                                         
                                                     </div>
                                                 </div>
@@ -3045,7 +3045,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                                 <div id="j_74" class="accordion-collapse collapse" aria-labelledby="i_74" data-bs-parent="#i_74">
                                                     <div class="accordion-body">
                                                         
-                                                            The latency from your computer to Pinnacle Assets Trade's trade servers can be tested by conducting a ping test.<br><br>The instructions below explain how a ping test can be conducted:<br><b>Step 1</b>: On your computer, go to the ‘Start’ menu and type 'CMD' in the 'search programs and files' field.<br><b>Step 2</b>: Type in the word 'ping' followed by a blank space and the IP address of the server you wish to ping.<br><b>Step 3</b>: The bottom line on the resulting output will show in milliseconds the minimum, maximum and average time it took to send and receive data between your computer and the server.
+                                                            The latency from your computer to Pinnacle Asset Trade's trade servers can be tested by conducting a ping test.<br><br>The instructions below explain how a ping test can be conducted:<br><b>Step 1</b>: On your computer, go to the ‘Start’ menu and type 'CMD' in the 'search programs and files' field.<br><b>Step 2</b>: Type in the word 'ping' followed by a blank space and the IP address of the server you wish to ping.<br><b>Step 3</b>: The bottom line on the resulting output will show in milliseconds the minimum, maximum and average time it took to send and receive data between your computer and the server.
                                                         
                                                     </div>
                                                 </div>
@@ -3248,13 +3248,13 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_220">
                                                 <h4 class="accordion-header mb-0" id="i_220">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_220" aria-expanded="true" aria-controls="j_220">
-                                                        How does Pinnacle Assets Trade handle margin stop outs for hedged positions?
+                                                        How does Pinnacle Asset Trade handle margin stop outs for hedged positions?
                                                     </button>
                                                 </h4>
                                                 <div id="j_220" class="accordion-collapse collapse" aria-labelledby="i_220" data-bs-parent="#i_220">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade's MetaTrader 4, MetaTrader 5 and cTrader platforms handle hedged positions differently. On the MetaTrader4/MetaTrader 5 platform, if the account is perfectly hedged and does not require any margin, the positions will remain open. However, in the case of the cTrader platform, the margin is required for the direction carrying the higher volume and margin requirements, irrespective of whether the overall position of the account is perfectly hedged.<br><br>Please note that different hedge margin level and settings may be applied to different products and platforms. The option to hedge a position while in negative Free Margin may not be available across our full product offering. We suggest you make yourself fully aware of the product specifications of the instruments you are trading or intend to trade. We recommend establishing a demo account to familiarise yourself with the Hedging Mechanics and associated risks. <br><br> For further clarification, please contact our support team.
+                                                            Pinnacle Asset Trade's MetaTrader 4, MetaTrader 5 and cTrader platforms handle hedged positions differently. On the MetaTrader4/MetaTrader 5 platform, if the account is perfectly hedged and does not require any margin, the positions will remain open. However, in the case of the cTrader platform, the margin is required for the direction carrying the higher volume and margin requirements, irrespective of whether the overall position of the account is perfectly hedged.<br><br>Please note that different hedge margin level and settings may be applied to different products and platforms. The option to hedge a position while in negative Free Margin may not be available across our full product offering. We suggest you make yourself fully aware of the product specifications of the instruments you are trading or intend to trade. We recommend establishing a demo account to familiarise yourself with the Hedging Mechanics and associated risks. <br><br> For further clarification, please contact our support team.
                                                         
                                                     </div>
                                                 </div>
@@ -3292,7 +3292,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                                 <div id="j_222" class="accordion-collapse collapse" aria-labelledby="i_222" data-bs-parent="#i_222">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade's Futures CFDs are set to expire on the day the contract expires on the underlying market. When a Futures CFD contract expires, all the open positions are closed at the Futures settlement price as reported by the Futures exchange.<br><br>This process usually takes place on the day following the expiry. Open positions are not rolled to the next month, so any clients wishing to hold long-term positions must reopen the trade on the next available contract.
+                                                            Pinnacle Asset Trade's Futures CFDs are set to expire on the day the contract expires on the underlying market. When a Futures CFD contract expires, all the open positions are closed at the Futures settlement price as reported by the Futures exchange.<br><br>This process usually takes place on the day following the expiry. Open positions are not rolled to the next month, so any clients wishing to hold long-term positions must reopen the trade on the next available contract.
                                                         
                                                     </div>
                                                 </div>
@@ -3305,13 +3305,13 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                             <div class="accordion-item" key="i_223">
                                                 <h4 class="accordion-header mb-0" id="i_223">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#j_223" aria-expanded="true" aria-controls="j_223">
-                                                        Does Pinnacle Assets Trade offer signals?
+                                                        Does Pinnacle Asset Trade offer signals?
                                                     </button>
                                                 </h4>
                                                 <div id="j_223" class="accordion-collapse collapse" aria-labelledby="i_223" data-bs-parent="#i_223">
                                                     <div class="accordion-body">
                                                         
-                                                            Pinnacle Assets Trade does not directly offer any signal services. We have, however, partnered with Myfxbook to offer Autotrade. Autotrade allows you to copy strategies offered by signal providers on Myfxbook directly into your Pinnacle Assets Trade trading account.<br><br>Alternatively, you may directly subscribe to the signals from the MetaTrader 4 platform.
+                                                            Pinnacle Asset Trade does not directly offer any signal services. We have, however, partnered with Myfxbook to offer Autotrade. Autotrade allows you to copy strategies offered by signal providers on Myfxbook directly into your Pinnacle Asset Trade trading account.<br><br>Alternatively, you may directly subscribe to the signals from the MetaTrader 4 platform.
                                                         
                                                     </div>
                                                 </div>
@@ -4190,7 +4190,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                 <div class="accordion-item" key="most-q-2">
                                     <h4 class="accordion-header mb-0" id="most-q-2">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#most-qa-2" aria-expanded="true" aria-controls="most-qa-2">
-                                            Which type of Pinnacle Assets Trade account is compatible with TradingView?
+                                            Which type of Pinnacle Asset Trade account is compatible with TradingView?
                                         </button>
                                     </h4>
                                     <div id="most-qa-2" class="accordion-collapse collapse" aria-labelledby="most-q-2" data-bs-parent="#most-q-2">
@@ -4230,7 +4230,7 @@ Daylight saving time begins at 2am on the second Sunday in March and ends at 2am
                                 <div class="accordion-item" key="most-q-5">
                                     <h4 class="accordion-header mb-0" id="most-q-5">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#most-qa-5" aria-expanded="true" aria-controls="most-qa-5">
-                                            Can I trade with different Pinnacle Assets Trade Account Types in my Trading Panel on TradingView?
+                                            Can I trade with different Pinnacle Asset Trade Account Types in my Trading Panel on TradingView?
                                         </button>
                                     </h4>
                                     <div id="most-qa-5" class="accordion-collapse collapse" aria-labelledby="most-q-5" data-bs-parent="#most-q-5">

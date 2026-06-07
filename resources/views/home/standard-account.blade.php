@@ -10,7 +10,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">Standard Account</h2>
-                    <p class="lead-3 color-white">Keep it simple with the Pinnacle Assets Trade Standard account. Experience all the benefits of our Raw pricing&nbsp; with an all-inclusive spread and no commissions.</p>
+                    <p class="lead-3 color-white">Keep it simple with the Pinnacle Asset Trade Standard account. Experience all the benefits of our Raw pricing&nbsp; with an all-inclusive spread and no commissions.</p>
                     <a id="standard_account_1" class="btn btn-primary" href="../open-trading-account/live.html">Open Account</a>
                 </div>
             </div>
@@ -73,7 +73,7 @@
             <div class="row align-items-center">
                 <div class="col-md-7">
                     <h3 class="lead-2 lh-base fw-700 mb-4">Why Choose Our Standard Account?</h3>
-                    <p class="lead-2">The Standard Account from Pinnacle Assets Trade offers speed of execution with no rivals. Combine this with an all inclusive spread starting from 0.8 pip, Equinix NY4 servers in New York, a group of up to 25 pricing providers and you will understand why our standard account can give you an unparalleled trading experience, all day every day.&nbsp;</p>
+                    <p class="lead-2">The Standard Account from Pinnacle Asset Trade offers speed of execution with no rivals. Combine this with an all inclusive spread starting from 0.8 pip, Equinix NY4 servers in New York, a group of up to 25 pricing providers and you will understand why our standard account can give you an unparalleled trading experience, all day every day.&nbsp;</p>
                 </div>
                 <div class="col-md-5">
                     <div class="card range-card shadow-bx ms-auto">
@@ -104,8 +104,8 @@
             <div class="row justify-content-center">
                 <div class="col-md-11 text-center">
                     <h2 class="fw-700">Fast order execution</h2>
-                    <p class="lead-3 mb-3 lh-base">The Pinnacle Assets Trade MetaTrader 4 and 5 servers are located in the Equinix NY4 data centre in New York. The NY4 data centre referred to as a financial ecosystem is home to over 600 buy and sell side firms, exchanges, trading venues, market data and service providers. The MetaTrader 4 and 5 servers are cross connected to our network to ensure low latency and the fast execution of your trades.</p>
-                    <p class="lead-3 mb-0 lh-base">The Pinnacle Assets Trade MetaTrader 4 and 5 trade servers have latency on average of less than 1 millisecond to major VPS providers either collocated in the NY4 data centre or through dedicated lines to nearby data centres.This low latency environment is ideal for automated and High Frequency Trading and scalping.</p>
+                    <p class="lead-3 mb-3 lh-base">The Pinnacle Asset Trade MetaTrader 4 and 5 servers are located in the Equinix NY4 data centre in New York. The NY4 data centre referred to as a financial ecosystem is home to over 600 buy and sell side firms, exchanges, trading venues, market data and service providers. The MetaTrader 4 and 5 servers are cross connected to our network to ensure low latency and the fast execution of your trades.</p>
+                    <p class="lead-3 mb-0 lh-base">The Pinnacle Asset Trade MetaTrader 4 and 5 trade servers have latency on average of less than 1 millisecond to major VPS providers either collocated in the NY4 data centre or through dedicated lines to nearby data centres.This low latency environment is ideal for automated and High Frequency Trading and scalping.</p>
                 </div>
             </div>
         </div>
@@ -115,8 +115,8 @@
             <div class="row">
                 <div class="col-md-6">
                     <h3 class="mb-3 fw-700">No Restrictions on<br>Trading – Scalping Allowed</h3>
-                    <p class="lead-3 mb-3"> Pinnacle Assets Trade MetaTrader 4 and 5 platforms have no restrictions on trading. We have some of the best trading conditions for scalping and high frequency trading globally, allowing traders to place orders between the spread as there is no minimum order distance and a freeze level of 0. This means orders including stop loss orders can be placed as close to the market price as you like.</p>
-                    <p class="lead-3 mb-5">Traders can also hedge positions as there is no first in first out (FIFO) rule with Pinnacle Assets Trade. Please note that different hedge margin level and settings may be applied to different products and platforms.</p>
+                    <p class="lead-3 mb-3"> Pinnacle Asset Trade MetaTrader 4 and 5 platforms have no restrictions on trading. We have some of the best trading conditions for scalping and high frequency trading globally, allowing traders to place orders between the spread as there is no minimum order distance and a freeze level of 0. This means orders including stop loss orders can be placed as close to the market price as you like.</p>
+                    <p class="lead-3 mb-5">Traders can also hedge positions as there is no first in first out (FIFO) rule with Pinnacle Asset Trade. Please note that different hedge margin level and settings may be applied to different products and platforms.</p>
                 </div>
                 <div class="col-md-6">
                     <h3 class="mb-3 fw-700">Level II Pricing – Market Depth</h3>
@@ -148,7 +148,7 @@
                         </h5>
                         <p class="footnote">
                             
-                                Accounts go up to 1:1000 leverage on the Pinnacle Assets Trade MetaTrader 4 and 5 platforms. Traders can use higher leverage to suit their trading style and get the best out of their manual and automated trading strategies.
+                                Accounts go up to 1:1000 leverage on the Pinnacle Asset Trade MetaTrader 4 and 5 platforms. Traders can use higher leverage to suit their trading style and get the best out of their manual and automated trading strategies.
                             
                         </p>
                     </div>

@@ -80,7 +80,7 @@
                         <ul class="list">
                             
                                 <li>Withdrawal requests cut off time is 12:00 AEST/AEDT. If your withdrawal is submitted before this time it will be processed on the day of receipt. If your withdrawal is submitted after this time it will be processed on the following business day.</li>
-                                <li>Pinnacle Assets Trade does not charge additional fees for deposits and/or withdrawals. However, you should be aware that additional fees may occur at some banking institutions. Pinnacle Assets Trade is not responsible for any additional bank charges. </li>
+                                <li>Pinnacle Asset Trade does not charge additional fees for deposits and/or withdrawals. However, you should be aware that additional fees may occur at some banking institutions. Pinnacle Asset Trade is not responsible for any additional bank charges. </li>
                                 
                                     <li>Funds in your trading account(s) are intended solely for trading purposes. Therefore, a processing fee may be applied to your withdrawal if your deposits have not been utilised for trading.</li>
                                     <li>International Bank Wire Transfers may take up to 14 days and incur additional intermediary and/or beneficiary fees.</li>
@@ -95,7 +95,7 @@
                                 <li>If your uploaded credit / debit card has already expired, please upload the new card in your client area to continue using the deposit and withdrawals services without any interruptions. If the new card’s number is different to the expired card’s number, you would need to submit a letter issued from the old card’s issuer bank confirming that the new card has been issued in replacement of the old card.</li>
                                 <li>If your uploaded credit / debit card has been lost / stolen / damaged / cancelled, you would need to submit a letter issued from the old card’s issuer bank confirming that the old card is no longer valid.</li>
                                 <li>If the newly uploaded card has not been used for funding prior to requesting a withdrawal, you would need to deposit a small amount to activate withdrawal facility on this card.</li>
-                                <li>Pinnacle Assets Trade, at its own discretion, may ask you to submit supporting documentation (for example, deposit receipts for the payments processed via old card or card statement showing deposit transactions) before releasing funds to the new card. </li>
+                                <li>Pinnacle Asset Trade, at its own discretion, may ask you to submit supporting documentation (for example, deposit receipts for the payments processed via old card or card statement showing deposit transactions) before releasing funds to the new card. </li>
                                 <li>To withdraw an amount more than the sum deposited by Verified by Visa / MasterCard Secure Credit / Debit Card, you will be required to use another deposit method that has been used earlier or a bank wire transfer option.</li>
                                 
                                     <li>Webmoney transactions are processed by Ingenico ePayments (Formerly Global Collect). Ingenico ePayments (Formerly Global Collect) does not permit Webmoney refunds. All Webmoney deposits must be withdrawn by bank transfer which may incur additional charges. Webmoney transactions once processed via bank transfer may take 3-5 business days to reach your bank account.</li>
@@ -113,7 +113,7 @@
                                     <li>For first Vietnamese Internet banking withdrawals, we require that you provide us with a supporting copy of the bank statement related to your registered bank account.</li>
                                     <li>If you are withdrawing your funds deposited via Thai Internet Banking option to a Thai bank account, you will require to upload a clear picture or a coloured scan copy of your bank book. Once processed, the funds may take one business day to reach your account.</li>
                                 
-                                <li>Pinnacle Assets Trade does not process payments to third parties. Please ensure that all withdrawal requests from your trading account go to a bank account or a source in your name. Payments to Joint Bank Accounts / Credit Cards are accepted if the trading account holder is one on the parties on the Bank Account / Credit Card.</li>
+                                <li>Pinnacle Asset Trade does not process payments to third parties. Please ensure that all withdrawal requests from your trading account go to a bank account or a source in your name. Payments to Joint Bank Accounts / Credit Cards are accepted if the trading account holder is one on the parties on the Bank Account / Credit Card.</li>
                             
                         </ul>
                     

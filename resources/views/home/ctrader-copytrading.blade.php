@@ -12,7 +12,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">cTrader Copy Trading</h2>
-                    <p class="lead-3">Pinnacle Assets Trade offers a unique opportunities for Investors and Strategy providers with Spotware’s cTrader Copy<br>Trading platform. Designed for Easy & Transparent Copy Trading.</p>
+                    <p class="lead-3">Pinnacle Asset Trade offers a unique opportunities for Investors and Strategy providers with Spotware’s cTrader Copy<br>Trading platform. Designed for Easy & Transparent Copy Trading.</p>
                     <a id="ctrader_copytrading_1" class="btn btn-primary" href="../open-trading-account/live.html">cTrader Copy Trading</a>
                 </div>
             </div>

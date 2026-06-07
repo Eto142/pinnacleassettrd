@@ -66,10 +66,10 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-10 text-center">
-                        <h2 class="mb-4">Trade on the award-winning Pinnacle Assets Trade MetaTrader 4 platform</h2>
-                        <p class="lead-2 mb-3">Pinnacle Assets Trade offers its clients the opportunity to trade on the award-winning MetaTrader 4 platform. It is undoubtedly the world’s most popular trading platform for forex traders due to its ease of use, feature rich environment and automated trading ability.</p>
-                        <p class="lead-2 mb-3">It has grown from a trading platform to a global community where trader’s demands are met by technology provider’s innovations. Pinnacle Assets Trade has partnerships with many of these technology providers and is proud to offer you the next generation MetaTrader 4 platform, designed to take your trading to the next level.</p>
-                        <p class="lead-2 mb-3">Both Pinnacle Assets Trade Standard and Raw Spread accounts are available on the MetaTrader 4 trading platform.</p>
+                        <h2 class="mb-4">Trade on the award-winning Pinnacle Asset Trade MetaTrader 4 platform</h2>
+                        <p class="lead-2 mb-3">Pinnacle Asset Trade offers its clients the opportunity to trade on the award-winning MetaTrader 4 platform. It is undoubtedly the world’s most popular trading platform for forex traders due to its ease of use, feature rich environment and automated trading ability.</p>
+                        <p class="lead-2 mb-3">It has grown from a trading platform to a global community where trader’s demands are met by technology provider’s innovations. Pinnacle Asset Trade has partnerships with many of these technology providers and is proud to offer you the next generation MetaTrader 4 platform, designed to take your trading to the next level.</p>
+                        <p class="lead-2 mb-3">Both Pinnacle Asset Trade Standard and Raw Spread accounts are available on the MetaTrader 4 trading platform.</p>
                         <a id="metatrader4_2" class="btn btn-primary mb-2" href="../open-trading-account/live.html">Open Account</a>
                         
                         <p class="footnote mb-5"><b>System Requirements</b> The MetaTrader 4 Client Terminal requires Windows 7 or higher. It is also possible to run this software on a Mac OSX.</p>
@@ -84,7 +84,7 @@
                         <figure>
                             <img class="img-fluid" src="https://www.icmarkets.com/assets/images/mt4.webp" alt="">
                         </figure>
-                        <h2>Why trade on MetaTrader 4 with Pinnacle Assets Trade?</h2>
+                        <h2>Why trade on MetaTrader 4 with Pinnacle Asset Trade?</h2>
                         <p class="lead-2 text-center">Award-winning platform available on web browser, desktop and mobile</p>
                         <div class="row justify-content-center">
                             <div class="col-md-6">
@@ -122,18 +122,18 @@
             <div class="row">
                 <div class="col-md-12">
                     
-                    <h2 class="mb-5">Why is Pinnacle Assets Trade MetaTrader 4 Platform Different?</h2>
+                    <h2 class="mb-5">Why is Pinnacle Asset Trade MetaTrader 4 Platform Different?</h2>
                     <h3 class="fw-700 mb-2">Raw Pricing</h3>
-                    <p class="lead-3">Pinnacle Assets Trade is able to offer market best possible pricing and some of the best trading conditions through the MetaTrader 4 platform by providing clients with Raw Pricing.Our Raw Pricing allows you to trade on institutional grade level, using pricing almost equal to the world’s leading execution venues. Executable Streaming Prices (ESP) are sent from our pricing provider so that clients can trade with no dealing desk, price manipulation or requotes. Due to the diverse mix comprising of up to 25 different pricing providers at any one time, Pinnacle Assets Trade is the forex CFD provider of choice for high volume traders, scalpers and robots who demand the tight spreads and best execution.</p>
-                   <!--  <p class="lead-3">Our Raw Pricing allows you to trade on institutional grade level, using pricing almost equal to the world’s leading execution venues. Executable Streaming Prices (ESP) are sent from our pricing provider so that clients can trade with no dealing desk, price manipulation or requotes. Due to the diverse mix comprising of up to 25 different pricing providers at any one time, Pinnacle Assets Trade is the forex CFD provider of choice for high volume traders, scalpers and robots who demand the tight spreads and best execution.</p> -->
+                    <p class="lead-3">Pinnacle Asset Trade is able to offer market best possible pricing and some of the best trading conditions through the MetaTrader 4 platform by providing clients with Raw Pricing.Our Raw Pricing allows you to trade on institutional grade level, using pricing almost equal to the world’s leading execution venues. Executable Streaming Prices (ESP) are sent from our pricing provider so that clients can trade with no dealing desk, price manipulation or requotes. Due to the diverse mix comprising of up to 25 different pricing providers at any one time, Pinnacle Asset Trade is the forex CFD provider of choice for high volume traders, scalpers and robots who demand the tight spreads and best execution.</p>
+                   <!--  <p class="lead-3">Our Raw Pricing allows you to trade on institutional grade level, using pricing almost equal to the world’s leading execution venues. Executable Streaming Prices (ESP) are sent from our pricing provider so that clients can trade with no dealing desk, price manipulation or requotes. Due to the diverse mix comprising of up to 25 different pricing providers at any one time, Pinnacle Asset Trade is the forex CFD provider of choice for high volume traders, scalpers and robots who demand the tight spreads and best execution.</p> -->
                     <h3 class="fw-700 mb-2">Fast Order Execution</h3>
-                    <p class="lead-3 mb-1">The Pinnacle Assets Trade MetaTrader 4 server is located in the Equinix NY4 data centre in New York. The NY4 data centre referred to as a financial ecosystem is home to over 600 buy and sell side firms, exchanges, trading venues, market data and service providers. The MetaTrader 4 server is cross connected to us and our pricing providers to ensure ultra low latency and the fast execution of your trades.</p>
-                    <p class="lead-3">The Pinnacle Assets Trade MetaTrader 4 server has latency on average of less than 1 millisecond to major VPS providers either collocated in the NY4 data centre or through dedicated lines to nearby data centres. This low latency is ideal for automated and High Frequency Trading and scalping.</p>
+                    <p class="lead-3 mb-1">The Pinnacle Asset Trade MetaTrader 4 server is located in the Equinix NY4 data centre in New York. The NY4 data centre referred to as a financial ecosystem is home to over 600 buy and sell side firms, exchanges, trading venues, market data and service providers. The MetaTrader 4 server is cross connected to us and our pricing providers to ensure ultra low latency and the fast execution of your trades.</p>
+                    <p class="lead-3">The Pinnacle Asset Trade MetaTrader 4 server has latency on average of less than 1 millisecond to major VPS providers either collocated in the NY4 data centre or through dedicated lines to nearby data centres. This low latency is ideal for automated and High Frequency Trading and scalping.</p>
                     <h3 class="fw-700 mb-2">No Restrictions on Trading</h3>
-                    <p class="lead-3 mb-1">Pinnacle Assets Trade MetaTrader 4 and 5 platforms have no restrictions on trading. We have some of the best trading conditions for scalping and high frequency trading globally, allowing traders to place orders between the spread as there is no minimum order distance and a freeze level of 0. This means orders including stop loss orders can be placed as close to the market price as you like.</p>
-                    <p class="lead-3">Traders can also hedge positions as there is no first in first out (FIFO) rule with Pinnacle Assets Trade. Please note that different hedge margin level and settings may be applied to different products and platforms.</p>
+                    <p class="lead-3 mb-1">Pinnacle Asset Trade MetaTrader 4 and 5 platforms have no restrictions on trading. We have some of the best trading conditions for scalping and high frequency trading globally, allowing traders to place orders between the spread as there is no minimum order distance and a freeze level of 0. This means orders including stop loss orders can be placed as close to the market price as you like.</p>
+                    <p class="lead-3">Traders can also hedge positions as there is no first in first out (FIFO) rule with Pinnacle Asset Trade. Please note that different hedge margin level and settings may be applied to different products and platforms.</p>
                     <h3 class="fw-700 mb-2">Spreads from 0.0 Pips</h3>
-                    <p class="lead-3 mb-1">Pinnacle Assets Trade boasts some of the tightest spreads of all forex CFD providers globally. Spreads start from 0.0 pips on the MetaTrader 4 platform with the average on EURUSD being 0.1 pips 24/5. This is currently the tightest average EURUSD spread globally.</p>
+                    <p class="lead-3 mb-1">Pinnacle Asset Trade boasts some of the tightest spreads of all forex CFD providers globally. Spreads start from 0.0 pips on the MetaTrader 4 platform with the average on EURUSD being 0.1 pips 24/5. This is currently the tightest average EURUSD spread globally.</p>
                     <p class="lead-3">Our diverse pricing mix from up to 25 different pricing providers means that we are always able to keep our spreads tight, especially during high volatility times such as news announcements.</p>
                 </div>
             </div>
@@ -214,12 +214,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2 class="mb-3">How to open an MetaTrader 4 account with Pinnacle Assets Trade?</h2>
+                    <h2 class="mb-3">How to open an MetaTrader 4 account with Pinnacle Asset Trade?</h2>
                     <p class="lead-3 mb-2 mb-md-5 pb-3 w-md-75 m-auto">Before you can start trading, you will need to open a Standard or Professional MetaTrader 4 account. Upon successful account registration, you will find your MetaTrader 4 account details listed in your Personal Area.</p>
                     <ul class="openAcc-steps">
                         <li>
                             <span>Step 01</span>
-                            Open an account with Pinnacle Assets Trade
+                            Open an account with Pinnacle Asset Trade
                         </li>
                         <li>
                             <span>Step 02</span>

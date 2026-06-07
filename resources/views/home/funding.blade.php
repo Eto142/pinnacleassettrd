@@ -8,7 +8,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
                     <h2 class="mb-2">Account Funding</h2>
-                    <p class="lead-3">Pinnacle Assets Trade offers over 15 flexible funding options in 10 different base currencies. Deposit instantly and for free using a range of methods.</p>
+                    <p class="lead-3">Pinnacle Asset Trade offers over 15 flexible funding options in 10 different base currencies. Deposit instantly and for free using a range of methods.</p>
                     <a id="funding_1" class="btn btn-primary" href="../open-trading-account/live.html">Fund your Account</a>
                     
                 </div>
@@ -590,15 +590,15 @@
                     <div class="col-md-12">
                         <h3 class="fw-600 mb-3">Payment process</h4>
                         
-                            <p class="lead-3">For faster processing we recommend that all account holders deposit funds into their trading account from inside their Secure Client Area. From your Secure Client Area you will be able to fund your account in real time using one of the instant funding methods. In certain instances, it may take up to an hour for deposits to be processed into the designated trading account. Such cases are outside of Pinnacle Assets Trade control, and we shall not be held liable for any losses or additional losses.</p>
+                            <p class="lead-3">For faster processing we recommend that all account holders deposit funds into their trading account from inside their Secure Client Area. From your Secure Client Area you will be able to fund your account in real time using one of the instant funding methods. In certain instances, it may take up to an hour for deposits to be processed into the designated trading account. Such cases are outside of Pinnacle Asset Trade control, and we shall not be held liable for any losses or additional losses.</p>
                         
                         <p class="lead-3">If you do not yet have access to our <a href='https://secure.icmarkets.com/Account/LogOn?ReturnUrl=%2f%3flang%3den&amp;lang=en'>Access Instructions</a> please follow the Access Instructions.</p>
                         <h3 class="fw-600 mb-3">Security of Funds</h4>
-                        <p class="lead-3">When funding your trading account, client money is held in Segregated Client Money Accounts with Top-Tier International Banks. Electronic payments are processed using SSL (Secure Socket Layer) technology and are encrypted to ensure security. All payment information is confidential and used only for the purpose of funding your trading account with Pinnacle Assets Trade.</p>
+                        <p class="lead-3">When funding your trading account, client money is held in Segregated Client Money Accounts with Top-Tier International Banks. Electronic payments are processed using SSL (Secure Socket Layer) technology and are encrypted to ensure security. All payment information is confidential and used only for the purpose of funding your trading account with Pinnacle Asset Trade.</p>
                         <h3 class="fw-600 mb-3">Bank Fees</h4>
-                        <p class="lead-3">Pinnacle Assets Trade does not charge any additional fees for deposits or withdrawals. You should however be aware that you may incur fees, such as intermediary fees, on payments to and from some international banking institutions. Pinnacle Assets Trade accepts no responsibility for any such bank fees.</p>
+                        <p class="lead-3">Pinnacle Asset Trade does not charge any additional fees for deposits or withdrawals. You should however be aware that you may incur fees, such as intermediary fees, on payments to and from some international banking institutions. Pinnacle Asset Trade accepts no responsibility for any such bank fees.</p>
                         <h3 class="fw-600 mb-3">Third Party Payments</h4>
-                        <p class="lead-3">Pinnacle Assets Trade does not accept payments from third parties. Please ensure that all deposits into your trading account come from a bank account in your name. Payments from Joint Bank Accounts / Credit Cards are accepted if the trading account holder is one of the parties on the Bank Account / Credit Card.</p>         
+                        <p class="lead-3">Pinnacle Asset Trade does not accept payments from third parties. Please ensure that all deposits into your trading account come from a bank account in your name. Payments from Joint Bank Accounts / Credit Cards are accepted if the trading account holder is one of the parties on the Bank Account / Credit Card.</p>         
                     </div>
                 </div>
             </div>
