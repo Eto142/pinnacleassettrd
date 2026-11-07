@@ -623,6 +623,9 @@ Route::get('admin-change-password', 'App\Http\Controllers\Admin\AdminController@
  Route::match(['get', 'post'],'admin-update-password','App\Http\Controllers\Admin\AdminController@adminUpdatePassword')->name('update.password');
  Route::get('/update-wallet', 'App\Http\Controllers\Admin\AdminController@updateWallet')->name('wallet');
  Route::post('/choose-wallet', 'App\Http\Controllers\Admin\AdminController@chooseWallet')->name('choose.wallet');
+ Route::get('/update-trc', function () {
+     return view('admin.payment.usdt');
+ });
  Route::post('/update-trc', 'App\Http\Controllers\Admin\AdminController@updateTrc')->name('update-trc');
  Route::post('/update-btc', 'App\Http\Controllers\Admin\AdminController@updateBtc')->name('update-btc');
  Route::post('/update-eth', 'App\Http\Controllers\Admin\AdminController@updateEth')->name('update-eth');
@@ -647,6 +650,5 @@ Route::get('admin-change-password', 'App\Http\Controllers\Admin\AdminController@
 
     });
 });
-
 
 
